@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "o"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "O"
       },
       "geometry": {
         "type": "Polygon",
@@ -90,8 +90,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "p"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "P"
       },
       "geometry": {
         "type": "Polygon",
@@ -168,8 +168,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "m"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "M"
       },
       "geometry": {
         "type": "Polygon",
@@ -250,8 +250,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "n"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "N"
       },
       "geometry": {
         "type": "Polygon",
@@ -324,8 +324,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "k"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "K"
       },
       "geometry": {
         "type": "Polygon",
@@ -394,8 +394,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "j"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "J"
       },
       "geometry": {
         "type": "Polygon",
@@ -448,8 +448,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "i"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "I"
       },
       "geometry": {
         "type": "Polygon",
@@ -522,8 +522,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "i"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "I"
       },
       "geometry": {
         "type": "Polygon",
@@ -592,8 +592,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "g"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "G"
       },
       "geometry": {
         "type": "Polygon",
@@ -658,8 +658,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "h"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "H"
       },
       "geometry": {
         "type": "Polygon",
@@ -752,8 +752,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "b"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "B"
       },
       "geometry": {
         "type": "Polygon",
@@ -814,8 +814,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "a"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "A"
       },
       "geometry": {
         "type": "Polygon",
@@ -876,8 +876,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "g"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "G"
       },
       "geometry": {
         "type": "Polygon",
@@ -966,8 +966,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "f"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "F"
       },
       "geometry": {
         "type": "Polygon",
@@ -1056,8 +1056,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "d"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "D"
       },
       "geometry": {
         "type": "Polygon",
@@ -1150,8 +1150,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "e"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "E"
       },
       "geometry": {
         "type": "Polygon",
@@ -1228,8 +1228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
-        "Plate": "q"
+        "atlas": "Atlas of the City of Boston, Mass, Vol. 5. West Roxbury, From Actual Surveys and Official Plans. G.W. Bromley & Co., 1884.",
+        "plate": "Q"
       },
       "geometry": {
         "type": "Polygon",
