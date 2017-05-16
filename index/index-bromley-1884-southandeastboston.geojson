@@ -66,9 +66,9 @@
         ]
       },
       "properties": {
-        "name": "Plate A",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52020"
+        "url": "http://maps.bpl.org/id/n52020",
+        "plate": "Plate A"
       }
     },
     {
@@ -146,9 +146,9 @@
         ]
       },
       "properties": {
-        "name": "Plate B",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52021"
+        "url": "http://maps.bpl.org/id/n52021",
+        "plate": "Plate B"
       }
     },
     {
@@ -276,9 +276,9 @@
         ]
       },
       "properties": {
-        "name": "Plate C",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52022"
+        "url": "http://maps.bpl.org/id/n52022",
+        "plate": "Plate C"
       }
     },
     {
@@ -396,9 +396,9 @@
         ]
       },
       "properties": {
-        "name": "Plate D",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52023"
+        "url": "http://maps.bpl.org/id/n52023",
+        "plate": "Plate D"
       }
     },
     {
@@ -521,9 +521,9 @@
         ]
       },
       "properties": {
-        "name": "Plate E",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52024"
+        "url": "http://maps.bpl.org/id/n52024",
+        "plate": "Plate E"
       }
     },
     {
@@ -591,9 +591,9 @@
         ]
       },
       "properties": {
-        "name": "Plate F",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52025"
+        "url": "http://maps.bpl.org/id/n52025",
+        "plate": "Plate F"
       }
     },
     {
@@ -661,9 +661,9 @@
         ]
       },
       "properties": {
-        "name": "Plate G",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52026"
+        "url": "http://maps.bpl.org/id/n52026",
+        "plate": "Plate G"
       }
     },
     {
@@ -716,9 +716,9 @@
         ]
       },
       "properties": {
-        "name": "Plate H",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52027"
+        "url": "http://maps.bpl.org/id/n52027",
+        "plate": "Plate H"
       }
     },
     {
@@ -771,9 +771,9 @@
         ]
       },
       "properties": {
-        "name": "Plate I",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52028"
+        "url": "http://maps.bpl.org/id/n52028",
+        "plate": "Plate I"
       }
     },
     {
@@ -841,9 +841,9 @@
         ]
       },
       "properties": {
-        "name": "Plate J",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52029"
+        "url": "http://maps.bpl.org/id/n52029",
+        "plate": "Plate J"
       }
     },
     {
@@ -916,9 +916,9 @@
         ]
       },
       "properties": {
-        "name": "Plate K",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52030"
+        "url": "http://maps.bpl.org/id/n52030",
+        "plate": "Plate K"
       }
     },
     {
@@ -975,9 +975,9 @@
         ]
       },
       "properties": {
-        "name": "Plate L",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52031"
+        "url": "http://maps.bpl.org/id/n52031",
+        "plate": "Plate L"
       }
     },
     {
@@ -1046,9 +1046,9 @@
         ]
       },
       "properties": {
-        "name": "Plate M",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52032"
+        "url": "http://maps.bpl.org/id/n52032",
+        "plate": "Plate M"
       }
     },
     {
@@ -1137,9 +1137,9 @@
         ]
       },
       "properties": {
-        "name": "Plate N",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52033"
+        "url": "http://maps.bpl.org/id/n52033",
+        "plate": "Plate N"
       }
     },
     {
@@ -1244,9 +1244,9 @@
         ]
       },
       "properties": {
-        "name": "Plate O",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52034"
+        "url": "http://maps.bpl.org/id/n52034",
+        "plate": "Plate O"
       }
     },
     {
@@ -1331,9 +1331,9 @@
         ]
       },
       "properties": {
-        "name": "Plate P",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52035"
+        "url": "http://maps.bpl.org/id/n52035",
+        "plate": "Plate P"
       }
     },
     {
@@ -1390,9 +1390,9 @@
         ]
       },
       "properties": {
-        "name": "Plate Q",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52036"
+        "url": "http://maps.bpl.org/id/n52036",
+        "plate": "Plate Q"
       }
     },
     {
@@ -1477,9 +1477,9 @@
         ]
       },
       "properties": {
-        "name": "Plate R",
         "atlas": "Atlas of the City of Boston, Mass, Vol. 4. South and East Boston, From Actual Surveys and Official Plans, published by G.W. Bromley, 1884.",
-        "url": "http://maps.bpl.org/id/n52037"
+        "url": "http://maps.bpl.org/id/n52037",
+        "plate": "Plate R"
       }
     }
   ]
