@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 1
+        "plate": 1,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt79h"
       },
       "geometry": {
         "type": "Polygon",
@@ -119,7 +120,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 2
+        "plate": 2,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt81j"
       },
       "geometry": {
         "type": "Polygon",
@@ -233,7 +235,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 3
+        "plate": 3,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt833"
       },
       "geometry": {
         "type": "Polygon",
@@ -339,7 +342,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 5
+        "plate": 5,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt876"
       },
       "geometry": {
         "type": "Polygon",
@@ -405,7 +409,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 6
+        "plate": 6,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt89r"
       },
       "geometry": {
         "type": "Polygon",
@@ -507,7 +512,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 7
+        "plate": 7,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt91s"
       },
       "geometry": {
         "type": "Polygon",
@@ -617,7 +623,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 8
+        "plate": 8,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt93b"
       },
       "geometry": {
         "type": "Polygon",
@@ -679,7 +686,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 9
+        "plate": 9,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt95w"
       },
       "geometry": {
         "type": "Polygon",
@@ -769,7 +777,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 10
+        "plate": 10,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt97f"
       },
       "geometry": {
         "type": "Polygon",
@@ -823,7 +832,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 11
+        "plate": 11,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt990"
       },
       "geometry": {
         "type": "Polygon",
@@ -897,7 +907,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 12
+        "plate": 12,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv01t"
       },
       "geometry": {
         "type": "Polygon",
@@ -975,7 +986,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 13
+        "plate": 13,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv03c"
       },
       "geometry": {
         "type": "Polygon",
@@ -1077,7 +1089,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 14
+        "plate": 14,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv05x"
       },
       "geometry": {
         "type": "Polygon",
@@ -1123,7 +1136,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 17
+        "plate": 17,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv112"
       },
       "geometry": {
         "type": "Polygon",
@@ -1209,7 +1223,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 18
+        "plate": 18,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv13m"
       },
       "geometry": {
         "type": "Polygon",
@@ -1299,7 +1314,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 19
+        "plate": 19,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv155"
       },
       "geometry": {
         "type": "Polygon",
@@ -1429,7 +1445,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 4
+        "plate": 4,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bt85n"
       },
       "geometry": {
         "type": "Polygon",
@@ -1499,7 +1516,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 20
+        "plate": 20,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv17q"
       },
       "geometry": {
         "type": "Polygon",
@@ -1601,7 +1619,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 21
+        "plate": 21,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv198"
       },
       "geometry": {
         "type": "Polygon",
@@ -1723,7 +1742,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 22
+        "plate": 22,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv219"
       },
       "geometry": {
         "type": "Polygon",
@@ -1805,7 +1825,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 23
+        "plate": 23,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv23v"
       },
       "geometry": {
         "type": "Polygon",
@@ -1875,7 +1896,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 24
+        "plate": 24,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv25d"
       },
       "geometry": {
         "type": "Polygon",
@@ -1937,7 +1959,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 25
+        "plate": 25,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv27z"
       },
       "geometry": {
         "type": "Polygon",
@@ -2015,7 +2038,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 26
+        "plate": 26,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv29h"
       },
       "geometry": {
         "type": "Polygon",
@@ -2081,7 +2105,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 27
+        "plate": 27,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv31j"
       },
       "geometry": {
         "type": "Polygon",
@@ -2163,7 +2188,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 28
+        "plate": 28,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv333"
       },
       "geometry": {
         "type": "Polygon",
@@ -2245,7 +2271,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 29
+        "plate": 29,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv35n"
       },
       "geometry": {
         "type": "Polygon",
@@ -2303,7 +2330,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 30
+        "plate": 30,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv376"
       },
       "geometry": {
         "type": "Polygon",
@@ -2385,7 +2413,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 31
+        "plate": 31,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv39r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2463,7 +2492,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 32
+        "plate": 32,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv41s"
       },
       "geometry": {
         "type": "Polygon",
@@ -2569,7 +2599,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 33
+        "plate": 33,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv43b"
       },
       "geometry": {
         "type": "Polygon",
@@ -2663,7 +2694,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 16
+        "plate": 16,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv091"
       },
       "geometry": {
         "type": "Polygon",
@@ -2709,7 +2741,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the City of Boston, Charlestown and East Boston : From Actual Surveys and Official Plans, 1912",
-        "plate": 15
+        "plate": 15,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bv07g"
       },
       "geometry": {
         "type": "Polygon",
