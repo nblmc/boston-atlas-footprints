@@ -11,7 +11,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 1
+        "plate": 1,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c085v"
       },
       "geometry": {
         "type": "Polygon",
@@ -125,7 +126,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 2
+        "plate": 2,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c087d"
       },
       "geometry": {
         "type": "Polygon",
@@ -239,7 +241,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 3
+        "plate": 3,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c089z"
       },
       "geometry": {
         "type": "Polygon",
@@ -345,7 +348,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 5
+        "plate": 5,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c093j"
       },
       "geometry": {
         "type": "Polygon",
@@ -411,7 +415,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 6
+        "plate": 6,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0953"
       },
       "geometry": {
         "type": "Polygon",
@@ -513,7 +518,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 7
+        "plate": 7,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c097n"
       },
       "geometry": {
         "type": "Polygon",
@@ -623,7 +629,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 8
+        "plate": 8,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0996"
       },
       "geometry": {
         "type": "Polygon",
@@ -685,7 +692,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 9
+        "plate": 9,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1011"
       },
       "geometry": {
         "type": "Polygon",
@@ -775,7 +783,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 10
+        "plate": 10,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c103k"
       },
       "geometry": {
         "type": "Polygon",
@@ -829,7 +838,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 11
+        "plate": 11,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1054"
       },
       "geometry": {
         "type": "Polygon",
@@ -903,7 +913,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 12
+        "plate": 12,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c107p"
       },
       "geometry": {
         "type": "Polygon",
@@ -981,7 +992,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 13
+        "plate": 13,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1097"
       },
       "geometry": {
         "type": "Polygon",
@@ -1083,7 +1095,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 14
+        "plate": 14,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1118"
       },
       "geometry": {
         "type": "Polygon",
@@ -1129,7 +1142,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 17
+        "plate": 17,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c117x"
       },
       "geometry": {
         "type": "Polygon",
@@ -1215,7 +1229,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 18
+        "plate": 18,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c119g"
       },
       "geometry": {
         "type": "Polygon",
@@ -1305,7 +1320,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 19
+        "plate": 19,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c121h"
       },
       "geometry": {
         "type": "Polygon",
@@ -1435,7 +1451,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 4
+        "plate": 4,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0910"
       },
       "geometry": {
         "type": "Polygon",
@@ -1505,7 +1522,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 20
+        "plate": 20,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1232"
       },
       "geometry": {
         "type": "Polygon",
@@ -1607,7 +1625,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 21
+        "plate": 21,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c125m"
       },
       "geometry": {
         "type": "Polygon",
@@ -1729,7 +1748,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 22
+        "plate": 22,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1275"
       },
       "geometry": {
         "type": "Polygon",
@@ -1811,7 +1831,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 23
+        "plate": 23,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c129q"
       },
       "geometry": {
         "type": "Polygon",
@@ -1881,7 +1902,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 24
+        "plate": 24,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c131r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1943,7 +1965,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 25
+        "plate": 25,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1339"
       },
       "geometry": {
         "type": "Polygon",
@@ -2021,7 +2044,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 26
+        "plate": 26,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c135v"
       },
       "geometry": {
         "type": "Polygon",
@@ -2087,7 +2111,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 27
+        "plate": 27,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c137d"
       },
       "geometry": {
         "type": "Polygon",
@@ -2169,7 +2194,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 28
+        "plate": 28,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c139z"
       },
       "geometry": {
         "type": "Polygon",
@@ -2251,7 +2277,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 29
+        "plate": 29,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1410"
       },
       "geometry": {
         "type": "Polygon",
@@ -2309,7 +2336,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 30
+        "plate": 30,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c143j"
       },
       "geometry": {
         "type": "Polygon",
@@ -2391,7 +2419,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 31
+        "plate": 31,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1453"
       },
       "geometry": {
         "type": "Polygon",
@@ -2469,7 +2498,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 32
+        "plate": 32,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c147n"
       },
       "geometry": {
         "type": "Polygon",
@@ -2575,7 +2605,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 33
+        "plate": 33,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c1496"
       },
       "geometry": {
         "type": "Polygon",
@@ -2669,7 +2700,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 16
+        "plate": 16,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c115c"
       },
       "geometry": {
         "type": "Polygon",
@@ -2715,7 +2747,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Atlas of the city of Boston : Charlestown and East Boston : from actual surveys and official plans, published by G.W. Bromley, 1922\t",
-        "plate": 15
+        "plate": 15,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c113t"
       },
       "geometry": {
         "type": "Polygon",
