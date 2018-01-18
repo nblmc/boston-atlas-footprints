@@ -62,7 +62,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 1
+        "plate": 1,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c013m"
       }
     },
     {
@@ -121,81 +122,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -71.03987342302112,
-              42.35352228057093,
-              0
-            ],
-            [
-              -71.0422513411795,
-              42.35022701611689,
-              0
-            ],
-            [
-              -71.04549582791516,
-              42.347960603662,
-              0
-            ],
-            [
-              -71.05171435402418,
-              42.34268766264291,
-              0
-            ],
-            [
-              -71.0470700234809,
-              42.33970958185024,
-              0
-            ],
-            [
-              -71.04326680962944,
-              42.34296907083736,
-              0
-            ],
-            [
-              -71.0421655554884,
-              42.34232590101639,
-              0
-            ],
-            [
-              -71.03951886663559,
-              42.34244872535189,
-              0
-            ],
-            [
-              -71.03388465133338,
-              42.34711386612388,
-              0
-            ],
-            [
-              -71.03088231944005,
-              42.35013160227415,
-              0
-            ],
-            [
-              -71.03986836694818,
-              42.35352928674006,
-              0
-            ],
-            [
-              -71.03987342302112,
-              42.35352228057093,
-              0
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 3
+        "plate": 2,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0155"
       }
     },
     {
@@ -249,7 +177,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 4
+        "plate": 4,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0198"
       }
     },
     {
@@ -308,7 +237,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 5
+        "plate": 5,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0219"
       }
     },
     {
@@ -357,7 +287,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 6
+        "plate": 6,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c023v"
       }
     },
     {
@@ -406,7 +337,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 7
+        "plate": 7,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c025d"
       }
     },
     {
@@ -450,7 +382,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 8
+        "plate": 8,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c027z"
       }
     },
     {
@@ -489,7 +422,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 9
+        "plate": 9,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c029h"
       }
     },
     {
@@ -533,7 +467,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 10
+        "plate": 10,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c031j"
       }
     },
     {
@@ -587,7 +522,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 11
+        "plate": 11,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0333"
       }
     },
     {
@@ -646,7 +582,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 12
+        "plate": 12,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c035n"
       }
     },
     {
@@ -732,7 +669,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 13
+        "plate": 13,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0376"
       }
     },
     {
@@ -805,7 +743,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 14
+        "plate": 14,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c039r"
       }
     },
     {
@@ -872,7 +811,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 15
+        "plate": 15,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c041s"
       }
     },
     {
@@ -925,7 +865,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 16
+        "plate": 16,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c043b"
       }
     },
     {
@@ -984,7 +925,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 17
+        "plate": 17,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c045w"
       }
     },
     {
@@ -1033,7 +975,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 18
+        "plate": 18,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c047f"
       }
     },
     {
@@ -1082,7 +1025,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 19
+        "plate": 19,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0490"
       }
     },
     {
@@ -1131,7 +1075,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 20
+        "plate": 20,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0511"
       }
     },
     {
@@ -1180,7 +1125,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 21
+        "plate": 21,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c053k"
       }
     },
     {
@@ -1239,7 +1185,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 22
+        "plate": 22,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0554"
       }
     },
     {
@@ -1288,7 +1235,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 23
+        "plate": 23,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c057p"
       }
     },
     {
@@ -1337,7 +1285,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 24
+        "plate": 24,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0597"
       }
     },
     {
@@ -1386,7 +1335,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 25
+        "plate": 25,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0618"
       }
     },
     {
@@ -1440,7 +1390,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 26
+        "plate": 26,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c063t"
       }
     },
     {
@@ -1504,7 +1455,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 27
+        "plate": 27,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c065c"
       }
     },
     {
@@ -1520,12 +1472,7 @@
             ],
             [
               -71.02531148973063,
-              42.34245098285268,
-              0
-            ],
-            [
-              -71.03054721289443,
-              42.3430584607215,
+              42.3418,
               0
             ],
             [
@@ -1558,7 +1505,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 28
+        "plate": 28,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c067x"
       }
     },
     {
@@ -1632,7 +1580,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 29
+        "plate": 29,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c069g"
       }
     },
     {
@@ -1696,7 +1645,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 30
+        "plate": 30,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c071h"
       }
     },
     {
@@ -1765,7 +1715,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 31
+        "plate": 31,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0732"
       }
     },
     {
@@ -1824,7 +1775,8 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 32
+        "plate": 32,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c075m"
       }
     },
     {
@@ -1880,7 +1832,126 @@
       },
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
-        "plate": 33
+        "plate": 33,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c0775"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
+        "plate": 3,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c017q"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.0517168045044,
+              42.342685919682445
+            ],
+            [
+              -71.04706048965454,
+              42.33971209968983
+            ],
+            [
+              -71.04328393936157,
+              42.342987258926556
+            ],
+            [
+              -71.04212522506714,
+              42.34232113866506
+            ],
+            [
+              -71.03950738906859,
+              42.34246387931521
+            ],
+            [
+              -71.034,
+              42.347
+            ],
+            [
+              -71.04223251342773,
+              42.35021896750067
+            ],
+            [
+              -71.04549407958984,
+              42.34796707727029
+            ],
+            [
+              -71.0517168045044,
+              42.342685919682445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "atlas": "Atlas of the city of Boston : South Boston, published by G.W. Bromley & Co., 1919",
+        "plate": 34,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257c079q"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.04221105575562,
+              42.350234825596495
+            ],
+            [
+              -71.03397130966187,
+              42.34703140901506
+            ],
+            [
+              -71.03798389434814,
+              42.34368509163107
+            ],
+            [
+              -71.03562355041504,
+              42.34168673185481
+            ],
+            [
+              -71.02528095245361,
+              42.34182947394521
+            ],
+            [
+              -71.02491617202759,
+              42.33228090002311
+            ],
+            [
+              -71.01532459259033,
+              42.3302821778095
+            ],
+            [
+              -71.00910186767578,
+              42.33672227754668
+            ],
+            [
+              -71.00996017456055,
+              42.33938695350778
+            ],
+            [
+              -71.0141658782959,
+              42.34211495715386
+            ],
+            [
+              -71.01502418518066,
+              42.343954706737975
+            ],
+            [
+              -71.0398507118225,
+              42.35354907982897
+            ],
+            [
+              -71.04221105575562,
+              42.350234825596495
+            ]
+          ]
+        ]
       }
     }
   ]
