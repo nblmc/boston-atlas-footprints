@@ -52,7 +52,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52058",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 1
       }
     },
@@ -117,7 +117,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52059",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 2
       }
     },
@@ -192,7 +192,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52060",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 3
       }
     },
@@ -272,7 +272,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52061",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 4
       }
     },
@@ -347,7 +347,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52062",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 5
       }
     },
@@ -378,8 +378,8 @@
               0
             ],
             [
-              -71.0663527707839,
-              42.36474714694275,
+              -71.06620728530886,
+              42.3656,
               0
             ],
             [
@@ -422,7 +422,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52063",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 6
       }
     },
@@ -443,13 +443,13 @@
               0
             ],
             [
-              -71.06362149628993,
-              42.36675915101219,
+              -71.06242149628993,
+              42.36755915101219,
               0
             ],
             [
-              -71.06577801619927,
-              42.36846092707546,
+              -71.0638801619927,
+              42.36906092707546,
               0
             ],
             [
@@ -473,8 +473,8 @@
               0
             ],
             [
-              -71.06634728530886,
-              42.36475091798779,
+              -71.06620728530886,
+              42.3656,
               0
             ],
             [
@@ -492,7 +492,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52064",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 7
       }
     },
@@ -503,18 +503,8 @@
         "coordinates": [
           [
             [
-              -71.06580453643498,
-              42.36846541930511,
-              0
-            ],
-            [
-              -71.06579332176048,
-              42.3684635196662,
-              0
-            ],
-            [
-              -71.06362198091537,
-              42.36675953345984,
+              -71.06240754229417,
+              42.36755069146927,
               0
             ],
             [
@@ -548,18 +538,8 @@
               0
             ],
             [
-              -71.06160754229417,
-              42.36680269146927,
-              0
-            ],
-            [
-              -71.06337769827229,
-              42.36857332358118,
-              0
-            ],
-            [
-              -71.06580453643498,
-              42.36846541930511,
+              -71.06240754229417,
+              42.36755069146927,
               0
             ]
           ]
@@ -567,7 +547,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52065",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 8
       }
     },
@@ -637,7 +617,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52066",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 9
       }
     },
@@ -732,7 +712,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52067",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 10
       }
     },
@@ -837,7 +817,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52068",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 11
       }
     },
@@ -937,7 +917,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52069",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 12
       }
     },
@@ -1027,7 +1007,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52070",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 13
       }
     },
@@ -1162,7 +1142,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52071",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 14
       }
     },
@@ -1267,7 +1247,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52072",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 15
       }
     },
@@ -1377,7 +1357,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52073",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 16
       }
     },
@@ -1422,7 +1402,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52074",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 17
       }
     },
@@ -1542,7 +1522,7 @@
       },
       "properties": {
         "url": "http://maps.bpl.org/id/n52075",
-        "atlas": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 18
       }
     },
@@ -1636,8 +1616,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52076",
+        "url": "http://maps.bpl.org/id/n52076",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 19
       }
     },
@@ -1716,8 +1696,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52077",
+        "url": "http://maps.bpl.org/id/n52077",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 20
       }
     },
@@ -1791,8 +1771,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52078",
+        "url": "http://maps.bpl.org/id/n52078",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 21
       }
     },
@@ -1886,8 +1866,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52079",
+        "url": "http://maps.bpl.org/id/n52079",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 22
       }
     },
@@ -1991,8 +1971,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52080",
+        "url": "http://maps.bpl.org/id/n52080",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 23
       }
     },
@@ -2061,8 +2041,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52081",
+        "url": "http://maps.bpl.org/id/n52081",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 24
       }
     },
@@ -2121,8 +2101,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52082",
+        "url": "http://maps.bpl.org/id/n52082",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 25
       }
     },
@@ -2186,8 +2166,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52083",
+        "url": "http://maps.bpl.org/id/n52083",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 26
       }
     },
@@ -2266,8 +2246,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52084",
+        "url": "http://maps.bpl.org/id/n52084",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 27
       }
     },
@@ -2341,8 +2321,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52085",
+        "url": "http://maps.bpl.org/id/n52085",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 28
       }
     },
@@ -2426,8 +2406,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52086",
+        "url": "http://maps.bpl.org/id/n52086",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 29
       }
     },
@@ -2506,8 +2486,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52087",
+        "url": "http://maps.bpl.org/id/n52087",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 30
       }
     },
@@ -2556,8 +2536,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52088",
+        "url": "http://maps.bpl.org/id/n52088",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 31
       }
     },
@@ -2626,8 +2606,8 @@
         ]
       },
       "properties": {
-        "url": "Atlas of the City of Boston. City Proper, Vol. 1 : from actual surveys and official records, published by Geo. W. and Walter S. Bromley, 1888",
-        "atlas": "http://maps.bpl.org/id/n52089",
+        "url": "http://maps.bpl.org/id/n52089",
+        "atlas": "Atlas of the city of Boston : city proper, vol. 1. (Geo. W. and Walter S. Bromley, 1888)",
         "plate": 32
       }
     }
