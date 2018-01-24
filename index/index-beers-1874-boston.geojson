@@ -2440,8 +2440,8 @@
     {
       "type": "Feature",
       "properties": {
-        "plate": "Fire insurance district atlas showing the fire insurance districts of the city of Boston. (F.W. Beers & Co., 1874)",
-        "atlas": 20
+        "plate": 20,
+        "atlas": "Fire insurance district atlas showing the fire insurance districts of the city of Boston. (F.W. Beers & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2610,8 +2610,8 @@
     {
       "type": "Feature",
       "properties": {
-        "plate": "Fire insurance district atlas showing the fire insurance districts of the city of Boston. (F.W. Beers & Co., 1874)",
-        "atlas": 27
+        "plate": 27,
+        "atlas": "Fire insurance district atlas showing the fire insurance districts of the city of Boston. (F.W. Beers & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2872,8 +2872,8 @@
     {
       "type": "Feature",
       "properties": {
-        "plate": "Fire insurance district atlas showing the fire insurance districts of the city of Boston. (F.W. Beers & Co., 1874)",
-        "atlas": 16
+        "plate": 16,
+        "atlas": "Fire insurance district atlas showing the fire insurance districts of the city of Boston. (F.W. Beers & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
