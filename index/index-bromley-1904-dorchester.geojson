@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 1,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp41r",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 1,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp41r"
       },
       "geometry": {
         "type": "Polygon",
@@ -191,9 +191,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 2,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp439",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 2,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp439"
       },
       "geometry": {
         "type": "Polygon",
@@ -334,9 +334,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 3,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp45v",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 3,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp45v"
       },
       "geometry": {
         "type": "Polygon",
@@ -425,9 +425,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 4,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp47d",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 4,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp47d"
       },
       "geometry": {
         "type": "Polygon",
@@ -568,9 +568,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 5,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp49z",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 5,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp49z"
       },
       "geometry": {
         "type": "Polygon",
@@ -683,9 +683,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 6,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp510",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 6,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp510"
       },
       "geometry": {
         "type": "Polygon",
@@ -810,9 +810,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 7,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp53j",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 7,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp53j"
       },
       "geometry": {
         "type": "Polygon",
@@ -969,9 +969,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 8,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp553",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 8,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp553"
       },
       "geometry": {
         "type": "Polygon",
@@ -1144,9 +1144,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 9,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp57n",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 9,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp57n"
       },
       "geometry": {
         "type": "Polygon",
@@ -1195,9 +1195,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 10,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp596",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 10,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp596"
       },
       "geometry": {
         "type": "Polygon",
@@ -1382,9 +1382,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 11,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp617",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 11,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp617"
       },
       "geometry": {
         "type": "Polygon",
@@ -1561,9 +1561,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 12,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp63s",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 12,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp63s"
       },
       "geometry": {
         "type": "Polygon",
@@ -1728,9 +1728,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 13,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp65b",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 13,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp65b"
       },
       "geometry": {
         "type": "Polygon",
@@ -1875,9 +1875,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 14,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp67w",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 14,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp67w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2062,9 +2062,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 15,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp69f",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 15,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp69f"
       },
       "geometry": {
         "type": "Polygon",
@@ -2221,9 +2221,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 16,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp71g",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 16,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp71g"
       },
       "geometry": {
         "type": "Polygon",
@@ -2432,9 +2432,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 17,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp731",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 17,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp731"
       },
       "geometry": {
         "type": "Polygon",
@@ -2599,9 +2599,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 18,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp75k",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 18,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp75k"
       },
       "geometry": {
         "type": "Polygon",
@@ -2778,9 +2778,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 19,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp774",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 19,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp774"
       },
       "geometry": {
         "type": "Polygon",
@@ -2885,9 +2885,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 20,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp79p",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 20,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp79p"
       },
       "geometry": {
         "type": "Polygon",
@@ -2996,9 +2996,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 21,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp81q",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 21,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp81q"
       },
       "geometry": {
         "type": "Polygon",
@@ -3139,9 +3139,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 22,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp838",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 22,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp838"
       },
       "geometry": {
         "type": "Polygon",
@@ -3294,9 +3294,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 23,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp85t",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 23,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp85t"
       },
       "geometry": {
         "type": "Polygon",
@@ -3457,9 +3457,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 24,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp87c",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 24,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp87c"
       },
       "geometry": {
         "type": "Polygon",
@@ -3640,9 +3640,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 25,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp89x",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 25,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp89x"
       },
       "geometry": {
         "type": "Polygon",
@@ -3855,9 +3855,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 26,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp91z",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 26,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp91z"
       },
       "geometry": {
         "type": "Polygon",
@@ -3986,9 +3986,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 27,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp93h",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 27,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp93h"
       },
       "geometry": {
         "type": "Polygon",
@@ -4221,9 +4221,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 28,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp952",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 28,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp952"
       },
       "geometry": {
         "type": "Polygon",
@@ -4388,9 +4388,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 29,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp97m",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 29,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp97m"
       },
       "geometry": {
         "type": "Polygon",
@@ -4519,9 +4519,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 30,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bp995",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 30,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bp995"
       },
       "geometry": {
         "type": "Polygon",
@@ -4682,9 +4682,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 31,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq010",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 31,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq010"
       },
       "geometry": {
         "type": "Polygon",
@@ -4777,9 +4777,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 32,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq03j",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 32,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq03j"
       },
       "geometry": {
         "type": "Polygon",
@@ -4836,9 +4836,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 33,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq053",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 33,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq053"
       },
       "geometry": {
         "type": "Polygon",
@@ -5019,9 +5019,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 34,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq07n",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 34,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq07n"
       },
       "geometry": {
         "type": "Polygon",
@@ -5222,9 +5222,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 35,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq096",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 35,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq096"
       },
       "geometry": {
         "type": "Polygon",
@@ -5369,9 +5369,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 36,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq117",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 36,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq117"
       },
       "geometry": {
         "type": "Polygon",
@@ -5588,9 +5588,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 37,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq13s",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 37,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq13s"
       },
       "geometry": {
         "type": "Polygon",
@@ -5855,9 +5855,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 38,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq15b",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 38,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq15b"
       },
       "geometry": {
         "type": "Polygon",
@@ -6078,9 +6078,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 39,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq17w",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 39,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq17w"
       },
       "geometry": {
         "type": "Polygon",
@@ -6497,9 +6497,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Plate": 40,
-        "URL": "https://collections.leventhalmap.org/search/commonwealth:1257bq19f",
-        "Atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)"
+        "atlas": "Atlas of the city of Boston : Dorchester, Mass. (G.W. Bromley, 1904)",
+        "plate": 40,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:1257bq19f"
       },
       "geometry": {
         "type": "Polygon",
