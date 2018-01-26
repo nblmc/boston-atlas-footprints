@@ -96,7 +96,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 1,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb267"
       }
@@ -231,7 +231,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 2,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb28s"
       }
@@ -376,7 +376,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 3,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb30t"
       }
@@ -536,7 +536,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 4,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb32c"
       }
@@ -613,23 +613,27 @@
               0
             ],
             [
-              -71.089639,
-              42.330283,
+              -71.08970761299133,
+              42.330298040934245,
               0
             ],
             [
-              -71.091053,
-              42.330108,
+              -71.08888149261475,
+              42.33037339072217
+            ],
+            [
+              -71.08898341655731,
+              42.329596093835924,
               0
             ],
             [
-              -71.091222,
-              42.329933,
+              -71.08897805213928,
+              42.329596093835924,
               0
             ],
             [
-              -71.090323,
-              42.329622,
+              -71.08900487422943,
+              42.3294255631322,
               0
             ],
             [
@@ -646,7 +650,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 5,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb34x"
       }
@@ -713,13 +717,33 @@
               0
             ],
             [
-              -71.091053,
-              42.330108,
+              -71.09167367219925,
+              42.330167170035416
+            ],
+            [
+              -71.09135448932648,
+              42.330004572478806
+            ],
+            [
+              -71.09102189540863,
+              42.3298598206418
+            ],
+            [
+              -71.09020113945007,
+              42.32958816218553
+            ],
+            [
+              -71.08900487422943,
+              42.3294255631322
+            ],
+            [
+              -71.08887881040572,
+              42.33037140783416,
               0
             ],
             [
-              -71.089639,
-              42.330283,
+              -71.08970761299133,
+              42.33030002382455,
               0
             ],
             [
@@ -746,7 +770,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 6,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb36g"
       }
@@ -831,7 +855,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 7,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb37r"
       }
@@ -921,7 +945,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 8,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb381"
       }
@@ -1006,7 +1030,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 9,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb399"
       }
@@ -1081,7 +1105,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 10,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb402"
       }
@@ -1146,7 +1170,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 11,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb42m"
       }
@@ -1206,7 +1230,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 12,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb445"
       }
@@ -1336,7 +1360,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 13,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb46q"
       }
@@ -1481,7 +1505,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 14,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb488"
       }
@@ -1566,7 +1590,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 15,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb49j"
       }
@@ -1641,7 +1665,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 16,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb51k"
       }
@@ -1726,7 +1750,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 17,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb534"
       }
@@ -1831,7 +1855,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 18,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb54d"
       }
@@ -1981,7 +2005,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 19,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb55p"
       }
@@ -2131,7 +2155,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 20,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb577"
       }
@@ -2256,7 +2280,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 21,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb58h"
       }
@@ -2271,6 +2295,14 @@
               -71.10868,
               42.321403,
               0
+            ],
+            [
+              -71.10605835914612,
+              42.3192603050147
+            ],
+            [
+              -71.10514104366302,
+              42.31927617091881
             ],
             [
               -71.103729,
@@ -2396,7 +2428,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 22,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb60j"
       }
@@ -2409,174 +2441,141 @@
           [
             [
               -71.097115,
-              42.331772,
-              0
+              42.331771999999994
             ],
             [
               -71.097662,
-              42.330688,
-              0
+              42.33068800000001
             ],
             [
               -71.097946,
-              42.330493,
-              0
+              42.330493000000004
             ],
             [
               -71.09848,
-              42.33006,
-              0
+              42.330059999999996
             ],
             [
               -71.098784,
-              42.329659,
-              0
+              42.329659000000014
             ],
             [
               -71.099007,
-              42.328747,
-              0
+              42.32874699999999
             ],
             [
               -71.099314,
-              42.328067,
-              0
+              42.328067000000004
             ],
             [
               -71.0974,
-              42.32747,
-              0
+              42.327469999999984
             ],
             [
               -71.097061,
-              42.328167,
-              0
+              42.328167000000015
             ],
             [
               -71.095681,
-              42.327646,
-              0
+              42.327645999999994
             ],
             [
               -71.092918,
-              42.326865,
-              0
+              42.32686500000001
             ],
             [
               -71.092327,
-              42.32668,
-              0
+              42.32668000000002
             ],
             [
               -71.091802,
-              42.325983,
-              0
+              42.32598300000001
             ],
             [
               -71.090986,
-              42.326617,
-              0
+              42.32661699999999
             ],
             [
               -71.09059,
-              42.326927,
-              0
+              42.326927
             ],
             [
               -71.090101,
-              42.327313,
-              0
+              42.327313
             ],
             [
               -71.089816,
-              42.327735,
-              0
+              42.32773499999999
             ],
             [
               -71.089731,
-              42.32817,
-              0
+              42.32817
             ],
             [
-              -71.089534,
-              42.328462,
-              0
+              -71.08953400000001,
+              42.32846199999999
             ],
             [
               -71.089236,
-              42.328743,
-              0
+              42.328743
             ],
             [
               -71.088586,
-              42.329365,
-              0
+              42.329364999999996
             ],
             [
               -71.090205,
-              42.329588,
-              0
+              42.329588000000015
             ],
             [
               -71.090937,
-              42.329834,
-              0
+              42.32983399999999
             ],
             [
-              -71.091222,
-              42.329933,
-              0
+              -71.09121501445769,
+              42.32993318805287
             ],
             [
-              -71.091053,
-              42.330108,
-              0
+              -71.09142422676086,
+              42.33003629886431
             ],
             [
-              -71.091437,
-              42.330141,
-              0
+              -71.0916817188263,
+              42.330167170035416
             ],
             [
               -71.091821,
-              42.330175,
-              0
+              42.33017499999999
             ],
             [
               -71.092794,
-              42.33017,
-              0
+              42.330169999999995
             ],
             [
               -71.094545,
-              42.330302,
-              0
+              42.33030200000001
             ],
             [
               -71.094843,
-              42.330342,
-              0
+              42.330341999999995
             ],
             [
               -71.095257,
-              42.330586,
-              0
+              42.33058599999999
             ],
             [
               -71.094931,
-              42.331481,
-              0
+              42.33148099999999
             ],
             [
               -71.097115,
-              42.331772,
-              0
+              42.331771999999994
             ]
           ]
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 23,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb61t"
       }
@@ -2764,7 +2763,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 24,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb63c"
       }
@@ -2889,7 +2888,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 25,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb64n"
       }
@@ -3009,7 +3008,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 26,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb666"
       }
@@ -3169,7 +3168,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 27,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb67g"
       }
@@ -3304,7 +3303,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 28,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb68r"
       }
@@ -3434,7 +3433,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 29,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb70s"
       }
@@ -3451,9 +3450,33 @@
               0
             ],
             [
-              -71.083649,
-              42.304479,
+              -71.08461141586304,
+              42.30515790105569,
               0
+            ],
+            [
+              -71.084246635437,
+              42.30675276172681
+            ],
+            [
+              -71.08319520950317,
+              42.308268238657284
+            ],
+            [
+              -71.08272314071655,
+              42.30777630773675
+            ],
+            [
+              -71.08174681663513,
+              42.30843485954911
+            ],
+            [
+              -71.08128547668456,
+              42.30823650129454
+            ],
+            [
+              -71.07900023460388,
+              42.31045807804305
             ],
             [
               -71.079743,
@@ -3524,7 +3547,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 30,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb712"
       }
@@ -3669,7 +3692,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 31,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb72b"
       }
@@ -3774,7 +3797,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 32,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb73m"
       }
@@ -3964,7 +3987,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 33,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb74w"
       }
@@ -4153,7 +4176,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 34,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb755"
       }
@@ -4328,7 +4351,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 35,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb77q"
       }
@@ -4463,7 +4486,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 36,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb798"
       }
@@ -4548,7 +4571,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 37,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb801"
       }
@@ -4633,7 +4656,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
         "plate": 38,
         "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb819"
       }
@@ -4693,8 +4716,9 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1899\t",
-        "plate": 39
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1899)",
+        "plate": 39,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:m900rb82k"
       }
     }
   ]
