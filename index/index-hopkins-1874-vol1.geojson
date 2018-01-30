@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "plate": "A",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "plate": "B",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -153,7 +153,7 @@
       "type": "Feature",
       "properties": {
         "plate": "C",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -235,7 +235,7 @@
       "type": "Feature",
       "properties": {
         "plate": "D",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -281,7 +281,7 @@
       "type": "Feature",
       "properties": {
         "plate": "E",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -331,7 +331,7 @@
       "type": "Feature",
       "properties": {
         "plate": "F",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -409,7 +409,7 @@
       "type": "Feature",
       "properties": {
         "plate": "G",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -519,7 +519,7 @@
       "type": "Feature",
       "properties": {
         "plate": "H",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -621,7 +621,7 @@
       "type": "Feature",
       "properties": {
         "plate": "I",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -763,7 +763,7 @@
       "type": "Feature",
       "properties": {
         "plate": "J",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -849,7 +849,7 @@
       "type": "Feature",
       "properties": {
         "plate": "K",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -919,7 +919,7 @@
       "type": "Feature",
       "properties": {
         "plate": "L",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1001,7 +1001,7 @@
       "type": "Feature",
       "properties": {
         "plate": "M",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1071,7 +1071,7 @@
       "type": "Feature",
       "properties": {
         "plate": "N",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1113,7 +1113,7 @@
       "type": "Feature",
       "properties": {
         "plate": "O",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1163,7 +1163,7 @@
       "type": "Feature",
       "properties": {
         "plate": "P",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1277,7 +1277,7 @@
       "type": "Feature",
       "properties": {
         "plate": "Q",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1427,7 +1427,7 @@
       "type": "Feature",
       "properties": {
         "plate": "R",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1481,7 +1481,7 @@
       "type": "Feature",
       "properties": {
         "plate": "T",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1531,7 +1531,7 @@
       "type": "Feature",
       "properties": {
         "plate": "U",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1613,7 +1613,7 @@
       "type": "Feature",
       "properties": {
         "plate": "V",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1691,7 +1691,7 @@
       "type": "Feature",
       "properties": {
         "plate": "W",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1765,7 +1765,7 @@
       "type": "Feature",
       "properties": {
         "plate": "X",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1839,7 +1839,7 @@
       "type": "Feature",
       "properties": {
         "plate": "Y",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1953,7 +1953,7 @@
       "type": "Feature",
       "properties": {
         "plate": "Z",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2059,7 +2059,7 @@
       "type": "Feature",
       "properties": {
         "plate": "S",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper. (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
