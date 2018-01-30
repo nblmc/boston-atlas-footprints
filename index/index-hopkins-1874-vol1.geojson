@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "plate": "A",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "plate": "B",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -153,7 +153,7 @@
       "type": "Feature",
       "properties": {
         "plate": "C",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -235,7 +235,7 @@
       "type": "Feature",
       "properties": {
         "plate": "D",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -281,7 +281,7 @@
       "type": "Feature",
       "properties": {
         "plate": "E",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -331,7 +331,7 @@
       "type": "Feature",
       "properties": {
         "plate": "F",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -409,7 +409,7 @@
       "type": "Feature",
       "properties": {
         "plate": "G",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -519,7 +519,7 @@
       "type": "Feature",
       "properties": {
         "plate": "H",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -621,7 +621,7 @@
       "type": "Feature",
       "properties": {
         "plate": "I",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -763,7 +763,7 @@
       "type": "Feature",
       "properties": {
         "plate": "J",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -849,7 +849,7 @@
       "type": "Feature",
       "properties": {
         "plate": "K",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -919,7 +919,7 @@
       "type": "Feature",
       "properties": {
         "plate": "L",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1001,7 +1001,7 @@
       "type": "Feature",
       "properties": {
         "plate": "M",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1071,7 +1071,7 @@
       "type": "Feature",
       "properties": {
         "plate": "N",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1113,7 +1113,7 @@
       "type": "Feature",
       "properties": {
         "plate": "O",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1148,8 +1148,8 @@
               42.35092861337322
             ],
             [
-              -71.0854697227478,
-              42.350127783371924
+              -71.08556628227234,
+              42.350115889780156
             ],
             [
               -71.08047544956207,
@@ -1163,7 +1163,7 @@
       "type": "Feature",
       "properties": {
         "plate": "P",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1277,7 +1277,7 @@
       "type": "Feature",
       "properties": {
         "plate": "Q",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1427,7 +1427,7 @@
       "type": "Feature",
       "properties": {
         "plate": "R",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1481,7 +1481,7 @@
       "type": "Feature",
       "properties": {
         "plate": "T",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1531,7 +1531,7 @@
       "type": "Feature",
       "properties": {
         "plate": "U",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1613,7 +1613,7 @@
       "type": "Feature",
       "properties": {
         "plate": "V",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1691,7 +1691,7 @@
       "type": "Feature",
       "properties": {
         "plate": "W",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1765,7 +1765,7 @@
       "type": "Feature",
       "properties": {
         "plate": "X",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1839,7 +1839,7 @@
       "type": "Feature",
       "properties": {
         "plate": "Y",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1953,123 +1953,103 @@
       "type": "Feature",
       "properties": {
         "plate": "Z",
-        "atlas": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -71.08588814735413,
-              42.350932577852824
+              -71.08588814735414,
+              42.35094050681123
             ],
             [
               -71.08791589736938,
-              42.35034583215539
+              42.35035376118781
             ],
             [
               -71.08781933784485,
-              42.35130523781652
+              42.35131316672792
             ],
             [
               -71.08950376510619,
-              42.350821572330155
+              42.35082950130255
             ],
             [
-              -71.09105944633484,
-              42.35098015158823
+              -71.09105944633485,
+              42.35098808054065
             ],
             [
-              -71.106396317482,
-              42.35161050018311
+              -71.10639631748201,
+              42.35161842905596
             ],
             [
               -71.10721170902252,
-              42.34705519736357
+              42.34706312681106
             ],
             [
-              -71.10683083534241,
-              42.34623449413785
+              -71.10683083534242,
+              42.34624242368888
             ],
             [
               -71.10632658004761,
-              42.34522346818859
+              42.345231397867146
             ],
             [
               -71.1055862903595,
-              42.34389523291672
+              42.34390316276277
             ],
             [
-              -71.10524833202362,
-              42.344176741840194
+              -71.10524833202363,
+              42.34418467165078
             ],
             [
-              -71.10492914915085,
-              42.344289741546476
+              -71.10492914915086,
+              42.344297671342815
             ],
             [
-              -71.1029040813446,
-              42.34322515730962
+              -71.10290408134462,
+              42.34323308724019
             ],
             [
               -71.10257148742676,
-              42.342939679141914
+              42.34294760910852
             ],
             [
-              -71.10244274139404,
-              42.34244801925897
+              -71.10244274139406,
+              42.34245594928758
             ],
             [
               -71.10199213027953,
-              42.34232113866506
+              42.34232906870969
             ],
             [
-              -71.10021114349365,
-              42.340576504533985
+              -71.10021114349367,
+              42.34058443479865
             ],
             [
-              -71.09935283660887,
-              42.339799333745326
+              -71.09787225723267,
+              42.33884768296255
             ],
             [
-              -71.0986876487732,
-              42.33943453598088
+              -71.08611345291138,
+              42.33924420587234
             ],
             [
-              -71.09815120697021,
-              42.33875251709215
+              -71.08607053756714,
+              42.33929178845349
             ],
             [
-              -71.09561920166016,
-              42.33762637668967
+              -71.08470261096956,
+              42.34028704918934
             ],
             [
-              -71.08771204948425,
-              42.339188692815505
+              -71.08254611492158,
+              42.34204358647322
             ],
             [
-              -71.08470261096954,
-              42.340279118887196
-            ],
-            [
-              -71.08254611492157,
-              42.34203565639259
-            ],
-            [
-              -71.08178973197937,
-              42.348831368623536
-            ],
-            [
-              -71.08276605606079,
-              42.35086121718217
-            ],
-            [
-              -71.08548045158386,
-              42.35010003165431
-            ],
-            [
-              -71.08588814735413,
-              42.350932577852824
+              -71.08588814735414,
+              42.35094050681123
             ]
           ]
         ]
@@ -2078,20 +2058,20 @@
     {
       "type": "Feature",
       "properties": {
-        "plate": "Atlas of the County of Suffolk, Massachusetts From Actual Surveys and Official Records. Hopkins, Griffith Morgan. v. 1. Boston proper (1874)",
-        "atlas": "S"
+        "plate": "S",
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 1: Boston proper (G.M. Hopkins & Co., 1874)"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -71.08275532722472,
-              42.35085328821378
+              -71.08554482460022,
+              42.350107960717736
             ],
             [
-              -71.08178973197937,
-              42.3488630855114
+              -71.08250856399536,
+              42.342019796228335
             ],
             [
               -71.08251929283142,
@@ -2122,8 +2102,8 @@
               42.35204262229712
             ],
             [
-              -71.08275532722472,
-              42.35085328821378
+              -71.08554482460022,
+              42.350107960717736
             ]
           ]
         ]
