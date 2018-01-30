@@ -86,7 +86,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 1,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c361w"
       }
@@ -220,7 +220,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 2,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c363f"
       }
@@ -360,7 +360,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 3,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c3650"
       }
@@ -510,7 +510,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 4,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c367j"
       }
@@ -625,7 +625,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 5,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c3693"
       }
@@ -743,7 +743,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 6,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c3714"
       }
@@ -823,7 +823,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 7,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c373p"
       }
@@ -893,7 +893,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 8,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c3757"
       }
@@ -983,7 +983,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 9,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c377s"
       }
@@ -1048,7 +1048,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 10,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c379b"
       }
@@ -1103,7 +1103,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 11,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c381c"
       }
@@ -1168,7 +1168,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 12,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c383x"
       }
@@ -1310,7 +1310,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 14,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c3871"
       }
@@ -1430,7 +1430,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 13,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c385g"
       }
@@ -1555,7 +1555,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 15,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c389k"
       }
@@ -1567,9 +1567,13 @@
         "coordinates": [
           [
             [
-              -71.10089737850318,
-              42.33613693555925,
+              -71.10167026519774,
+              42.33643676985371,
               0
+            ],
+            [
+              -71.10091924667358,
+              42.336151260864526
             ],
             [
               -71.09985368767208,
@@ -1607,20 +1611,20 @@
               0
             ],
             [
-              -71.10010457587425,
-              42.33581938507052,
+              -71.1025607585907,
+              42.33494576417536,
               0
             ],
             [
-              -71.10089737850318,
-              42.33613693555925,
+              -71.10167026519774,
+              42.33643676985371,
               0
             ]
           ]
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 16,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c391m"
       }
@@ -1632,60 +1636,58 @@
         "coordinates": [
           [
             [
-              -71.09711489931455,
-              42.33177247827709,
-              0
+              -71.09713635698665,
+              42.3317724782771
             ],
             [
-              -71.09502931722389,
-              42.33478047396966,
-              0
+              -71.095050774896,
+              42.33478047396965
             ],
             [
-              -71.0971746203851,
-              42.33550343630804,
-              0
+              -71.09719607805721,
+              42.33550343630805
             ],
             [
-              -71.09945337119287,
-              42.3360851284472,
-              0
+              -71.09947482886498,
+              42.33608512844721
             ],
             [
-              -71.10010457587425,
-              42.33581938507052,
-              0
+              -71.100093126297,
+              42.33581816540553
             ],
             [
-              -71.10469310061544,
-              42.33411067231635,
-              0
+              -71.10167026519774,
+              42.33643676985371
             ],
             [
-              -71.10132261289321,
-              42.3329592995309,
-              0
+              -71.10257148742674,
+              42.334937833199575
             ],
             [
-              -71.09931859355238,
-              42.33228457084306,
-              0
+              -71.10471455828754,
+              42.33411067231634
             ],
             [
-              -71.09789271472394,
-              42.33190797156848,
-              0
+              -71.10134407056532,
+              42.332959299530906
             ],
             [
-              -71.09711489931455,
-              42.33177247827709,
-              0
+              -71.09934005122449,
+              42.332284570843065
+            ],
+            [
+              -71.09791417239605,
+              42.33190797156846
+            ],
+            [
+              -71.09713635698665,
+              42.3317724782771
             ]
           ]
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 17,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c3935"
       }
@@ -1791,7 +1793,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 18,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c395q"
       }
@@ -1936,7 +1938,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 19,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c3978"
       }
@@ -2091,7 +2093,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 20,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c399t"
       }
@@ -2226,7 +2228,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 21,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c401n"
       }
@@ -2351,7 +2353,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 22,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c4036"
       }
@@ -2507,7 +2509,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 23,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c405r"
       }
@@ -2662,7 +2664,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 24,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c4079"
       }
@@ -2757,7 +2759,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 25,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c409v"
       }
@@ -2901,7 +2903,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 27,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c413f"
       }
@@ -3024,7 +3026,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 26,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c411w"
       }
@@ -3138,7 +3140,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 28,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c4150"
       }
@@ -3261,7 +3263,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 29,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c417j"
       }
@@ -3346,7 +3348,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 30,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c4193"
       }
@@ -3436,7 +3438,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 32,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c423p"
       }
@@ -3570,7 +3572,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 31,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c4214"
       }
@@ -3740,7 +3742,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 33,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c4257"
       }
@@ -3914,7 +3916,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 34,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c427s"
       }
@@ -4059,7 +4061,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 35,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c429b"
       }
@@ -4169,7 +4171,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 36,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c431c"
       }
@@ -4239,7 +4241,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 37,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c433x"
       }
@@ -4294,7 +4296,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 38,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c435g"
       }
@@ -4344,7 +4346,7 @@
         ]
       },
       "properties": {
-        "atlas": "Atlas of the city of Boston : Roxbury, published by G.W. Bromley & Co., 1931",
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1931)",
         "plate": 39,
         "url": "https://collections.leventhalmap.org/search/commonwealth:1257c4371"
       }
