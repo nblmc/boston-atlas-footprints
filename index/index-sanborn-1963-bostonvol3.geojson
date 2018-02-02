@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "plate": 1,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -55,7 +55,7 @@
       "type": "Feature",
       "properties": {
         "plate": 2,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -82,12 +82,8 @@
               42.334168523794816
             ],
             [
-              -71.08984708786011,
-              42.334985419039256
-            ],
-            [
-              -71.09042644500732,
-              42.335588169892276
+              -71.08938574790955,
+              42.33525903691878
             ],
             [
               -71.09079122543335,
@@ -109,7 +105,7 @@
       "type": "Feature",
       "properties": {
         "plate": 3,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -120,8 +116,8 @@
               42.332740914398386
             ],
             [
-              -71.09172463417053,
-              42.33162259773718
+              -71.09211087226868,
+              42.33203106321984
             ],
             [
               -71.09043717384338,
@@ -155,7 +151,7 @@
       "type": "Feature",
       "properties": {
         "plate": 4,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -163,51 +159,39 @@
           [
             [
               -71.09115064144135,
-              42.334164558258024
-            ],
-            [
-              -71.08985781669617,
-              42.334993350009064
-            ],
-            [
-              -71.0893964767456,
-              42.334398524499925
-            ],
-            [
-              -71.08842551708221,
-              42.33339920497954
-            ],
-            [
-              -71.08825385570525,
-              42.33315730381974
-            ],
-            [
-              -71.08811438083647,
-              42.333038335694944
-            ],
-            [
-              -71.08775496482849,
-              42.33302643887008
-            ],
-            [
-              -71.08848452568054,
-              42.33217779289124
-            ],
-            [
-              -71.0893964767456,
-              42.33252677019399
-            ],
-            [
-              -71.09061151742934,
-              42.333922660041964
+              42.334168523794794
             ],
             [
               -71.09075635671616,
-              42.3338413661703
+              42.33384533172745
+            ],
+            [
+              -71.09061151742934,
+              42.333926625594
+            ],
+            [
+              -71.0893964767456,
+              42.33253073583404
+            ],
+            [
+              -71.08848452568054,
+              42.33218175855327
+            ],
+            [
+              -71.08777642250061,
+              42.33304230130273
+            ],
+            [
+              -71.08702003955841,
+              42.33389093561672
+            ],
+            [
+              -71.0893964767456,
+              42.33525110598251
             ],
             [
               -71.09115064144135,
-              42.334164558258024
+              42.334168523794794
             ]
           ]
         ]
@@ -217,7 +201,7 @@
       "type": "Feature",
       "properties": {
         "plate": 5,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -226,6 +210,10 @@
             [
               -71.08700931072235,
               42.33388697006247
+            ],
+            [
+              -71.08777105808257,
+              42.33305023251754
             ],
             [
               -71.0884952545166,
@@ -259,7 +247,7 @@
       "type": "Feature",
       "properties": {
         "plate": 6,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -270,44 +258,44 @@
               42.33273298314457
             ],
             [
-              -71.08272314071655,
-              42.33108326060908
-            ],
-            [
-              -71.08295917510986,
-              42.33082152180664
-            ],
-            [
-              -71.08338832855225,
-              42.33058357649561
-            ],
-            [
-              -71.08404278755188,
-              42.330377356498
-            ],
-            [
-              -71.08438611030577,
-              42.330012504076684
-            ],
-            [
-              -71.08460068702698,
-              42.3296397178952
-            ],
-            [
-              -71.08503520488739,
-              42.32893379758372
-            ],
-            [
-              -71.08619928359984,
-              42.32844202819069
+              -71.08712196350098,
+              42.330071991028895
             ],
             [
               -71.0859739780426,
               42.32946125564334
             ],
             [
-              -71.08712196350098,
-              42.330071991028895
+              -71.08619928359984,
+              42.32844202819069
+            ],
+            [
+              -71.08503520488739,
+              42.32893379758372
+            ],
+            [
+              -71.08460068702698,
+              42.3296397178952
+            ],
+            [
+              -71.08438611030577,
+              42.330012504076684
+            ],
+            [
+              -71.08404278755188,
+              42.330377356498
+            ],
+            [
+              -71.08338832855225,
+              42.33058357649561
+            ],
+            [
+              -71.08295917510986,
+              42.33082152180664
+            ],
+            [
+              -71.08272314071655,
+              42.33108326060908
             ],
             [
               -71.08500838279724,
@@ -321,7 +309,7 @@
       "type": "Feature",
       "properties": {
         "plate": 7,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -407,7 +395,7 @@
       "type": "Feature",
       "properties": {
         "plate": 8,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -418,28 +406,28 @@
               42.33105946621749
             ],
             [
-              -71.07903242111206,
-              42.32930658794883
-            ],
-            [
-              -71.07927918434143,
-              42.328521346094774
-            ],
-            [
-              -71.08153760433197,
-              42.32848565305032
-            ],
-            [
-              -71.08274459838867,
-              42.32860859567373
+              -71.08154296875,
+              42.33060340530592
             ],
             [
               -71.08218133449554,
               42.32995698287052
             ],
             [
-              -71.08154296875,
-              42.33060340530592
+              -71.08274459838867,
+              42.32860859567373
+            ],
+            [
+              -71.08153760433197,
+              42.32848565305032
+            ],
+            [
+              -71.07927918434143,
+              42.328521346094774
+            ],
+            [
+              -71.07903242111206,
+              42.32930658794883
             ],
             [
               -71.08088850975037,
@@ -453,7 +441,7 @@
       "type": "Feature",
       "properties": {
         "plate": 9,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -515,7 +503,7 @@
       "type": "Feature",
       "properties": {
         "plate": 10,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -585,7 +573,7 @@
       "type": "Feature",
       "properties": {
         "plate": 11,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -659,7 +647,7 @@
       "type": "Feature",
       "properties": {
         "plate": 12,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -725,7 +713,7 @@
       "type": "Feature",
       "properties": {
         "plate": 13,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -783,7 +771,7 @@
       "type": "Feature",
       "properties": {
         "plate": 14,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -845,7 +833,7 @@
       "type": "Feature",
       "properties": {
         "plate": 15,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -899,7 +887,7 @@
       "type": "Feature",
       "properties": {
         "plate": 16,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -910,32 +898,32 @@
               42.32848961894514
             ],
             [
-              -71.08029842376708,
-              42.326014851971344
-            ],
-            [
-              -71.08121037483215,
-              42.32533268754814
-            ],
-            [
-              -71.08166635036469,
-              42.32558255095698
-            ],
-            [
-              -71.08347952365875,
-              42.325983123557535
-            ],
-            [
-              -71.08320593833923,
-              42.327720230667495
+              -71.08151614665985,
+              42.32848961894514
             ],
             [
               -71.08273923397064,
               42.328604629786405
             ],
             [
-              -71.08151614665985,
-              42.32848961894514
+              -71.08320593833923,
+              42.327720230667495
+            ],
+            [
+              -71.08347952365875,
+              42.325983123557535
+            ],
+            [
+              -71.08166635036469,
+              42.32558255095698
+            ],
+            [
+              -71.08121037483215,
+              42.32533268754814
+            ],
+            [
+              -71.08029842376708,
+              42.326014851971344
             ],
             [
               -71.0808777809143,
@@ -949,7 +937,7 @@
       "type": "Feature",
       "properties": {
         "plate": 17,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -960,44 +948,44 @@
               42.32891000237903
             ],
             [
-              -71.0846221446991,
-              42.32958419635996
-            ],
-            [
-              -71.08387112617493,
-              42.32937797308586
-            ],
-            [
-              -71.08336687088013,
-              42.32939780227621
-            ],
-            [
-              -71.08351171016693,
-              42.32866808395365
-            ],
-            [
-              -71.0827499628067,
-              42.32860066389883
-            ],
-            [
-              -71.08320593833923,
-              42.327716264724145
-            ],
-            [
-              -71.08347952365875,
-              42.32599105566247
-            ],
-            [
-              -71.08480453491211,
-              42.32735536283398
+              -71.08505129814147,
+              42.328100960063516
             ],
             [
               -71.08478307723999,
               42.328053369015024
             ],
             [
-              -71.08505129814147,
-              42.328100960063516
+              -71.08480453491211,
+              42.32735536283398
+            ],
+            [
+              -71.08347952365875,
+              42.32599105566247
+            ],
+            [
+              -71.08320593833923,
+              42.327716264724145
+            ],
+            [
+              -71.0827499628067,
+              42.32860066389883
+            ],
+            [
+              -71.08351171016693,
+              42.32866808395365
+            ],
+            [
+              -71.08336687088013,
+              42.32939780227621
+            ],
+            [
+              -71.08387112617493,
+              42.32937797308586
+            ],
+            [
+              -71.0846221446991,
+              42.32958419635996
             ],
             [
               -71.08504056930542,
@@ -1011,7 +999,7 @@
       "type": "Feature",
       "properties": {
         "plate": 18,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1020,80 +1008,80 @@
             [
               -71.08349025249481,
               42.32599502171459
-            ],
-            [
-              -71.08351171016693,
-              42.32585224368145
-            ],
-            [
-              -71.08371555805206,
-              42.32592759879488
-            ],
-            [
-              -71.0841178894043,
-              42.32558255095698
-            ],
-            [
-              -71.08479380607605,
-              42.32511058590714
-            ],
-            [
-              -71.08539462089537,
-              42.32490434796702
-            ],
-            [
-              -71.08685910701752,
-              42.32548339892938
-            ],
-            [
-              -71.08648896217346,
-              42.32604658036912
-            ],
-            [
-              -71.08762621879578,
-              42.32637179552396
-            ],
-            [
-              -71.08784079551697,
-              42.325868107923355
-            ],
-            [
-              -71.08727753162384,
-              42.32714913225282
-            ],
-            [
-              -71.08699321746826,
-              42.32777575384792
-            ],
-            [
-              -71.08682692050934,
-              42.3280850963847
-            ],
-            [
-              -71.0866391658783,
-              42.32826752844967
-            ],
-            [
-              -71.08620464801788,
-              42.32844202819069
-            ],
-            [
-              -71.08504593372345,
-              42.328929831716884
-            ],
-            [
-              -71.08505129814147,
-              42.328100960063516
-            ],
-            [
-              -71.08478307723999,
-              42.328053369015024
             ],
             [
               -71.08481526374817,
               42.32735932880007
             ],
             [
+              -71.08478307723999,
+              42.328053369015024
+            ],
+            [
+              -71.08505129814147,
+              42.328100960063516
+            ],
+            [
+              -71.08504593372345,
+              42.328929831716884
+            ],
+            [
+              -71.08620464801788,
+              42.32844202819069
+            ],
+            [
+              -71.0866391658783,
+              42.32826752844967
+            ],
+            [
+              -71.08682692050934,
+              42.3280850963847
+            ],
+            [
+              -71.08699321746826,
+              42.32777575384792
+            ],
+            [
+              -71.08727753162384,
+              42.32714913225282
+            ],
+            [
+              -71.08784079551697,
+              42.325868107923355
+            ],
+            [
+              -71.08762621879578,
+              42.32637179552396
+            ],
+            [
+              -71.08648896217346,
+              42.32604658036912
+            ],
+            [
+              -71.08685910701752,
+              42.32548339892938
+            ],
+            [
+              -71.08539462089537,
+              42.32490434796702
+            ],
+            [
+              -71.08479380607605,
+              42.32511058590714
+            ],
+            [
+              -71.0841178894043,
+              42.32558255095698
+            ],
+            [
+              -71.08371555805206,
+              42.32592759879488
+            ],
+            [
+              -71.08351171016693,
+              42.32585224368145
+            ],
+            [
               -71.08349025249481,
               42.32599502171459
             ]
@@ -1105,7 +1093,7 @@
       "type": "Feature",
       "properties": {
         "plate": 19,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1116,48 +1104,48 @@
               42.32875136745099
             ],
             [
-              -71.08822166919708,
-              42.32808906230476
-            ],
-            [
-              -71.0876476764679,
-              42.3279066297222
-            ],
-            [
-              -71.08699321746826,
-              42.327791617604774
-            ],
-            [
-              -71.08772277832031,
-              42.326189357961205
-            ],
-            [
-              -71.08840942382812,
-              42.326336101259834
-            ],
-            [
-              -71.08888149261475,
-              42.32659785872642
-            ],
-            [
-              -71.09009921550751,
-              42.32732363509625
-            ],
-            [
-              -71.08992755413055,
-              42.32749020554071
-            ],
-            [
-              -71.08982563018797,
-              42.32774402632224
+              -71.0896110534668,
+              42.32837857379543
             ],
             [
               -71.08971297740936,
               42.328215971615386
             ],
             [
-              -71.0896110534668,
-              42.32837857379543
+              -71.08982563018797,
+              42.32774402632224
+            ],
+            [
+              -71.08992755413055,
+              42.32749020554071
+            ],
+            [
+              -71.09009921550751,
+              42.32732363509625
+            ],
+            [
+              -71.08888149261475,
+              42.32659785872642
+            ],
+            [
+              -71.08840942382812,
+              42.326336101259834
+            ],
+            [
+              -71.08772277832031,
+              42.326189357961205
+            ],
+            [
+              -71.08699321746826,
+              42.327791617604774
+            ],
+            [
+              -71.0876476764679,
+              42.3279066297222
+            ],
+            [
+              -71.08822166919708,
+              42.32808906230476
             ],
             [
               -71.08922481536865,
@@ -1171,7 +1159,7 @@
       "type": "Feature",
       "properties": {
         "plate": 19,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1182,20 +1170,20 @@
               42.32220732806039
             ],
             [
-              -71.0919338464737,
-              42.32169567447252
-            ],
-            [
-              -71.09315693378448,
-              42.32079134632758
+              -71.09391331672668,
+              42.321247478376144
             ],
             [
               -71.0936826467514,
               42.32110865592881
             ],
             [
-              -71.09391331672668,
-              42.321247478376144
+              -71.09315693378448,
+              42.32079134632758
+            ],
+            [
+              -71.0919338464737,
+              42.32169567447252
             ],
             [
               -71.09265267848969,
@@ -1209,7 +1197,7 @@
       "type": "Feature",
       "properties": {
         "plate": 20,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1287,7 +1275,7 @@
       "type": "Feature",
       "properties": {
         "plate": 21,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1298,44 +1286,52 @@
               42.32945332397595
             ],
             [
-              -71.09021723270416,
-              42.32958816218555
-            ],
-            [
-              -71.09120965003967,
-              42.329925256444994
-            ],
-            [
-              -71.09141886234283,
-              42.33003629886431
-            ],
-            [
-              -71.09171390533447,
-              42.330183033189186
-            ],
-            [
-              -71.09172999858856,
-              42.33162259773718
-            ],
-            [
-              -71.09043180942535,
-              42.33119826670815
-            ],
-            [
-              -71.08902633190155,
-              42.33084928203427
-            ],
-            [
-              -71.08822703361511,
-              42.33057961073282
+              -71.08891367912292,
+              42.33036545916979
             ],
             [
               -71.0884577035904,
               42.330424945788224
             ],
             [
-              -71.08891367912292,
-              42.33036545916979
+              -71.08822703361511,
+              42.33057961073282
+            ],
+            [
+              -71.08902633190155,
+              42.33084928203427
+            ],
+            [
+              -71.09043180942535,
+              42.33119826670815
+            ],
+            [
+              -71.09212160110472,
+              42.332035028891106
+            ],
+            [
+              -71.09235227108002,
+              42.33181295091349
+            ],
+            [
+              -71.09192311763763,
+              42.331293444010406
+            ],
+            [
+              -71.09171390533447,
+              42.330183033189186
+            ],
+            [
+              -71.09141886234283,
+              42.33003629886431
+            ],
+            [
+              -71.09120965003967,
+              42.329925256444994
+            ],
+            [
+              -71.09021723270416,
+              42.32958816218555
             ],
             [
               -71.08900487422943,
@@ -1349,7 +1345,7 @@
       "type": "Feature",
       "properties": {
         "plate": 22,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1435,7 +1431,7 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1509,63 +1505,71 @@
       "type": "Feature",
       "properties": {
         "plate": 24,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -71.09381675720215,
-              42.33132516974583
+              -71.09382212162018,
+              42.33132913546163
             ],
             [
-              -71.09453827142714,
-              42.33037933938581
+              -71.09454363584517,
+              42.33038330516122
             ],
             [
-              -71.09455168247223,
-              42.3303099382752
+              -71.09455704689026,
+              42.33031390405499
             ],
             [
-              -71.09392940998077,
-              42.329485050639505
+              -71.09393477439879,
+              42.32948901647131
             ],
             [
-              -71.09225571155548,
-              42.32990939322623
+              -71.09226107597351,
+              42.329913359031295
             ],
             [
-              -71.09142422676086,
-              42.33004026466138
+              -71.0914295911789,
+              42.33004423045814
             ],
             [
-              -71.09172463417053,
-              42.330186998977
+              -71.09172999858856,
+              42.330190964764526
             ],
             [
-              -71.09171926975249,
-              42.33161466634232
+              -71.09192311763763,
+              42.3312815468555
             ],
             [
-              -71.09278678894042,
-              42.33273694877159
+              -71.09235227108002,
+              42.331797088170795
             ],
             [
-              -71.09354853630066,
-              42.332344350481826
+              -71.0921162366867,
+              42.332035028891134
             ],
             [
-              -71.09383821487427,
-              42.332130204927225
+              -71.09279215335845,
+              42.33274091439836
             ],
             [
-              -71.09346270561218,
-              42.331582940752924
+              -71.09355390071869,
+              42.33234831613333
             ],
             [
-              -71.09381675720215,
-              42.33132516974583
+              -71.0938435792923,
+              42.33213417059226
+            ],
+            [
+              -71.09346807003021,
+              42.331586906452436
+            ],
+            [
+              -71.09382212162018,
+              42.33132913546163
             ]
           ]
         ]
@@ -1575,7 +1579,7 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1641,7 +1645,7 @@
       "type": "Feature",
       "properties": {
         "plate": 26,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1652,40 +1656,40 @@
               42.33347058547187
             ],
             [
-              -71.10003411769867,
-              42.33496162612393
-            ],
-            [
-              -71.09927237033843,
-              42.33602040214463
-            ],
-            [
-              -71.09936892986298,
-              42.33621470741859
-            ],
-            [
-              -71.09809756278992,
-              42.33668262377796
-            ],
-            [
-              -71.0974645614624,
-              42.33644470064047
-            ],
-            [
-              -71.09796345233916,
-              42.33570316775405
-            ],
-            [
-              -71.0969603061676,
-              42.33546524091093
+              -71.09502911567688,
+              42.33480697195475
             ],
             [
               -71.09646677970886,
               42.335330415300284
             ],
             [
-              -71.09502911567688,
-              42.33480697195475
+              -71.0969603061676,
+              42.33546524091093
+            ],
+            [
+              -71.09796345233916,
+              42.33570316775405
+            ],
+            [
+              -71.0974645614624,
+              42.33644470064047
+            ],
+            [
+              -71.09809756278992,
+              42.33668262377796
+            ],
+            [
+              -71.09936892986298,
+              42.33621470741859
+            ],
+            [
+              -71.09927237033843,
+              42.33602040214463
+            ],
+            [
+              -71.10003411769867,
+              42.33496162612393
             ],
             [
               -71.09596252441406,
@@ -1699,7 +1703,7 @@
       "type": "Feature",
       "properties": {
         "plate": 27,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1710,52 +1714,52 @@
               42.33482283393833
             ],
             [
-              -71.09648823738098,
-              42.33533834622656
-            ],
-            [
-              -71.09699249267578,
-              42.335473171820205
-            ],
-            [
-              -71.09796345233916,
-              42.335699202314046
-            ],
-            [
-              -71.09746992588043,
-              42.33644470064047
-            ],
-            [
-              -71.09874129295349,
-              42.33693244210353
-            ],
-            [
-              -71.09835505485535,
-              42.33731708107719
-            ],
-            [
-              -71.0976254940033,
-              42.33802687259428
-            ],
-            [
-              -71.09730899333954,
-              42.33846305335102
-            ],
-            [
-              -71.09686374664307,
-              42.33905784041618
-            ],
-            [
-              -71.09475016593933,
-              42.33811807427542
+              -71.0936987400055,
+              42.33699588786946
             ],
             [
               -71.09576404094696,
               42.33775723206777
             ],
             [
-              -71.0936987400055,
-              42.33699588786946
+              -71.09475016593933,
+              42.33811807427542
+            ],
+            [
+              -71.09686374664307,
+              42.33905784041618
+            ],
+            [
+              -71.09730899333954,
+              42.33846305335102
+            ],
+            [
+              -71.0976254940033,
+              42.33802687259428
+            ],
+            [
+              -71.09835505485535,
+              42.33731708107719
+            ],
+            [
+              -71.09874129295349,
+              42.33693244210353
+            ],
+            [
+              -71.09746992588043,
+              42.33644470064047
+            ],
+            [
+              -71.09796345233916,
+              42.335699202314046
+            ],
+            [
+              -71.09699249267578,
+              42.335473171820205
+            ],
+            [
+              -71.09648823738098,
+              42.33533834622656
             ],
             [
               -71.09503448009491,
@@ -1769,7 +1773,7 @@
       "type": "Feature",
       "properties": {
         "plate": 28,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1835,7 +1839,7 @@
       "type": "Feature",
       "properties": {
         "plate": 29,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1846,48 +1850,48 @@
               42.33007595682373
             ],
             [
-              -71.10212624073029,
-              42.33171380870604
-            ],
-            [
-              -71.10172927379608,
-              42.33221744950044
-            ],
-            [
-              -71.10153615474701,
-              42.3325465983917
-            ],
-            [
-              -71.10133767127991,
-              42.33296695471205
-            ],
-            [
-              -71.10004484653473,
-              42.332483148137044
-            ],
-            [
-              -71.09932065010071,
-              42.33228090002313
-            ],
-            [
-              -71.09790444374084,
-              42.331908127285644
-            ],
-            [
-              -71.09714269638062,
-              42.33180105385685
-            ],
-            [
-              -71.09763085842133,
-              42.330762035563254
+              -71.09825849533081,
+              42.33028614359105
             ],
             [
               -71.09797954559326,
               42.33050029542412
             ],
             [
-              -71.09825849533081,
-              42.33028614359105
+              -71.09763085842133,
+              42.330762035563254
+            ],
+            [
+              -71.09714269638062,
+              42.33180105385685
+            ],
+            [
+              -71.09790444374084,
+              42.331908127285644
+            ],
+            [
+              -71.09932065010071,
+              42.33228090002313
+            ],
+            [
+              -71.10004484653473,
+              42.332483148137044
+            ],
+            [
+              -71.10133767127991,
+              42.33296695471205
+            ],
+            [
+              -71.10153615474701,
+              42.3325465983917
+            ],
+            [
+              -71.10172927379608,
+              42.33221744950044
+            ],
+            [
+              -71.10212624073029,
+              42.33171380870604
             ],
             [
               -71.09851062297821,
@@ -1901,7 +1905,7 @@
       "type": "Feature",
       "properties": {
         "plate": 30,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1943,7 +1947,7 @@
       "type": "Feature",
       "properties": {
         "plate": 31,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2013,7 +2017,7 @@
       "type": "Feature",
       "properties": {
         "plate": 32,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2127,7 +2131,7 @@
       "type": "Feature",
       "properties": {
         "plate": 33,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2138,48 +2142,48 @@
               42.32868394748545
             ],
             [
-              -71.0947448015213,
-              42.32840236920116
-            ],
-            [
-              -71.09384894371033,
-              42.328132687409166
-            ],
-            [
-              -71.09249174594879,
-              42.32782731104303
-            ],
-            [
-              -71.09313011169434,
-              42.32637179552396
-            ],
-            [
-              -71.09327495098114,
-              42.3251066197993
-            ],
-            [
-              -71.09596252441406,
-              42.32643128591916
-            ],
-            [
-              -71.09604299068451,
-              42.32656613060668
-            ],
-            [
-              -71.09606444835663,
-              42.3267327030569
-            ],
-            [
-              -71.09563529491425,
-              42.32752986510534
+              -71.09523832798004,
+              42.32843806229286
             ],
             [
               -71.09565675258636,
               42.32766074149119
             ],
             [
-              -71.09523832798004,
-              42.32843806229286
+              -71.09563529491425,
+              42.32752986510534
+            ],
+            [
+              -71.09606444835663,
+              42.3267327030569
+            ],
+            [
+              -71.09604299068451,
+              42.32656613060668
+            ],
+            [
+              -71.09596252441406,
+              42.32643128591916
+            ],
+            [
+              -71.09327495098114,
+              42.3251066197993
+            ],
+            [
+              -71.09313011169434,
+              42.32637179552396
+            ],
+            [
+              -71.09249174594879,
+              42.32782731104303
+            ],
+            [
+              -71.09384894371033,
+              42.328132687409166
+            ],
+            [
+              -71.0947448015213,
+              42.32840236920116
             ],
             [
               -71.09500229358672,
@@ -2193,7 +2197,7 @@
       "type": "Feature",
       "properties": {
         "plate": 34,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2204,60 +2208,60 @@
               42.328263562540855
             ],
             [
-              -71.091268658638,
-              42.327894731926705
-            ],
-            [
-              -71.09009921550751,
-              42.327327601064354
-            ],
-            [
-              -71.08884394168854,
-              42.32657802865346
-            ],
-            [
-              -71.089648604393,
-              42.32590380245303
-            ],
-            [
-              -71.08971834182739,
-              42.32574515994394
-            ],
-            [
-              -71.08967542648315,
-              42.325622211724266
-            ],
-            [
-              -71.08953595161438,
-              42.3254199415497
-            ],
-            [
-              -71.09005630016327,
-              42.32468026174644
-            ],
-            [
-              -71.09109967947006,
-              42.325118518122125
-            ],
-            [
-              -71.0912874341011,
-              42.32525931477132
-            ],
-            [
-              -71.09182924032211,
-              42.326044597344726
-            ],
-            [
-              -71.09223425388336,
-              42.32663751885363
+              -71.09291017055511,
+              42.326867547098324
             ],
             [
               -71.09233617782593,
               42.326716839033026
             ],
             [
-              -71.09291017055511,
-              42.326867547098324
+              -71.09223425388336,
+              42.32663751885363
+            ],
+            [
+              -71.09182924032211,
+              42.326044597344726
+            ],
+            [
+              -71.0912874341011,
+              42.32525931477132
+            ],
+            [
+              -71.09109967947006,
+              42.325118518122125
+            ],
+            [
+              -71.09005630016327,
+              42.32468026174644
+            ],
+            [
+              -71.08953595161438,
+              42.3254199415497
+            ],
+            [
+              -71.08967542648315,
+              42.325622211724266
+            ],
+            [
+              -71.08971834182739,
+              42.32574515994394
+            ],
+            [
+              -71.089648604393,
+              42.32590380245303
+            ],
+            [
+              -71.08884394168854,
+              42.32657802865346
+            ],
+            [
+              -71.09009921550751,
+              42.327327601064354
+            ],
+            [
+              -71.091268658638,
+              42.327894731926705
             ],
             [
               -71.09229326248169,
@@ -2271,7 +2275,7 @@
       "type": "Feature",
       "properties": {
         "plate": 35,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2282,68 +2286,68 @@
               42.326865564099805
             ],
             [
-              -71.09233349561691,
-              42.32671485602975
-            ],
-            [
-              -71.09223425388336,
-              42.32663950185935
-            ],
-            [
-              -71.09129548072814,
-              42.32528112830852
-            ],
-            [
-              -71.09109967947006,
-              42.325118518122125
-            ],
-            [
-              -71.09005630016327,
-              42.32468422788118
-            ],
-            [
-              -71.0908931493759,
-              42.323526105915384
-            ],
-            [
-              -71.09098702669144,
-              42.3234091026818
-            ],
-            [
-              -71.0915207862854,
-              42.32302834489001
-            ],
-            [
-              -71.09181314706802,
-              42.32319889293583
-            ],
-            [
-              -71.09196066856383,
-              42.32324648765679
-            ],
-            [
-              -71.09206259250641,
-              42.323252436994395
-            ],
-            [
-              -71.09247833490372,
-              42.32392470851856
-            ],
-            [
-              -71.09259098768234,
-              42.3239108268783
-            ],
-            [
-              -71.09325617551804,
-              42.32386124956666
+              -71.09313279390335,
+              42.32637179552396
             ],
             [
               -71.09327763319016,
               42.32511058590714
             ],
             [
-              -71.09313279390335,
-              42.32637179552396
+              -71.09325617551804,
+              42.32386124956666
+            ],
+            [
+              -71.09259098768234,
+              42.3239108268783
+            ],
+            [
+              -71.09247833490372,
+              42.32392470851856
+            ],
+            [
+              -71.09206259250641,
+              42.323252436994395
+            ],
+            [
+              -71.09196066856383,
+              42.32324648765679
+            ],
+            [
+              -71.09181314706802,
+              42.32319889293583
+            ],
+            [
+              -71.0915207862854,
+              42.32302834489001
+            ],
+            [
+              -71.09098702669144,
+              42.3234091026818
+            ],
+            [
+              -71.0908931493759,
+              42.323526105915384
+            ],
+            [
+              -71.09005630016327,
+              42.32468422788118
+            ],
+            [
+              -71.09109967947006,
+              42.325118518122125
+            ],
+            [
+              -71.09129548072814,
+              42.32528112830852
+            ],
+            [
+              -71.09223425388336,
+              42.32663950185935
+            ],
+            [
+              -71.09233349561691,
+              42.32671485602975
             ],
             [
               -71.09291553497314,
@@ -2357,7 +2361,7 @@
       "type": "Feature",
       "properties": {
         "plate": 36,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2435,7 +2439,7 @@
       "type": "Feature",
       "properties": {
         "plate": 37,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2545,7 +2549,7 @@
       "type": "Feature",
       "properties": {
         "plate": 38,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2615,7 +2619,7 @@
       "type": "Feature",
       "properties": {
         "plate": 39,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2661,7 +2665,7 @@
       "type": "Feature",
       "properties": {
         "plate": 40,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2719,7 +2723,7 @@
       "type": "Feature",
       "properties": {
         "plate": 41,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2781,7 +2785,7 @@
       "type": "Feature",
       "properties": {
         "plate": 42,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2839,7 +2843,7 @@
       "type": "Feature",
       "properties": {
         "plate": 43,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2893,7 +2897,7 @@
       "type": "Feature",
       "properties": {
         "plate": 44,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2947,7 +2951,7 @@
       "type": "Feature",
       "properties": {
         "plate": 45,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2958,36 +2962,36 @@
               42.3183004103738
             ],
             [
-              -71.08084559440613,
-              42.31773715959422
-            ],
-            [
-              -71.07897341251373,
-              42.31625761064474
-            ],
-            [
-              -71.07824385166167,
-              42.31589267633328
-            ],
-            [
-              -71.07829213142395,
-              42.31565864125893
-            ],
-            [
-              -71.07884466648102,
-              42.314607456038885
-            ],
-            [
-              -71.08100652694702,
-              42.31575384207215
+              -71.0829108953476,
+              42.31638057716432
             ],
             [
               -71.08181118965149,
               42.31604341032714
             ],
             [
-              -71.0829108953476,
-              42.31638057716432
+              -71.08100652694702,
+              42.31575384207215
+            ],
+            [
+              -71.07884466648102,
+              42.314607456038885
+            ],
+            [
+              -71.07829213142395,
+              42.31565864125893
+            ],
+            [
+              -71.07824385166167,
+              42.31589267633328
+            ],
+            [
+              -71.07897341251373,
+              42.31625761064474
+            ],
+            [
+              -71.08084559440613,
+              42.31773715959422
             ],
             [
               -71.08189165592194,
@@ -3001,7 +3005,7 @@
       "type": "Feature",
       "properties": {
         "plate": 46,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3012,32 +3016,32 @@
               42.316384543822245
             ],
             [
-              -71.08184337615967,
-              42.31604737700632
-            ],
-            [
-              -71.08100652694702,
-              42.31575384207215
-            ],
-            [
-              -71.07884466648102,
-              42.314607456038885
-            ],
-            [
-              -71.07970297336578,
-              42.31321113757712
-            ],
-            [
-              -71.0813820362091,
-              42.3136752582303
+              -71.08371019363403,
+              42.31421871139711
             ],
             [
               -71.08168780803679,
               42.314397216887926
             ],
             [
-              -71.08371019363403,
-              42.31421871139711
+              -71.0813820362091,
+              42.3136752582303
+            ],
+            [
+              -71.07970297336578,
+              42.31321113757712
+            ],
+            [
+              -71.07884466648102,
+              42.314607456038885
+            ],
+            [
+              -71.08100652694702,
+              42.31575384207215
+            ],
+            [
+              -71.08184337615967,
+              42.31604737700632
             ],
             [
               -71.08290553092957,
@@ -3051,7 +3055,7 @@
       "type": "Feature",
       "properties": {
         "plate": 47,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3062,40 +3066,40 @@
               42.31421871139711
             ],
             [
-              -71.08168244361877,
-              42.314397216887926
-            ],
-            [
-              -71.08139276504517,
-              42.313687158714856
-            ],
-            [
-              -71.07969224452972,
-              42.31321907129225
-            ],
-            [
-              -71.08074367046356,
-              42.31189412700301
-            ],
-            [
-              -71.08153223991394,
-              42.31224321682737
-            ],
-            [
-              -71.08171999454498,
-              42.31227495216993
-            ],
-            [
-              -71.0829645395279,
-              42.312171812248096
+              -71.08364045619965,
+              42.313536419077444
             ],
             [
               -71.08348488807678,
               42.31296519191198
             ],
             [
-              -71.08364045619965,
-              42.313536419077444
+              -71.0829645395279,
+              42.312171812248096
+            ],
+            [
+              -71.08171999454498,
+              42.31227495216993
+            ],
+            [
+              -71.08153223991394,
+              42.31224321682737
+            ],
+            [
+              -71.08074367046356,
+              42.31189412700301
+            ],
+            [
+              -71.07969224452972,
+              42.31321907129225
+            ],
+            [
+              -71.08139276504517,
+              42.313687158714856
+            ],
+            [
+              -71.08168244361877,
+              42.314397216887926
             ],
             [
               -71.08372628688812,
@@ -3109,7 +3113,7 @@
       "type": "Feature",
       "properties": {
         "plate": 48,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3120,80 +3124,80 @@
               42.31216784532462
             ],
             [
-              -71.0817039012909,
-              42.31227495216993
-            ],
-            [
-              -71.08153223991394,
-              42.31224321682737
-            ],
-            [
-              -71.08072757720947,
-              42.311898093943704
-            ],
-            [
-              -71.08199894428253,
-              42.310259726163984
-            ],
-            [
-              -71.08296990394592,
-              42.31062866015914
-            ],
-            [
-              -71.08308792114258,
-              42.31066039631579
-            ],
-            [
-              -71.08318448066711,
-              42.310644528239465
-            ],
-            [
-              -71.08329713344574,
-              42.31060089100895
-            ],
-            [
-              -71.08379602432251,
-              42.31054138564586
-            ],
-            [
-              -71.08419299125671,
-              42.310708000520734
-            ],
-            [
-              -71.08585596084595,
-              42.31169181269585
-            ],
-            [
-              -71.08556091785431,
-              42.31206470522725
-            ],
-            [
-              -71.08521223068236,
-              42.312354290456355
-            ],
-            [
-              -71.08437538146973,
-              42.31256850333015
-            ],
-            [
-              -71.0840857028961,
-              42.31271527839684
-            ],
-            [
-              -71.0839569568634,
-              42.31286998688038
-            ],
-            [
-              -71.0836672782898,
-              42.313064363666804
+              -71.08347952365875,
+              42.312937423792654
             ],
             [
               -71.08353853225708,
               42.31318336956629
             ],
             [
-              -71.08347952365875,
-              42.312937423792654
+              -71.0836672782898,
+              42.313064363666804
+            ],
+            [
+              -71.0839569568634,
+              42.31286998688038
+            ],
+            [
+              -71.0840857028961,
+              42.31271527839684
+            ],
+            [
+              -71.08437538146973,
+              42.31256850333015
+            ],
+            [
+              -71.08521223068236,
+              42.312354290456355
+            ],
+            [
+              -71.08556091785431,
+              42.31206470522725
+            ],
+            [
+              -71.08585596084595,
+              42.31169181269585
+            ],
+            [
+              -71.08419299125671,
+              42.310708000520734
+            ],
+            [
+              -71.08379602432251,
+              42.31054138564586
+            ],
+            [
+              -71.08329713344574,
+              42.31060089100895
+            ],
+            [
+              -71.08318448066711,
+              42.310644528239465
+            ],
+            [
+              -71.08308792114258,
+              42.31066039631579
+            ],
+            [
+              -71.08296990394592,
+              42.31062866015914
+            ],
+            [
+              -71.08199894428253,
+              42.310259726163984
+            ],
+            [
+              -71.08072757720947,
+              42.311898093943704
+            ],
+            [
+              -71.08153223991394,
+              42.31224321682737
+            ],
+            [
+              -71.0817039012909,
+              42.31227495216993
             ],
             [
               -71.0829484462738,
@@ -3207,7 +3211,7 @@
       "type": "Feature",
       "properties": {
         "plate": 49,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3273,7 +3277,7 @@
       "type": "Feature",
       "properties": {
         "plate": 50,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3284,40 +3288,40 @@
               42.31022005571316
             ],
             [
-              -71.08634412288666,
-              42.309985999544374
-            ],
-            [
-              -71.08447194099426,
-              42.308966456589154
-            ],
-            [
-              -71.08316838741302,
-              42.30845866249766
-            ],
-            [
-              -71.0839569568634,
-              42.30737958645223
-            ],
-            [
-              -71.08423054218292,
-              42.30699873166694
-            ],
-            [
-              -71.08433783054352,
-              42.30676863078423
-            ],
-            [
-              -71.08660161495209,
-              42.30767712765
+              -71.08797490596771,
+              42.3088910811626
             ],
             [
               -71.08637630939484,
               42.3080024377502
             ],
             [
-              -71.08797490596771,
-              42.3088910811626
+              -71.08660161495209,
+              42.30767712765
+            ],
+            [
+              -71.08433783054352,
+              42.30676863078423
+            ],
+            [
+              -71.08423054218292,
+              42.30699873166694
+            ],
+            [
+              -71.0839569568634,
+              42.30737958645223
+            ],
+            [
+              -71.08316838741302,
+              42.30845866249766
+            ],
+            [
+              -71.08447194099426,
+              42.308966456589154
+            ],
+            [
+              -71.08634412288666,
+              42.309985999544374
             ],
             [
               -71.08697712421417,
@@ -3331,7 +3335,7 @@
       "type": "Feature",
       "properties": {
         "plate": 51,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3342,40 +3346,40 @@
               42.308887114032395
             ],
             [
-              -71.08637630939484,
-              42.307998470563994
-            ],
-            [
-              -71.08660161495209,
-              42.30767316044329
-            ],
-            [
-              -71.08433783054352,
-              42.30677259804794
-            ],
-            [
-              -71.08455777168274,
-              42.30607435578231
-            ],
-            [
-              -71.08467042446136,
-              42.3053086607587
-            ],
-            [
-              -71.08494400978088,
-              42.30533643224356
-            ],
-            [
-              -71.08594715595245,
-              42.305812512936036
+              -71.08904242515564,
+              42.30755017691097
             ],
             [
               -71.08761012554167,
               42.30678846710034
             ],
             [
-              -71.08904242515564,
-              42.30755017691097
+              -71.08594715595245,
+              42.305812512936036
+            ],
+            [
+              -71.08494400978088,
+              42.30533643224356
+            ],
+            [
+              -71.08467042446136,
+              42.3053086607587
+            ],
+            [
+              -71.08455777168274,
+              42.30607435578231
+            ],
+            [
+              -71.08433783054352,
+              42.30677259804794
+            ],
+            [
+              -71.08660161495209,
+              42.30767316044329
+            ],
+            [
+              -71.08637630939484,
+              42.307998470563994
             ],
             [
               -71.08798027038574,
@@ -3389,7 +3393,7 @@
       "type": "Feature",
       "properties": {
         "plate": 52,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3431,7 +3435,7 @@
       "type": "Feature",
       "properties": {
         "plate": 53,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3442,24 +3446,24 @@
               42.31116023867218
             ],
             [
-              -71.08993291854858,
-              42.31263990745939
-            ],
-            [
-              -71.08836650848389,
-              42.31197346576946
-            ],
-            [
-              -71.08640313148499,
-              42.310973790003395
+              -71.08962714672089,
+              42.31048188022653
             ],
             [
               -71.08782470226288,
               42.309144976976235
             ],
             [
-              -71.08962714672089,
-              42.31048188022653
+              -71.08640313148499,
+              42.310973790003395
+            ],
+            [
+              -71.08836650848389,
+              42.31197346576946
+            ],
+            [
+              -71.08993291854858,
+              42.31263990745939
             ],
             [
               -71.09111309051514,
@@ -3473,7 +3477,7 @@
       "type": "Feature",
       "properties": {
         "plate": 54,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3484,28 +3488,28 @@
               42.31264387435309
             ],
             [
-              -71.08880639076233,
-              42.31400847094754
-            ],
-            [
-              -71.08770668506622,
-              42.3136435235938
-            ],
-            [
-              -71.0852175951004,
-              42.312366191190705
-            ],
-            [
-              -71.08560383319855,
-              42.312036936710626
+              -71.08831286430359,
+              42.311941730274874
             ],
             [
               -71.08640313148499,
               42.31098569099878
             ],
             [
-              -71.08831286430359,
-              42.311941730274874
+              -71.08560383319855,
+              42.312036936710626
+            ],
+            [
+              -71.0852175951004,
+              42.312366191190705
+            ],
+            [
+              -71.08770668506622,
+              42.3136435235938
+            ],
+            [
+              -71.08880639076233,
+              42.31400847094754
             ],
             [
               -71.08992755413055,
@@ -3519,7 +3523,7 @@
       "type": "Feature",
       "properties": {
         "plate": 55,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3577,7 +3581,7 @@
       "type": "Feature",
       "properties": {
         "plate": 56,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3588,32 +3592,32 @@
               42.31501999874675
             ],
             [
-              -71.08690202236176,
-              42.31639644379451
-            ],
-            [
-              -71.08652114868164,
-              42.31705093880369
-            ],
-            [
-              -71.08553946018219,
-              42.316745508646484
-            ],
-            [
-              -71.08448803424834,
-              42.31680104151261
-            ],
-            [
-              -71.08291625976561,
-              42.31639644379451
+              -71.08373165130615,
+              42.31408780704874
             ],
             [
               -71.08372092247009,
               42.314226644985226
             ],
             [
-              -71.08373165130615,
-              42.31408780704874
+              -71.08291625976561,
+              42.31639644379451
+            ],
+            [
+              -71.08448803424834,
+              42.31680104151261
+            ],
+            [
+              -71.08553946018219,
+              42.316745508646484
+            ],
+            [
+              -71.08652114868164,
+              42.31705093880369
+            ],
+            [
+              -71.08690202236176,
+              42.31639644379451
             ],
             [
               -71.08798027038574,
@@ -3627,7 +3631,7 @@
       "type": "Feature",
       "properties": {
         "plate": 57,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3638,24 +3642,24 @@
               42.31705490541936
             ],
             [
-              -71.08604907989502,
-              42.31905801438665
-            ],
-            [
-              -71.08209013938902,
-              42.317931521348406
-            ],
-            [
-              -71.08291625976561,
-              42.31640041045142
+              -71.08555555343627,
+              42.31674947528141
             ],
             [
               -71.08448266983032,
               42.31678914161686
             ],
             [
-              -71.08555555343627,
-              42.31674947528141
+              -71.08291625976561,
+              42.31640041045142
+            ],
+            [
+              -71.08209013938902,
+              42.317931521348406
+            ],
+            [
+              -71.08604907989502,
+              42.31905801438665
             ],
             [
               -71.08653724193573,
@@ -3669,7 +3673,7 @@
       "type": "Feature",
       "properties": {
         "plate": 58,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3680,40 +3684,40 @@
               42.31905404789726
             ],
             [
-              -71.08498156070709,
-              42.320307446104884
-            ],
-            [
-              -71.08319520950317,
-              42.31979181062459
-            ],
-            [
-              -71.08280897140503,
-              42.320664422039066
-            ],
-            [
-              -71.08173072338104,
-              42.32074771613228
-            ],
-            [
-              -71.08147859573364,
-              42.31979974351013
-            ],
-            [
-              -71.08150541782379,
-              42.319284103869364
-            ],
-            [
-              -71.08171999454498,
-              42.318736727934876
+              -71.08387112617493,
+              42.318435272488436
             ],
             [
               -71.08207941055298,
               42.317931521348406
             ],
             [
-              -71.08387112617493,
-              42.318435272488436
+              -71.08171999454498,
+              42.318736727934876
+            ],
+            [
+              -71.08150541782379,
+              42.319284103869364
+            ],
+            [
+              -71.08147859573364,
+              42.31979974351013
+            ],
+            [
+              -71.08173072338104,
+              42.32074771613228
+            ],
+            [
+              -71.08280897140503,
+              42.320664422039066
+            ],
+            [
+              -71.08319520950317,
+              42.31979181062459
+            ],
+            [
+              -71.08498156070709,
+              42.320307446104884
             ],
             [
               -71.08605444431305,
@@ -3727,7 +3731,7 @@
       "type": "Feature",
       "properties": {
         "plate": 59,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3738,40 +3742,40 @@
               42.321715506084445
             ],
             [
-              -71.08173608779907,
-              42.32075168251493
-            ],
-            [
-              -71.08281970024109,
-              42.32066045565092
-            ],
-            [
-              -71.08320593833923,
-              42.31980370995255
-            ],
-            [
-              -71.08497619628906,
-              42.320303479694275
-            ],
-            [
-              -71.08456313610077,
-              42.320866707502766
-            ],
-            [
-              -71.0856682062149,
-              42.32131490631149
-            ],
-            [
-              -71.08484745025635,
-              42.32247306897982
+              -71.08207941055298,
+              42.321715506084445
             ],
             [
               -71.0837584733963,
               42.32201297951319
             ],
             [
-              -71.08207941055298,
-              42.321715506084445
+              -71.08484745025635,
+              42.32247306897982
+            ],
+            [
+              -71.0856682062149,
+              42.32131490631149
+            ],
+            [
+              -71.08456313610077,
+              42.320866707502766
+            ],
+            [
+              -71.08497619628906,
+              42.320303479694275
+            ],
+            [
+              -71.08320593833923,
+              42.31980370995255
+            ],
+            [
+              -71.08281970024109,
+              42.32066045565092
+            ],
+            [
+              -71.08173608779907,
+              42.32075168251493
             ],
             [
               -71.0819935798645,
@@ -3785,7 +3789,7 @@
       "type": "Feature",
       "properties": {
         "plate": 60,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3859,7 +3863,7 @@
       "type": "Feature",
       "properties": {
         "plate": 61,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3901,7 +3905,7 @@
       "type": "Feature",
       "properties": {
         "plate": 62,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3943,7 +3947,7 @@
       "type": "Feature",
       "properties": {
         "plate": 63,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4001,7 +4005,7 @@
       "type": "Feature",
       "properties": {
         "plate": 64,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4012,72 +4016,72 @@
               42.315777642252954
             ],
             [
-              -71.09192848205566,
-              42.31546030576883
-            ],
-            [
-              -71.09197676181793,
-              42.31534527089818
-            ],
-            [
-              -71.09199285507202,
-              42.31521833562448
-            ],
-            [
-              -71.09194457530975,
-              42.31496049756153
-            ],
-            [
-              -71.09178364276886,
-              42.314801827459306
-            ],
-            [
-              -71.09146177768707,
-              42.314607456038885
-            ],
-            [
-              -71.09137594699858,
-              42.3145241538178
-            ],
-            [
-              -71.09322667121887,
-              42.31224718374606
-            ],
-            [
-              -71.09356462955475,
-              42.31218767993937
-            ],
-            [
-              -71.0936987400055,
-              42.31249313221696
-            ],
-            [
-              -71.09385430812834,
-              42.31266767571001
-            ],
-            [
-              -71.09476089477538,
-              42.31309609859533
-            ],
-            [
-              -71.0951042175293,
-              42.31334601059834
-            ],
-            [
-              -71.09431564807892,
-              42.31395293561717
-            ],
-            [
-              -71.09400987625122,
-              42.3142306117789
+              -71.09354317188263,
+              42.31560707409163
             ],
             [
               -71.09382212162018,
               42.31451622026716
             ],
             [
-              -71.09354317188263,
-              42.31560707409163
+              -71.09400987625122,
+              42.3142306117789
+            ],
+            [
+              -71.09431564807892,
+              42.31395293561717
+            ],
+            [
+              -71.0951042175293,
+              42.31334601059834
+            ],
+            [
+              -71.09476089477538,
+              42.31309609859533
+            ],
+            [
+              -71.09385430812834,
+              42.31266767571001
+            ],
+            [
+              -71.0936987400055,
+              42.31249313221696
+            ],
+            [
+              -71.09356462955475,
+              42.31218767993937
+            ],
+            [
+              -71.09322667121887,
+              42.31224718374606
+            ],
+            [
+              -71.09137594699858,
+              42.3145241538178
+            ],
+            [
+              -71.09146177768707,
+              42.314607456038885
+            ],
+            [
+              -71.09178364276886,
+              42.314801827459306
+            ],
+            [
+              -71.09194457530975,
+              42.31496049756153
+            ],
+            [
+              -71.09199285507202,
+              42.31521833562448
+            ],
+            [
+              -71.09197676181793,
+              42.31534527089818
+            ],
+            [
+              -71.09192848205566,
+              42.31546030576883
             ],
             [
               -71.09347879886627,
@@ -4091,7 +4095,7 @@
       "type": "Feature",
       "properties": {
         "plate": 65,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4173,7 +4177,7 @@
       "type": "Feature",
       "properties": {
         "plate": 66,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4235,7 +4239,7 @@
       "type": "Feature",
       "properties": {
         "plate": 67,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4301,7 +4305,7 @@
       "type": "Feature",
       "properties": {
         "plate": 68,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4375,7 +4379,7 @@
       "type": "Feature",
       "properties": {
         "plate": 69,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4449,7 +4453,7 @@
       "type": "Feature",
       "properties": {
         "plate": 70,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4523,7 +4527,7 @@
       "type": "Feature",
       "properties": {
         "plate": 71,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4613,7 +4617,7 @@
       "type": "Feature",
       "properties": {
         "plate": 72,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4624,76 +4628,76 @@
               42.321247478376144
             ],
             [
-              -71.09458386898041,
-              42.32162031429021
-            ],
-            [
-              -71.0953938961029,
-              42.322072474030165
-            ],
-            [
-              -71.09534025192261,
-              42.32213196849088
-            ],
-            [
-              -71.09533488750458,
-              42.3229926487289
-            ],
-            [
-              -71.09538853168488,
-              42.32324252143142
-            ],
-            [
-              -71.09520614147186,
-              42.32323855520581
-            ],
-            [
-              -71.09454095363617,
-              42.32308783844687
-            ],
-            [
-              -71.09385430812834,
-              42.32314733194748
-            ],
-            [
-              -71.09359681606293,
-              42.32320682539182
-            ],
-            [
-              -71.09347343444824,
-              42.323294082341775
-            ],
-            [
-              -71.09327495098114,
-              42.323583615899615
-            ],
-            [
-              -71.09324276447296,
-              42.32386521575303
-            ],
-            [
-              -71.09256684780121,
-              42.32390487760295
-            ],
-            [
-              -71.09247028827667,
-              42.32392470851856
-            ],
-            [
-              -71.09207332134247,
-              42.32325442010678
-            ],
-            [
-              -71.09194457530975,
-              42.32324648765679
+              -71.09154224395752,
+              42.32304024360588
             ],
             [
               -71.09180510044098,
               42.32319889293583
             ],
             [
-              -71.09154224395752,
-              42.32304024360588
+              -71.09194457530975,
+              42.32324648765679
+            ],
+            [
+              -71.09207332134247,
+              42.32325442010678
+            ],
+            [
+              -71.09247028827667,
+              42.32392470851856
+            ],
+            [
+              -71.09256684780121,
+              42.32390487760295
+            ],
+            [
+              -71.09324276447296,
+              42.32386521575303
+            ],
+            [
+              -71.09327495098114,
+              42.323583615899615
+            ],
+            [
+              -71.09347343444824,
+              42.323294082341775
+            ],
+            [
+              -71.09359681606293,
+              42.32320682539182
+            ],
+            [
+              -71.09385430812834,
+              42.32314733194748
+            ],
+            [
+              -71.09454095363617,
+              42.32308783844687
+            ],
+            [
+              -71.09520614147186,
+              42.32323855520581
+            ],
+            [
+              -71.09538853168488,
+              42.32324252143142
+            ],
+            [
+              -71.09533488750458,
+              42.3229926487289
+            ],
+            [
+              -71.09534025192261,
+              42.32213196849088
+            ],
+            [
+              -71.0953938961029,
+              42.322072474030165
+            ],
+            [
+              -71.09458386898041,
+              42.32162031429021
             ],
             [
               -71.09391331672668,
@@ -4707,7 +4711,7 @@
       "type": "Feature",
       "properties": {
         "plate": 73,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4801,7 +4805,7 @@
       "type": "Feature",
       "properties": {
         "plate": 74,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4812,100 +4816,100 @@
               42.31952209192094
             ],
             [
-              -71.09748065471648,
-              42.31947846084554
-            ],
-            [
-              -71.09836578369139,
-              42.31957762233679
-            ],
-            [
-              -71.09836578369139,
-              42.32046610232567
-            ],
-            [
-              -71.09933137893677,
-              42.320438337515895
-            ],
-            [
-              -71.09923481941223,
-              42.32151718968394
-            ],
-            [
-              -71.09915971755981,
-              42.321687741826004
-            ],
-            [
-              -71.09914362430573,
-              42.32225888981906
-            ],
-            [
-              -71.09933137893677,
-              42.32270707871085
-            ],
-            [
-              -71.09771132469177,
-              42.324777431975505
-            ],
-            [
-              -71.09723925590514,
-              42.32433322398896
-            ],
-            [
-              -71.09663307666779,
-              42.32389694523497
-            ],
-            [
-              -71.0958069562912,
-              42.32354792005352
-            ],
-            [
-              -71.09551191329956,
-              42.32355188625964
-            ],
-            [
-              -71.09535098075867,
-              42.32311560208749
-            ],
-            [
-              -71.0953241586685,
-              42.32213196849088
-            ],
-            [
-              -71.09538853168488,
-              42.322072474030165
-            ],
-            [
-              -71.09392940998077,
-              42.321259377428795
-            ],
-            [
-              -71.09315693378448,
-              42.320787379947454
-            ],
-            [
-              -71.09402596950531,
-              42.32007739387421
-            ],
-            [
-              -71.09531879425049,
-              42.31882002457989
-            ],
-            [
-              -71.0955011844635,
-              42.319050081407596
-            ],
-            [
-              -71.09576404094696,
-              42.3192603050147
+              -71.09640777111053,
+              42.31943879620528
             ],
             [
               -71.09604299068451,
               42.3193634333199
             ],
             [
-              -71.09640777111053,
-              42.31943879620528
+              -71.09576404094696,
+              42.3192603050147
+            ],
+            [
+              -71.0955011844635,
+              42.319050081407596
+            ],
+            [
+              -71.09531879425049,
+              42.31882002457989
+            ],
+            [
+              -71.09402596950531,
+              42.32007739387421
+            ],
+            [
+              -71.09315693378448,
+              42.320787379947454
+            ],
+            [
+              -71.09392940998077,
+              42.321259377428795
+            ],
+            [
+              -71.09538853168488,
+              42.322072474030165
+            ],
+            [
+              -71.0953241586685,
+              42.32213196849088
+            ],
+            [
+              -71.09535098075867,
+              42.32311560208749
+            ],
+            [
+              -71.09551191329956,
+              42.32355188625964
+            ],
+            [
+              -71.0958069562912,
+              42.32354792005352
+            ],
+            [
+              -71.09663307666779,
+              42.32389694523497
+            ],
+            [
+              -71.09723925590514,
+              42.32433322398896
+            ],
+            [
+              -71.09771132469177,
+              42.324777431975505
+            ],
+            [
+              -71.09933137893677,
+              42.32270707871085
+            ],
+            [
+              -71.09914362430573,
+              42.32225888981906
+            ],
+            [
+              -71.09915971755981,
+              42.321687741826004
+            ],
+            [
+              -71.09923481941223,
+              42.32151718968394
+            ],
+            [
+              -71.09933137893677,
+              42.320438337515895
+            ],
+            [
+              -71.09836578369139,
+              42.32046610232567
+            ],
+            [
+              -71.09836578369139,
+              42.31957762233679
+            ],
+            [
+              -71.09748065471648,
+              42.31947846084554
             ],
             [
               -71.09686374664307,
@@ -4919,7 +4923,7 @@
       "type": "Feature",
       "properties": {
         "plate": "74a",
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4930,76 +4934,76 @@
               42.317328601296595
             ],
             [
-              -71.09824776649475,
-              42.31833610919699
-            ],
-            [
-              -71.1003452539444,
-              42.31944672913533
-            ],
-            [
-              -71.100093126297,
-              42.31966885077072
-            ],
-            [
-              -71.09988927841187,
-              42.319744213290335
-            ],
-            [
-              -71.09959423542021,
-              42.31980767639469
-            ],
-            [
-              -71.09947621822357,
-              42.319883038747996
-            ],
-            [
-              -71.09936356544495,
-              42.320005998183305
-            ],
-            [
-              -71.09934210777283,
-              42.32024001708993
-            ],
-            [
-              -71.09932601451874,
-              42.320438337515895
-            ],
-            [
-              -71.09836578369139,
-              42.320458169524144
-            ],
-            [
-              -71.09836578369139,
-              42.31957365588015
-            ],
-            [
-              -71.09747529029846,
-              42.319486393770575
-            ],
-            [
-              -71.09684228897095,
-              42.31952209192094
-            ],
-            [
-              -71.09640777111053,
-              42.31943879620528
-            ],
-            [
-              -71.0960590839386,
-              42.3193673997898
-            ],
-            [
-              -71.09578013420105,
-              42.319268237967265
+              -71.09531342983246,
+              42.31881209157081
             ],
             [
               -71.09549582004547,
               42.319050081407596
             ],
             [
-              -71.09531342983246,
-              42.31881209157081
+              -71.09578013420105,
+              42.319268237967265
+            ],
+            [
+              -71.0960590839386,
+              42.3193673997898
+            ],
+            [
+              -71.09640777111053,
+              42.31943879620528
+            ],
+            [
+              -71.09684228897095,
+              42.31952209192094
+            ],
+            [
+              -71.09747529029846,
+              42.319486393770575
+            ],
+            [
+              -71.09836578369139,
+              42.31957365588015
+            ],
+            [
+              -71.09836578369139,
+              42.320458169524144
+            ],
+            [
+              -71.09932601451874,
+              42.320438337515895
+            ],
+            [
+              -71.09934210777283,
+              42.32024001708993
+            ],
+            [
+              -71.09936356544495,
+              42.320005998183305
+            ],
+            [
+              -71.09947621822357,
+              42.319883038747996
+            ],
+            [
+              -71.09959423542021,
+              42.31980767639469
+            ],
+            [
+              -71.09988927841187,
+              42.319744213290335
+            ],
+            [
+              -71.100093126297,
+              42.31966885077072
+            ],
+            [
+              -71.1003452539444,
+              42.31944672913533
+            ],
+            [
+              -71.09824776649475,
+              42.31833610919699
             ],
             [
               -71.09683156013489,
@@ -5013,7 +5017,7 @@
       "type": "Feature",
       "properties": {
         "plate": 75,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5024,60 +5028,60 @@
               42.340433759599044
             ],
             [
-              -71.11018896102905,
-              42.34102059781474
-            ],
-            [
-              -71.10950231552124,
-              42.34154398944032
-            ],
-            [
-              -71.10864400863647,
-              42.34178189328441
-            ],
-            [
-              -71.1082363128662,
-              42.34222597805159
-            ],
-            [
-              -71.10739946365356,
-              42.3427493596433
-            ],
-            [
-              -71.10660552978514,
-              42.34330445657061
-            ],
-            [
-              -71.10583305358887,
-              42.343764390311954
-            ],
-            [
-              -71.10514640808105,
-              42.344176741840194
-            ],
-            [
-              -71.10434174537659,
-              42.34425603990095
-            ],
-            [
-              -71.10354781150818,
-              42.34408158403525
-            ],
-            [
-              -71.10260367393494,
-              42.34328859672642
-            ],
-            [
-              -71.10086560249329,
-              42.34155984972459
+              -71.10963106155396,
+              42.34025136282174
             ],
             [
               -71.10516786575317,
               42.33778498923419
             ],
             [
-              -71.10963106155396,
-              42.34025136282174
+              -71.10086560249329,
+              42.34155984972459
+            ],
+            [
+              -71.10260367393494,
+              42.34328859672642
+            ],
+            [
+              -71.10354781150818,
+              42.34408158403525
+            ],
+            [
+              -71.10434174537659,
+              42.34425603990095
+            ],
+            [
+              -71.10514640808105,
+              42.344176741840194
+            ],
+            [
+              -71.10583305358887,
+              42.343764390311954
+            ],
+            [
+              -71.10660552978514,
+              42.34330445657061
+            ],
+            [
+              -71.10739946365356,
+              42.3427493596433
+            ],
+            [
+              -71.1082363128662,
+              42.34222597805159
+            ],
+            [
+              -71.10864400863647,
+              42.34178189328441
+            ],
+            [
+              -71.10950231552124,
+              42.34154398944032
+            ],
+            [
+              -71.11018896102905,
+              42.34102059781474
             ],
             [
               -71.1105751991272,
@@ -5091,7 +5095,7 @@
       "type": "Feature",
       "properties": {
         "plate": 76,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5173,7 +5177,7 @@
       "type": "Feature",
       "properties": {
         "plate": 77,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5231,7 +5235,7 @@
       "type": "Feature",
       "properties": {
         "plate": "77a",
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5242,24 +5246,24 @@
               42.33893095298103
             ],
             [
-              -71.10518395900726,
-              42.33780878108135
-            ],
-            [
-              -71.10645532608032,
-              42.33671038141869
-            ],
-            [
-              -71.10747456550598,
-              42.335826096270296
+              -71.10985100269318,
+              42.33652004306475
             ],
             [
               -71.10803782939911,
               42.33535024261408
             ],
             [
-              -71.10985100269318,
-              42.33652004306475
+              -71.10747456550598,
+              42.335826096270296
+            ],
+            [
+              -71.10645532608032,
+              42.33671038141869
+            ],
+            [
+              -71.10518395900726,
+              42.33780878108135
             ],
             [
               -71.10725462436676,
@@ -5273,7 +5277,7 @@
       "type": "Feature",
       "properties": {
         "plate": 78,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5284,52 +5288,52 @@
               42.33563972068389
             ],
             [
-              -71.10989391803741,
-              42.33604816007766
-            ],
-            [
-              -71.11006021499634,
-              42.33632573873417
-            ],
-            [
-              -71.10985100269318,
-              42.33651607767622
-            ],
-            [
-              -71.10804319381714,
-              42.335346277151835
-            ],
-            [
-              -71.10746651887894,
-              42.33582807898633
-            ],
-            [
-              -71.10489964485168,
-              42.334180420403634
-            ],
-            [
-              -71.1056238412857,
-              42.33374817550522
-            ],
-            [
-              -71.10635876655579,
-              42.333387308222946
-            ],
-            [
-              -71.10676646232604,
-              42.33327627171951
-            ],
-            [
-              -71.10790371894836,
-              42.33326040934589
+              -71.10788226127625,
+              42.33435886926594
             ],
             [
               -71.1079090833664,
               42.33408921301182
             ],
             [
-              -71.10788226127625,
-              42.33435886926594
+              -71.10790371894836,
+              42.33326040934589
+            ],
+            [
+              -71.10676646232604,
+              42.33327627171951
+            ],
+            [
+              -71.10635876655579,
+              42.333387308222946
+            ],
+            [
+              -71.1056238412857,
+              42.33374817550522
+            ],
+            [
+              -71.10489964485168,
+              42.334180420403634
+            ],
+            [
+              -71.10746651887894,
+              42.33582807898633
+            ],
+            [
+              -71.10804319381714,
+              42.335346277151835
+            ],
+            [
+              -71.10985100269318,
+              42.33651607767622
+            ],
+            [
+              -71.11006021499634,
+              42.33632573873417
+            ],
+            [
+              -71.10989391803741,
+              42.33604816007766
             ],
             [
               -71.10982418060303,
@@ -5343,7 +5347,7 @@
       "type": "Feature",
       "properties": {
         "plate": 79,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5381,7 +5385,7 @@
       "type": "Feature",
       "properties": {
         "plate": 80,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5463,7 +5467,7 @@
       "type": "Feature",
       "properties": {
         "plate": 81,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5474,32 +5478,32 @@
               42.33298281715968
             ],
             [
-              -71.10170781612396,
-              42.33225710608461
-            ],
-            [
-              -71.10212087631226,
-              42.33171380870604
-            ],
-            [
-              -71.10276460647583,
-              42.33109119207093
-            ],
-            [
-              -71.10307037830353,
-              42.33128154685553
-            ],
-            [
-              -71.10559970140457,
-              42.33241176652404
+              -71.10491037368774,
+              42.3341764548676
             ],
             [
               -71.10487818717957,
               42.33390679783134
             ],
             [
-              -71.10491037368774,
-              42.3341764548676
+              -71.10559970140457,
+              42.33241176652404
+            ],
+            [
+              -71.10307037830353,
+              42.33128154685553
+            ],
+            [
+              -71.10276460647583,
+              42.33109119207093
+            ],
+            [
+              -71.10212087631226,
+              42.33171380870604
+            ],
+            [
+              -71.10170781612396,
+              42.33225710608461
             ],
             [
               -71.10134303569794,
@@ -5513,7 +5517,7 @@
       "type": "Feature",
       "properties": {
         "plate": 82,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5524,68 +5528,68 @@
               42.332146067585896
             ],
             [
-              -71.10704004764557,
-              42.33322075339429
-            ],
-            [
-              -71.10706150531769,
-              42.33327230612648
-            ],
-            [
-              -71.1067396402359,
-              42.33328023731231
-            ],
-            [
-              -71.10633194446564,
-              42.33340713614934
-            ],
-            [
-              -71.10613346099854,
-              42.33349437895129
-            ],
-            [
-              -71.1056238412857,
-              42.33374817550522
-            ],
-            [
-              -71.10491573810577,
-              42.334168523794816
-            ],
-            [
-              -71.1048835515976,
-              42.33388697006247
-            ],
-            [
-              -71.10560238361359,
-              42.33241176652404
-            ],
-            [
-              -71.10474407672882,
-              42.33203106321984
-            ],
-            [
-              -71.10515177249908,
-              42.33101187740732
-            ],
-            [
-              -71.10544145107269,
-              42.33040908269547
-            ],
-            [
-              -71.10571503639221,
-              42.32984594031118
-            ],
-            [
-              -71.10647141933441,
-              42.330073973926325
+              -71.1065250635147,
+              42.33195174974141
             ],
             [
               -71.10728681087494,
               42.33026829757206
             ],
             [
-              -71.1065250635147,
-              42.33195174974141
+              -71.10647141933441,
+              42.330073973926325
+            ],
+            [
+              -71.10571503639221,
+              42.32984594031118
+            ],
+            [
+              -71.10544145107269,
+              42.33040908269547
+            ],
+            [
+              -71.10515177249908,
+              42.33101187740732
+            ],
+            [
+              -71.10474407672882,
+              42.33203106321984
+            ],
+            [
+              -71.10560238361359,
+              42.33241176652404
+            ],
+            [
+              -71.1048835515976,
+              42.33388697006247
+            ],
+            [
+              -71.10491573810577,
+              42.334168523794816
+            ],
+            [
+              -71.1056238412857,
+              42.33374817550522
+            ],
+            [
+              -71.10613346099854,
+              42.33349437895129
+            ],
+            [
+              -71.10633194446564,
+              42.33340713614934
+            ],
+            [
+              -71.1067396402359,
+              42.33328023731231
+            ],
+            [
+              -71.10706150531769,
+              42.33327230612648
+            ],
+            [
+              -71.10704004764557,
+              42.33322075339429
             ],
             [
               -71.1072438955307,
@@ -5599,7 +5603,7 @@
       "type": "Feature",
       "properties": {
         "plate": 83,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5610,52 +5614,52 @@
               42.33327032332986
             ],
             [
-              -71.1070454120636,
-              42.333226701788625
-            ],
-            [
-              -71.10724657773972,
-              42.33214408475376
-            ],
-            [
-              -71.10652774572372,
-              42.33195174974141
-            ],
-            [
-              -71.10728681087494,
-              42.33027028046331
-            ],
-            [
-              -71.10914826393127,
-              42.330777898566986
-            ],
-            [
-              -71.10948622226714,
-              42.330884973737554
-            ],
-            [
-              -71.10959351062775,
-              42.3309960144626
-            ],
-            [
-              -71.1096203327179,
-              42.33125378681865
-            ],
-            [
-              -71.10957741737366,
-              42.33182881365219
-            ],
-            [
-              -71.1096042394638,
-              42.33318902861502
+              -71.10790371894836,
+              42.33325644375184
             ],
             [
               -71.10887467861176,
               42.33327230612648
             ],
             [
-              -71.10790371894836,
-              42.33325644375184
+              -71.1096042394638,
+              42.33318902861502
+            ],
+            [
+              -71.10957741737366,
+              42.33182881365219
+            ],
+            [
+              -71.1096203327179,
+              42.33125378681865
+            ],
+            [
+              -71.10959351062775,
+              42.3309960144626
+            ],
+            [
+              -71.10948622226714,
+              42.330884973737554
+            ],
+            [
+              -71.10914826393127,
+              42.330777898566986
+            ],
+            [
+              -71.10728681087494,
+              42.33027028046331
+            ],
+            [
+              -71.10652774572372,
+              42.33195174974141
+            ],
+            [
+              -71.10724657773972,
+              42.33214408475376
+            ],
+            [
+              -71.1070454120636,
+              42.333226701788625
             ],
             [
               -71.1070641875267,
@@ -5669,7 +5673,7 @@
       "type": "Feature",
       "properties": {
         "plate": 84,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5763,7 +5767,7 @@
       "type": "Feature",
       "properties": {
         "plate": 85,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5845,7 +5849,7 @@
       "type": "Feature",
       "properties": {
         "plate": 86,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5854,38 +5858,6 @@
             [
               -71.11077904701233,
               42.32900518314381
-            ],
-            [
-              -71.11071467399596,
-              42.32869981101326
-            ],
-            [
-              -71.11074149608612,
-              42.328263562540855
-            ],
-            [
-              -71.11056983470917,
-              42.32824769890303
-            ],
-            [
-              -71.11036598682404,
-              42.32825959663178
-            ],
-            [
-              -71.11024260520935,
-              42.328289340943776
-            ],
-            [
-              -71.11016750335693,
-              42.328342880669965
-            ],
-            [
-              -71.11011654138565,
-              42.32839642035056
-            ],
-            [
-              -71.11002266407013,
-              42.32848168715524
             ],
             [
               -71.10887467861176,
@@ -5947,7 +5919,7 @@
       "type": "Feature",
       "properties": {
         "plate": 87,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6001,7 +5973,7 @@
       "type": "Feature",
       "properties": {
         "plate": 88,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6012,60 +5984,60 @@
               42.33170587732271
             ],
             [
-              -71.10142350196838,
-              42.331396552592025
-            ],
-            [
-              -71.10177755355835,
-              42.330944459864625
-            ],
-            [
-              -71.10231399536131,
-              42.33036942494612
-            ],
-            [
-              -71.10308110713959,
-              42.330532021559584
-            ],
-            [
-              -71.1031186580658,
-              42.33032183561386
-            ],
-            [
-              -71.10307037830353,
-              42.33016122135174
-            ],
-            [
-              -71.1026358604431,
-              42.32973093173949
-            ],
-            [
-              -71.10288262367249,
-              42.329120193042435
-            ],
-            [
-              -71.10287189483643,
-              42.32901311486769
-            ],
-            [
-              -71.1057123541832,
-              42.32984395740655
-            ],
-            [
-              -71.10515177249908,
-              42.3309960144626
-            ],
-            [
-              -71.10474944114685,
-              42.33203106321984
+              -71.1027592420578,
+              42.331095157801485
             ],
             [
               -71.10307037830353,
               42.3312775811367
             ],
             [
-              -71.1027592420578,
-              42.331095157801485
+              -71.10474944114685,
+              42.33203106321984
+            ],
+            [
+              -71.10515177249908,
+              42.3309960144626
+            ],
+            [
+              -71.1057123541832,
+              42.32984395740655
+            ],
+            [
+              -71.10287189483643,
+              42.32901311486769
+            ],
+            [
+              -71.10288262367249,
+              42.329120193042435
+            ],
+            [
+              -71.1026358604431,
+              42.32973093173949
+            ],
+            [
+              -71.10307037830353,
+              42.33016122135174
+            ],
+            [
+              -71.1031186580658,
+              42.33032183561386
+            ],
+            [
+              -71.10308110713959,
+              42.330532021559584
+            ],
+            [
+              -71.10231399536131,
+              42.33036942494612
+            ],
+            [
+              -71.10177755355835,
+              42.330944459864625
+            ],
+            [
+              -71.10142350196838,
+              42.331396552592025
             ],
             [
               -71.10213160514832,
@@ -6079,7 +6051,7 @@
       "type": "Feature",
       "properties": {
         "plate": 89,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6090,96 +6062,96 @@
               42.3280018120052
             ],
             [
-              -71.09956204891205,
-              42.327438648069325
-            ],
-            [
-              -71.09965860843658,
-              42.32713723431405
-            ],
-            [
-              -71.09967470169067,
-              42.32689134307563
-            ],
-            [
-              -71.09974443912506,
-              42.32672477104545
-            ],
-            [
-              -71.09992146492004,
-              42.32653836848875
-            ],
-            [
-              -71.10023260116577,
-              42.32641542181927
-            ],
-            [
-              -71.10020041465759,
-              42.326355931409054
-            ],
-            [
-              -71.10024333000183,
-              42.32620125607926
-            ],
-            [
-              -71.10044717788696,
-              42.32618142588126
-            ],
-            [
-              -71.10053300857544,
-              42.32628057680871
-            ],
-            [
-              -71.1004900932312,
-              42.326403523741725
-            ],
-            [
-              -71.10038816928864,
-              42.32648284421615
-            ],
-            [
-              -71.10039353370667,
-              42.32660579075388
-            ],
-            [
-              -71.10050082206725,
-              42.32670097500514
-            ],
-            [
-              -71.10077440738678,
-              42.32677236309909
-            ],
-            [
-              -71.10097825527191,
-              42.32684771711037
-            ],
-            [
-              -71.10125720500946,
-              42.327053948679634
-            ],
-            [
-              -71.10183656215668,
-              42.32724828165506
-            ],
-            [
-              -71.1035692691803,
-              42.32739105651978
-            ],
-            [
-              -71.10415935516357,
-              42.32743468210824
-            ],
-            [
-              -71.1040198802948,
-              42.32787490226253
+              -71.10285580158234,
+              42.32898931969301
             ],
             [
               -71.10324203968048,
               42.32783524291543
             ],
             [
-              -71.10285580158234,
-              42.32898931969301
+              -71.1040198802948,
+              42.32787490226253
+            ],
+            [
+              -71.10415935516357,
+              42.32743468210824
+            ],
+            [
+              -71.1035692691803,
+              42.32739105651978
+            ],
+            [
+              -71.10183656215668,
+              42.32724828165506
+            ],
+            [
+              -71.10125720500946,
+              42.327053948679634
+            ],
+            [
+              -71.10097825527191,
+              42.32684771711037
+            ],
+            [
+              -71.10077440738678,
+              42.32677236309909
+            ],
+            [
+              -71.10050082206725,
+              42.32670097500514
+            ],
+            [
+              -71.10039353370667,
+              42.32660579075388
+            ],
+            [
+              -71.10038816928864,
+              42.32648284421615
+            ],
+            [
+              -71.1004900932312,
+              42.326403523741725
+            ],
+            [
+              -71.10053300857544,
+              42.32628057680871
+            ],
+            [
+              -71.10044717788696,
+              42.32618142588126
+            ],
+            [
+              -71.10024333000183,
+              42.32620125607926
+            ],
+            [
+              -71.10020041465759,
+              42.326355931409054
+            ],
+            [
+              -71.10023260116577,
+              42.32641542181927
+            ],
+            [
+              -71.09992146492004,
+              42.32653836848875
+            ],
+            [
+              -71.09974443912506,
+              42.32672477104545
+            ],
+            [
+              -71.09967470169067,
+              42.32689134307563
+            ],
+            [
+              -71.09965860843658,
+              42.32713723431405
+            ],
+            [
+              -71.09956204891205,
+              42.327438648069325
             ],
             [
               -71.09935820102692,
@@ -6193,7 +6165,7 @@
       "type": "Feature",
       "properties": {
         "plate": 90,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6279,7 +6251,7 @@
       "type": "Feature",
       "properties": {
         "plate": 91,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6290,64 +6262,64 @@
               42.32787490226253
             ],
             [
-              -71.10415399074554,
-              42.327442614030176
-            ],
-            [
-              -71.10424250364304,
-              42.32726017957284
-            ],
-            [
-              -71.10406279563904,
-              42.326153663593566
-            ],
-            [
-              -71.10460728406906,
-              42.326090206889994
-            ],
-            [
-              -71.10503911972046,
-              42.32610210502677
-            ],
-            [
-              -71.10546827316284,
-              42.32613779942367
-            ],
-            [
-              -71.10609591007233,
-              42.32630833904041
-            ],
-            [
-              -71.1064338684082,
-              42.32643128591916
-            ],
-            [
-              -71.1071527004242,
-              42.32689530907096
-            ],
-            [
-              -71.10832750797272,
-              42.32731570315933
-            ],
-            [
-              -71.10787153244019,
-              42.32774006038039
-            ],
-            [
-              -71.1076408624649,
-              42.32800974385562
-            ],
-            [
-              -71.10731899738312,
-              42.32843806229286
+              -71.10492646694183,
+              42.32791852751545
             ],
             [
               -71.10601007938385,
               42.328061300858955
             ],
             [
-              -71.10492646694183,
-              42.32791852751545
+              -71.10731899738312,
+              42.32843806229286
+            ],
+            [
+              -71.1076408624649,
+              42.32800974385562
+            ],
+            [
+              -71.10787153244019,
+              42.32774006038039
+            ],
+            [
+              -71.10832750797272,
+              42.32731570315933
+            ],
+            [
+              -71.1071527004242,
+              42.32689530907096
+            ],
+            [
+              -71.1064338684082,
+              42.32643128591916
+            ],
+            [
+              -71.10609591007233,
+              42.32630833904041
+            ],
+            [
+              -71.10546827316284,
+              42.32613779942367
+            ],
+            [
+              -71.10503911972046,
+              42.32610210502677
+            ],
+            [
+              -71.10460728406906,
+              42.326090206889994
+            ],
+            [
+              -71.10406279563904,
+              42.326153663593566
+            ],
+            [
+              -71.10424250364304,
+              42.32726017957284
+            ],
+            [
+              -71.10415399074554,
+              42.327442614030176
             ],
             [
               -71.10403060913086,
@@ -6361,7 +6333,7 @@
       "type": "Feature",
       "properties": {
         "plate": 92,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6372,32 +6344,32 @@
               42.325544873204905
             ],
             [
-              -71.10248565673828,
-              42.3229291888369
-            ],
-            [
-              -71.1032098531723,
-              42.322909357607514
-            ],
-            [
-              -71.1040198802948,
-              42.322814167619505
-            ],
-            [
-              -71.1040735244751,
-              42.323262352555794
-            ],
-            [
-              -71.10406279563904,
-              42.324023863002715
+              -71.10438466072083,
+              42.32516214528656
             ],
             [
               -71.10412180423737,
               42.324392716311905
             ],
             [
-              -71.10438466072083,
-              42.32516214528656
+              -71.10406279563904,
+              42.324023863002715
+            ],
+            [
+              -71.1040735244751,
+              42.323262352555794
+            ],
+            [
+              -71.1040198802948,
+              42.322814167619505
+            ],
+            [
+              -71.1032098531723,
+              42.322909357607514
+            ],
+            [
+              -71.10248565673828,
+              42.3229291888369
             ],
             [
               -71.10134571790695,
@@ -6411,7 +6383,7 @@
       "type": "Feature",
       "properties": {
         "plate": 93,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6422,52 +6394,52 @@
               42.32637179552396
             ],
             [
-              -71.09972298145294,
-              42.325412009372755
-            ],
-            [
-              -71.09914898872375,
-              42.325019365363175
-            ],
-            [
-              -71.1002594232559,
-              42.322774505081995
-            ],
-            [
-              -71.10248029232025,
-              42.32293315508202
-            ],
-            [
-              -71.10134303569794,
-              42.32554685624505
-            ],
-            [
-              -71.10133767127991,
-              42.32641542181927
-            ],
-            [
-              -71.10080122947693,
-              42.326399557715376
-            ],
-            [
-              -71.10053837299347,
-              42.32627264474027
-            ],
-            [
-              -71.10045254230499,
-              42.32618539192138
-            ],
-            [
-              -71.10023260116577,
-              42.326205222118105
+              -71.10001266002655,
+              42.32639162566194
             ],
             [
               -71.10021114349365,
               42.326363863467016
             ],
             [
-              -71.10001266002655,
-              42.32639162566194
+              -71.10023260116577,
+              42.326205222118105
+            ],
+            [
+              -71.10045254230499,
+              42.32618539192138
+            ],
+            [
+              -71.10053837299347,
+              42.32627264474027
+            ],
+            [
+              -71.10080122947693,
+              42.326399557715376
+            ],
+            [
+              -71.10133767127991,
+              42.32641542181927
+            ],
+            [
+              -71.10134303569794,
+              42.32554685624505
+            ],
+            [
+              -71.10248029232025,
+              42.32293315508202
+            ],
+            [
+              -71.1002594232559,
+              42.322774505081995
+            ],
+            [
+              -71.09914898872375,
+              42.325019365363175
+            ],
+            [
+              -71.09972298145294,
+              42.325412009372755
             ],
             [
               -71.0992830991745,
@@ -6481,7 +6453,7 @@
       "type": "Feature",
       "properties": {
         "plate": 94,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6492,48 +6464,48 @@
               42.32637179552396
             ],
             [
-              -71.09887003898619,
-              42.32640748976782
-            ],
-            [
-              -71.09849989414215,
-              42.32632816919838
-            ],
-            [
-              -71.09655797481537,
-              42.326240916456484
-            ],
-            [
-              -71.09693348407745,
-              42.32550719543026
-            ],
-            [
-              -71.09746992588043,
-              42.32492814468693
-            ],
-            [
-              -71.09766840934753,
-              42.32482899162794
-            ],
-            [
-              -71.09773278236389,
-              42.32476949971755
-            ],
-            [
-              -71.09932601451874,
-              42.322715011228844
-            ],
-            [
-              -71.10025405883789,
-              42.32277053882685
+              -71.09971761703491,
+              42.325412009372755
             ],
             [
               -71.09915971755981,
               42.325019365363175
             ],
             [
-              -71.09971761703491,
-              42.325412009372755
+              -71.10025405883789,
+              42.32277053882685
+            ],
+            [
+              -71.09932601451874,
+              42.322715011228844
+            ],
+            [
+              -71.09773278236389,
+              42.32476949971755
+            ],
+            [
+              -71.09766840934753,
+              42.32482899162794
+            ],
+            [
+              -71.09746992588043,
+              42.32492814468693
+            ],
+            [
+              -71.09693348407745,
+              42.32550719543026
+            ],
+            [
+              -71.09655797481537,
+              42.326240916456484
+            ],
+            [
+              -71.09849989414215,
+              42.32632816919838
+            ],
+            [
+              -71.09887003898619,
+              42.32640748976782
             ],
             [
               -71.09927773475647,
@@ -6547,7 +6519,7 @@
       "type": "Feature",
       "properties": {
         "plate": 96,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6558,88 +6530,88 @@
               42.32610012200413
             ],
             [
-              -71.10460728406906,
-              42.326092189912934
-            ],
-            [
-              -71.10439538955688,
-              42.32516611139092
-            ],
-            [
-              -71.1041808128357,
-              42.32455136223141
-            ],
-            [
-              -71.10496938228607,
-              42.324440310129766
-            ],
-            [
-              -71.10700786113738,
-              42.324856754500196
-            ],
-            [
-              -71.10713124275208,
-              42.324832957753294
-            ],
-            [
-              -71.10723853111267,
-              42.324781398104115
-            ],
-            [
-              -71.10730826854706,
-              42.32472190614871
-            ],
-            [
-              -71.10752820968628,
-              42.324753635198604
-            ],
-            [
-              -71.10785007476807,
-              42.32482899162794
-            ],
-            [
-              -71.10775351524352,
-              42.32516611139092
-            ],
-            [
-              -71.10770523548126,
-              42.32534061973511
-            ],
-            [
-              -71.10761404037476,
-              42.32542787372567
-            ],
-            [
-              -71.10750675201416,
-              42.32549529718094
-            ],
-            [
-              -71.10723853111267,
-              42.32601881802194
-            ],
-            [
-              -71.1071366071701,
-              42.32632023713594
-            ],
-            [
-              -71.1071527004242,
-              42.32689729206854
-            ],
-            [
-              -71.10671281814575,
-              42.32662562081809
-            ],
-            [
-              -71.10643923282623,
-              42.326443183991444
+              -71.1054790019989,
+              42.32613779942367
             ],
             [
               -71.1058920621872,
               42.32625281456476
             ],
             [
-              -71.1054790019989,
-              42.32613779942367
+              -71.10643923282623,
+              42.326443183991444
+            ],
+            [
+              -71.10671281814575,
+              42.32662562081809
+            ],
+            [
+              -71.1071527004242,
+              42.32689729206854
+            ],
+            [
+              -71.1071366071701,
+              42.32632023713594
+            ],
+            [
+              -71.10723853111267,
+              42.32601881802194
+            ],
+            [
+              -71.10750675201416,
+              42.32549529718094
+            ],
+            [
+              -71.10761404037476,
+              42.32542787372567
+            ],
+            [
+              -71.10770523548126,
+              42.32534061973511
+            ],
+            [
+              -71.10775351524352,
+              42.32516611139092
+            ],
+            [
+              -71.10785007476807,
+              42.32482899162794
+            ],
+            [
+              -71.10752820968628,
+              42.324753635198604
+            ],
+            [
+              -71.10730826854706,
+              42.32472190614871
+            ],
+            [
+              -71.10723853111267,
+              42.324781398104115
+            ],
+            [
+              -71.10713124275208,
+              42.324832957753294
+            ],
+            [
+              -71.10700786113738,
+              42.324856754500196
+            ],
+            [
+              -71.10496938228607,
+              42.324440310129766
+            ],
+            [
+              -71.1041808128357,
+              42.32455136223141
+            ],
+            [
+              -71.10439538955688,
+              42.32516611139092
+            ],
+            [
+              -71.10460728406906,
+              42.326092189912934
             ],
             [
               -71.1050471663475,
@@ -6653,7 +6625,7 @@
       "type": "Feature",
       "properties": {
         "plate": 97,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6739,7 +6711,7 @@
       "type": "Feature",
       "properties": {
         "plate": 98,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6750,76 +6722,76 @@
               42.32203281102512
             ],
             [
-              -71.1099636554718,
-              42.3220685077308
-            ],
-            [
-              -71.10988318920135,
-              42.32251669797872
-            ],
-            [
               -71.10977053642273,
-              42.322845897631524
-            ],
-            [
-              -71.10957741737366,
-              42.32335357564736
-            ],
-            [
-              -71.10912680625916,
-              42.32383348625509
-            ],
-            [
-              -71.10874593257904,
-              42.324198374515326
-            ],
-            [
-              -71.10827386379242,
-              42.3244958362051
-            ],
-            [
-              -71.10795736312866,
-              42.324694143216945
-            ],
-            [
-              -71.10782325267792,
-              42.32482105937647
-            ],
-            [
-              -71.10752820968628,
-              42.32476156745857
-            ],
-            [
-              -71.10730290412903,
-              42.324717940016335
-            ],
-            [
-              -71.1071527004242,
-              42.3244958362051
-            ],
-            [
-              -71.10685765743256,
-              42.3243490886139
-            ],
-            [
-              -71.10694348812103,
-              42.32369070331634
-            ],
-            [
-              -71.10675036907196,
-              42.32368277092134
-            ],
-            [
-              -71.10658943653107,
-              42.322552394409875
+              42.322064541431146
             ],
             [
               -71.10839724540709,
               42.322401676007246
             ],
             [
+              -71.10658943653107,
+              42.322552394409875
+            ],
+            [
+              -71.10675036907196,
+              42.32368277092134
+            ],
+            [
+              -71.10694348812103,
+              42.32369070331634
+            ],
+            [
+              -71.10685765743256,
+              42.3243490886139
+            ],
+            [
+              -71.1071527004242,
+              42.3244958362051
+            ],
+            [
+              -71.10730290412903,
+              42.324717940016335
+            ],
+            [
+              -71.10752820968628,
+              42.32476156745857
+            ],
+            [
+              -71.10782325267792,
+              42.32482105937647
+            ],
+            [
+              -71.10795736312866,
+              42.324694143216945
+            ],
+            [
+              -71.10827386379242,
+              42.3244958362051
+            ],
+            [
+              -71.10874593257904,
+              42.324198374515326
+            ],
+            [
+              -71.10912680625916,
+              42.32383348625509
+            ],
+            [
+              -71.10957741737366,
+              42.32335357564736
+            ],
+            [
               -71.10977053642273,
-              42.322064541431146
+              42.322845897631524
+            ],
+            [
+              -71.10988318920135,
+              42.32251669797872
+            ],
+            [
+              -71.1099636554718,
+              42.3220685077308
             ],
             [
               -71.10990464687347,
@@ -6833,7 +6805,7 @@
       "type": "Feature",
       "properties": {
         "plate": 99,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6844,216 +6816,188 @@
               42.329838008692285
             ],
             [
-              -71.11128330230713,
-              42.330068025233835
-            ],
-            [
-              -71.11078977584839,
-              42.32899725141892
-            ],
-            [
-              -71.11070930957794,
-              42.32866411807005
-            ],
-            [
-              -71.11075222492218,
-              42.328263562540855
-            ],
-            [
-              -71.11060470342636,
-              42.32825166481287
-            ],
-            [
-              -71.11046254634857,
-              42.32824769890303
-            ],
-            [
-              -71.1102908849716,
-              42.32827347731246
-            ],
-            [
-              -71.11018359661102,
-              42.32832305114706
-            ],
-            [
-              -71.11002802848816,
-              42.32848565305032
-            ],
-            [
-              -71.10885858535767,
-              42.32765280959678
-            ],
-            [
-              -71.10831141471863,
-              42.327307771221406
-            ],
-            [
-              -71.1071527004242,
-              42.32689530907096
-            ],
-            [
-              -71.1071366071701,
-              42.326324203167275
-            ],
-            [
-              -71.10724925994872,
-              42.326006919869386
-            ],
-            [
-              -71.1074960231781,
-              42.32549529718094
-            ],
-            [
-              -71.10763013362885,
-              42.325408043283886
-            ],
-            [
-              -71.10772669315338,
-              42.32528509440537
-            ],
-            [
-              -71.10787153244019,
-              42.32480519487053
-            ],
-            [
-              -71.10977053642273,
-              42.326014851971344
-            ],
-            [
-              -71.11140131950378,
-              42.32651853839703
-            ],
-            [
-              -71.11213088035583,
-              42.3253009587903
-            ],
-            [
-              -71.11227035522461,
-              42.323944539427885
-            ],
-            [
-              -71.10960960388184,
-              42.323349609428725
-            ],
-            [
-              -71.10986709594727,
-              42.3226198209468
-            ],
-            [
-              -71.10996633768082,
-              42.32206652458098
-            ],
-            [
-              -71.10990464687347,
-              42.32203479417595
-            ],
-            [
-              -71.11004948616026,
-              42.32194753547954
-            ],
-            [
-              -71.11033648252487,
-              42.3218880408444
-            ],
-            [
-              -71.11210405826567,
-              42.32161634796232
-            ],
-            [
-              -71.11221671104431,
-              42.32313146701947
-            ],
-            [
-              -71.11379384994507,
-              42.32327425122742
-            ],
-            [
-              -71.11423909664153,
-              42.323337710771355
-            ],
-            [
-              -71.11473262310028,
-              42.32346462966723
-            ],
-            [
-              -71.11506521701811,
-              42.323563784876505
-            ],
-            [
-              -71.11488819122314,
-              42.32386124956666
-            ],
-            [
-              -71.11471116542816,
-              42.324313393202125
-            ],
-            [
-              -71.11450195312499,
-              42.3245830913673
-            ],
-            [
-              -71.11425518989563,
-              42.32477346584664
-            ],
-            [
-              -71.11380994319916,
-              42.325003500907236
-            ],
-            [
-              -71.11330032348633,
-              42.32522560292629
-            ],
-            [
-              -71.1128979921341,
-              42.325519093677315
-            ],
-            [
-              -71.11282289028168,
-              42.32589190427872
-            ],
-            [
-              -71.1128282546997,
-              42.32639559168877
-            ],
-            [
-              -71.11281216144562,
-              42.32668511097325
-            ],
-            [
-              -71.1127370595932,
-              42.32687547909176
-            ],
-            [
-              -71.1125922203064,
-              42.32713723431405
-            ],
-            [
-              -71.11241519451141,
-              42.327395022483614
-            ],
-            [
-              -71.11224889755249,
-              42.32763297985635
-            ],
-            [
-              -71.1121255159378,
-              42.32789869785878
-            ],
-            [
-              -71.111980676651,
-              42.32832305114706
-            ],
-            [
-              -71.11191630363464,
-              42.32867204983695
+              -71.11200213432312,
+              42.32936607556866
             ],
             [
               -71.11190021038055,
               42.32899328555608
             ],
             [
-              -71.11200213432312,
-              42.32936607556866
+              -71.11191630363464,
+              42.32867204983695
+            ],
+            [
+              -71.111980676651,
+              42.32832305114706
+            ],
+            [
+              -71.1121255159378,
+              42.32789869785878
+            ],
+            [
+              -71.11224889755249,
+              42.32763297985635
+            ],
+            [
+              -71.11241519451141,
+              42.327395022483614
+            ],
+            [
+              -71.1125922203064,
+              42.32713723431405
+            ],
+            [
+              -71.1127370595932,
+              42.32687547909176
+            ],
+            [
+              -71.11281216144562,
+              42.32668511097325
+            ],
+            [
+              -71.1128282546997,
+              42.32639559168877
+            ],
+            [
+              -71.11282289028168,
+              42.32589190427872
+            ],
+            [
+              -71.1128979921341,
+              42.325519093677315
+            ],
+            [
+              -71.11330032348633,
+              42.32522560292629
+            ],
+            [
+              -71.11380994319916,
+              42.325003500907236
+            ],
+            [
+              -71.11425518989563,
+              42.32477346584664
+            ],
+            [
+              -71.11450195312499,
+              42.3245830913673
+            ],
+            [
+              -71.11471116542816,
+              42.324313393202125
+            ],
+            [
+              -71.11488819122314,
+              42.32386124956666
+            ],
+            [
+              -71.11506521701811,
+              42.323563784876505
+            ],
+            [
+              -71.11473262310028,
+              42.32346462966723
+            ],
+            [
+              -71.11423909664153,
+              42.323337710771355
+            ],
+            [
+              -71.11379384994507,
+              42.32327425122742
+            ],
+            [
+              -71.11221671104431,
+              42.32313146701947
+            ],
+            [
+              -71.11210405826567,
+              42.32161634796232
+            ],
+            [
+              -71.11033648252487,
+              42.3218880408444
+            ],
+            [
+              -71.11004948616026,
+              42.32194753547954
+            ],
+            [
+              -71.10990464687347,
+              42.32203479417595
+            ],
+            [
+              -71.10996633768082,
+              42.32206652458098
+            ],
+            [
+              -71.10986709594727,
+              42.3226198209468
+            ],
+            [
+              -71.10960960388184,
+              42.323349609428725
+            ],
+            [
+              -71.11227035522461,
+              42.323944539427885
+            ],
+            [
+              -71.11213088035583,
+              42.3253009587903
+            ],
+            [
+              -71.11140131950378,
+              42.32651853839703
+            ],
+            [
+              -71.10977053642273,
+              42.326014851971344
+            ],
+            [
+              -71.10787153244019,
+              42.32480519487053
+            ],
+            [
+              -71.10772669315338,
+              42.32528509440537
+            ],
+            [
+              -71.10763013362885,
+              42.325408043283886
+            ],
+            [
+              -71.1074960231781,
+              42.32549529718094
+            ],
+            [
+              -71.10724925994872,
+              42.326006919869386
+            ],
+            [
+              -71.1071366071701,
+              42.326324203167275
+            ],
+            [
+              -71.1071527004242,
+              42.32689530907096
+            ],
+            [
+              -71.10831141471863,
+              42.327307771221406
+            ],
+            [
+              -71.10885858535767,
+              42.32765280959678
+            ],
+            [
+              -71.11078977584839,
+              42.32899725141892
+            ],
+            [
+              -71.11128330230713,
+              42.330068025233835
             ],
             [
               -71.1122328042984,
@@ -7067,7 +7011,7 @@
       "type": "Feature",
       "properties": {
         "plate": 100,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7137,7 +7081,7 @@
       "type": "Feature",
       "properties": {
         "plate": 101,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7231,7 +7175,7 @@
       "type": "Feature",
       "properties": {
         "plate": 102,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7305,7 +7249,7 @@
       "type": "Feature",
       "properties": {
         "plate": 103,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7316,76 +7260,76 @@
               42.321041227772426
             ],
             [
-              -71.11618638038635,
-              42.321025362313364
-            ],
-            [
-              -71.11555874347687,
-              42.321080891402566
-            ],
-            [
-              -71.11532270908356,
-              42.32110468956866
-            ],
-            [
-              -71.11415863037108,
-              42.32129507457329
-            ],
-            [
-              -71.11402988433838,
-              42.320569228654655
-            ],
-            [
-              -71.11396551132202,
-              42.32010119241985
-            ],
-            [
-              -71.11397624015808,
-              42.31982354216079
-            ],
-            [
-              -71.11257612705231,
-              42.31971644816202
-            ],
-            [
-              -71.11185729503632,
-              42.319617286889546
-            ],
-            [
-              -71.1116749048233,
-              42.31953399129989
-            ],
-            [
-              -71.1130964756012,
-              42.317483298439775
-            ],
-            [
-              -71.11645460128783,
-              42.31857410083396
-            ],
-            [
-              -71.11663162708282,
-              42.318887455116524
-            ],
-            [
-              -71.11704468727112,
-              42.31931186918843
-            ],
-            [
-              -71.11716270446777,
-              42.319756112627246
-            ],
-            [
-              -71.11695885658263,
-              42.320188453676785
+              -71.11659944057465,
+              42.32079134632758
             ],
             [
               -71.11673891544342,
               42.32055336307656
             ],
             [
-              -71.11659944057465,
-              42.32079134632758
+              -71.11695885658263,
+              42.320188453676785
+            ],
+            [
+              -71.11716270446777,
+              42.319756112627246
+            ],
+            [
+              -71.11704468727112,
+              42.31931186918843
+            ],
+            [
+              -71.11663162708282,
+              42.318887455116524
+            ],
+            [
+              -71.11645460128783,
+              42.31857410083396
+            ],
+            [
+              -71.1130964756012,
+              42.317483298439775
+            ],
+            [
+              -71.1116749048233,
+              42.31953399129989
+            ],
+            [
+              -71.11185729503632,
+              42.319617286889546
+            ],
+            [
+              -71.11257612705231,
+              42.31971644816202
+            ],
+            [
+              -71.11397624015808,
+              42.31982354216079
+            ],
+            [
+              -71.11396551132202,
+              42.32010119241985
+            ],
+            [
+              -71.11402988433838,
+              42.320569228654655
+            ],
+            [
+              -71.11415863037108,
+              42.32129507457329
+            ],
+            [
+              -71.11532270908356,
+              42.32110468956866
+            ],
+            [
+              -71.11555874347687,
+              42.321080891402566
+            ],
+            [
+              -71.11618638038635,
+              42.321025362313364
             ],
             [
               -71.11657798290253,
@@ -7399,7 +7343,7 @@
       "type": "Feature",
       "properties": {
         "plate": 104,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7410,40 +7354,48 @@
               42.32272691000397
             ],
             [
-              -71.10468238592148,
-              42.32124152884895
-            ],
-            [
-              -71.10713124275208,
-              42.32058311103218
-            ],
-            [
-              -71.10758185386658,
-              42.3209182703601
-            ],
-            [
-              -71.10811293125153,
-              42.321239545673116
-            ],
-            [
-              -71.10855817794798,
-              42.32154495401765
-            ],
-            [
-              -71.10896050930023,
-              42.32186225981839
-            ],
-            [
-              -71.10928773880005,
-              42.32217956401896
+              -71.10658407211302,
+              42.32254842814076
             ],
             [
               -71.10840797424316,
               42.322401676007246
             ],
             [
-              -71.10658407211302,
-              42.32254842814076
+              -71.10928773880005,
+              42.32217956401896
+            ],
+            [
+              -71.10896050930023,
+              42.32186225981839
+            ],
+            [
+              -71.10855817794798,
+              42.32154495401765
+            ],
+            [
+              -71.10811293125153,
+              42.321239545673116
+            ],
+            [
+              -71.10758185386658,
+              42.3209182703601
+            ],
+            [
+              -71.10713124275208,
+              42.32058311103218
+            ],
+            [
+              -71.10658943653107,
+              42.32095000132821
+            ],
+            [
+              -71.10641777515411,
+              42.32071995144678
+            ],
+            [
+              -71.10468238592148,
+              42.32124152884895
             ],
             [
               -71.10487818717957,
@@ -7457,7 +7409,7 @@
       "type": "Feature",
       "properties": {
         "plate": 105,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7468,56 +7420,56 @@
               42.32203677732675
             ],
             [
-              -71.10973834991455,
-              42.322072474030165
-            ],
-            [
-              -71.10928773880005,
-              42.32218353031133
-            ],
-            [
-              -71.10895782709122,
-              42.32185432719289
-            ],
-            [
-              -71.10856354236603,
-              42.321537021352114
-            ],
-            [
-              -71.1075872182846,
-              42.32091430398797
-            ],
-            [
-              -71.10712587833405,
-              42.32058707742518
-            ],
-            [
-              -71.10943257808685,
-              42.31839164065945
-            ],
-            [
-              -71.11048936843872,
-              42.318843823601064
-            ],
-            [
-              -71.1116749048233,
-              42.319537957759046
-            ],
-            [
-              -71.11068785190582,
-              42.3207715144244
-            ],
-            [
-              -71.11018896102905,
-              42.32149735800952
+              -71.11004412174225,
+              42.32194951863306
             ],
             [
               -71.1100172996521,
               42.32185432719289
             ],
             [
-              -71.11004412174225,
-              42.32194951863306
+              -71.11018896102905,
+              42.32149735800952
+            ],
+            [
+              -71.11068785190582,
+              42.3207715144244
+            ],
+            [
+              -71.1116749048233,
+              42.319537957759046
+            ],
+            [
+              -71.11048936843872,
+              42.318843823601064
+            ],
+            [
+              -71.10943257808685,
+              42.31839164065945
+            ],
+            [
+              -71.10712587833405,
+              42.32058707742518
+            ],
+            [
+              -71.1075872182846,
+              42.32091430398797
+            ],
+            [
+              -71.10856354236603,
+              42.321537021352114
+            ],
+            [
+              -71.10895782709122,
+              42.32185432719289
+            ],
+            [
+              -71.10928773880005,
+              42.32218353031133
+            ],
+            [
+              -71.10973834991455,
+              42.322072474030165
             ],
             [
               -71.10990464687347,
@@ -7531,7 +7483,7 @@
       "type": "Feature",
       "properties": {
         "plate": 106,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7558,8 +7510,8 @@
               42.31989890449509
             ],
             [
-              -71.10645532608032,
-              42.320765564852195
+              -71.10658943653107,
+              42.32094603495808
             ],
             [
               -71.10712856054305,
@@ -7593,7 +7545,7 @@
       "type": "Feature",
       "properties": {
         "plate": 107,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7604,52 +7556,52 @@
               42.32273087626184
             ],
             [
-              -71.10401451587677,
-              42.322814167619505
-            ],
-            [
-              -71.10327959060669,
-              42.32290539136089
-            ],
-            [
-              -71.10249102115631,
-              42.3229291888369
-            ],
-            [
-              -71.10060274600981,
-              42.32280226886088
-            ],
-            [
-              -71.10062420368195,
-              42.32252859679135
-            ],
-            [
-              -71.10145032405853,
-              42.32155288668218
-            ],
-            [
-              -71.10217988491058,
-              42.32190985555049
-            ],
-            [
-              -71.10232472419739,
-              42.32167187652996
-            ],
-            [
-              -71.10268414020538,
-              42.3212276466167
-            ],
-            [
-              -71.10297381877899,
-              42.32131490631149
+              -71.1046850681305,
+              42.321239545673116
             ],
             [
               -71.10312938690186,
               42.321322839005006
             ],
             [
-              -71.1046850681305,
-              42.321239545673116
+              -71.10297381877899,
+              42.32131490631149
+            ],
+            [
+              -71.10268414020538,
+              42.3212276466167
+            ],
+            [
+              -71.10232472419739,
+              42.32167187652996
+            ],
+            [
+              -71.10217988491058,
+              42.32190985555049
+            ],
+            [
+              -71.10145032405853,
+              42.32155288668218
+            ],
+            [
+              -71.10062420368195,
+              42.32252859679135
+            ],
+            [
+              -71.10060274600981,
+              42.32280226886088
+            ],
+            [
+              -71.10249102115631,
+              42.3229291888369
+            ],
+            [
+              -71.10327959060669,
+              42.32290539136089
+            ],
+            [
+              -71.10401451587677,
+              42.322814167619505
             ],
             [
               -71.10487282276152,
@@ -7663,7 +7615,7 @@
       "type": "Feature",
       "properties": {
         "plate": 108,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7674,60 +7626,60 @@
               42.318994550526185
             ],
             [
-              -71.10391795635223,
-              42.31920874079873
-            ],
-            [
-              -71.10457241535187,
-              42.31967281722138
-            ],
-            [
-              -71.10500156879425,
-              42.31943482973986
-            ],
-            [
-              -71.105135679245,
-              42.319284103869364
-            ],
-            [
-              -71.10531806945801,
-              42.31937136625944
-            ],
-            [
-              -71.10552191734314,
-              42.31956968942323
-            ],
-            [
-              -71.10581159591675,
-              42.3198929548404
-            ],
-            [
-              -71.10645532608032,
-              42.320763581661346
-            ],
-            [
-              -71.10469043254852,
-              42.321239545673116
-            ],
-            [
-              -71.10299527645111,
-              42.3213268053514
-            ],
-            [
-              -71.10269486904144,
-              42.3212276466167
-            ],
-            [
-              -71.10231399536131,
-              42.3216996407954
+              -71.10145568847656,
+              42.32155288668218
             ],
             [
               -71.10217988491058,
               42.32190192293099
             ],
             [
-              -71.10145568847656,
-              42.32155288668218
+              -71.10231399536131,
+              42.3216996407954
+            ],
+            [
+              -71.10269486904144,
+              42.3212276466167
+            ],
+            [
+              -71.10299527645111,
+              42.3213268053514
+            ],
+            [
+              -71.10469043254852,
+              42.321239545673116
+            ],
+            [
+              -71.10640704631805,
+              42.32071598506215
+            ],
+            [
+              -71.10581159591675,
+              42.3198929548404
+            ],
+            [
+              -71.10552191734314,
+              42.31956968942323
+            ],
+            [
+              -71.10531806945801,
+              42.31937136625944
+            ],
+            [
+              -71.105135679245,
+              42.319284103869364
+            ],
+            [
+              -71.10500156879425,
+              42.31943482973986
+            ],
+            [
+              -71.10457241535187,
+              42.31967281722138
+            ],
+            [
+              -71.10391795635223,
+              42.31920874079873
             ],
             [
               -71.10356390476225,
@@ -7741,7 +7693,7 @@
       "type": "Feature",
       "properties": {
         "plate": 109,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7823,7 +7775,7 @@
       "type": "Feature",
       "properties": {
         "plate": 110,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7897,7 +7849,7 @@
       "type": "Feature",
       "properties": {
         "plate": 111,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7908,44 +7860,44 @@
               42.31932376860713
             ],
             [
-              -71.10356122255325,
-              42.318994550526185
-            ],
-            [
-              -71.10394477844238,
-              42.318526502578564
-            ],
-            [
-              -71.1043792963028,
-              42.317883922606974
-            ],
-            [
-              -71.10493183135986,
-              42.31702713910445
-            ],
-            [
-              -71.10559165477753,
-              42.31692400697034
-            ],
-            [
-              -71.10583305358887,
-              42.31691607372224
-            ],
-            [
-              -71.10668063163757,
-              42.3172691022941
-            ],
-            [
-              -71.10581159591675,
-              42.318403540252184
+              -71.10457241535187,
+              42.31966885077072
             ],
             [
               -71.10500156879425,
               42.31944276267042
             ],
             [
-              -71.10457241535187,
-              42.31966885077072
+              -71.10581159591675,
+              42.318403540252184
+            ],
+            [
+              -71.10668063163757,
+              42.3172691022941
+            ],
+            [
+              -71.10583305358887,
+              42.31691607372224
+            ],
+            [
+              -71.10559165477753,
+              42.31692400697034
+            ],
+            [
+              -71.10493183135986,
+              42.31702713910445
+            ],
+            [
+              -71.1043792963028,
+              42.317883922606974
+            ],
+            [
+              -71.10394477844238,
+              42.318526502578564
+            ],
+            [
+              -71.10356122255325,
+              42.318994550526185
             ],
             [
               -71.10408693552016,
@@ -7959,7 +7911,7 @@
       "type": "Feature",
       "properties": {
         "plate": 112,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7970,40 +7922,40 @@
               42.31913337763781
             ],
             [
-              -71.10035598278046,
-              42.31945466206438
-            ],
-            [
-              -71.09895586967468,
-              42.31871689538408
-            ],
-            [
-              -71.09832286834717,
-              42.31837577453231
-            ],
-            [
-              -71.09684228897095,
-              42.31731273490143
-            ],
-            [
-              -71.09844356775284,
-              42.31565070785131
-            ],
-            [
-              -71.09963178634644,
-              42.31668600909271
-            ],
-            [
-              -71.10125720500946,
-              42.31825677845131
+              -71.1010479927063,
+              42.31878234277795
             ],
             [
               -71.10118478536606,
               42.31844717207292
             ],
             [
-              -71.1010479927063,
-              42.31878234277795
+              -71.10125720500946,
+              42.31825677845131
+            ],
+            [
+              -71.09963178634644,
+              42.31668600909271
+            ],
+            [
+              -71.09844356775284,
+              42.31565070785131
+            ],
+            [
+              -71.09684228897095,
+              42.31731273490143
+            ],
+            [
+              -71.09832286834717,
+              42.31837577453231
+            ],
+            [
+              -71.09895586967468,
+              42.31871689538408
+            ],
+            [
+              -71.10035598278046,
+              42.31945466206438
             ],
             [
               -71.10064566135406,
@@ -8017,7 +7969,7 @@
       "type": "Feature",
       "properties": {
         "plate": 113,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8028,52 +7980,52 @@
               42.31825677845131
             ],
             [
-              -71.0996264219284,
-              42.31668600909271
-            ],
-            [
-              -71.09967470169067,
-              42.31662254283999
-            ],
-            [
-              -71.1007958650589,
-              42.31601167688475
-            ],
-            [
-              -71.10076904296875,
-              42.31592837652235
-            ],
-            [
-              -71.10222548246384,
-              42.315192551865714
-            ],
-            [
-              -71.10257685184477,
-              42.31560509073821
-            ],
-            [
-              -71.10275655984879,
-              42.31585102608708
-            ],
-            [
-              -71.10285580158234,
-              42.316083077107635
-            ],
-            [
-              -71.10299527645111,
-              42.31645991027524
-            ],
-            [
-              -71.10310792922974,
-              42.31662650948265
+              -71.10136449337006,
+              42.31808225045877
             ],
             [
               -71.10176682472229,
               42.3177450927388
             ],
             [
-              -71.10136449337006,
-              42.31808225045877
+              -71.10310792922974,
+              42.31662650948265
+            ],
+            [
+              -71.10299527645111,
+              42.31645991027524
+            ],
+            [
+              -71.10285580158234,
+              42.316083077107635
+            ],
+            [
+              -71.10275655984879,
+              42.31585102608708
+            ],
+            [
+              -71.10257685184477,
+              42.31560509073821
+            ],
+            [
+              -71.10222548246384,
+              42.315192551865714
+            ],
+            [
+              -71.10076904296875,
+              42.31592837652235
+            ],
+            [
+              -71.1007958650589,
+              42.31601167688475
+            ],
+            [
+              -71.09967470169067,
+              42.31662254283999
+            ],
+            [
+              -71.0996264219284,
+              42.31668600909271
             ],
             [
               -71.10125184059143,
@@ -8087,7 +8039,7 @@
       "type": "Feature",
       "properties": {
         "plate": 114,
-        "atlas": "Sanborn Map Company. (1919). Insurance maps of Boston, Massachusetts. Vol. 3. New York: Sanborn Map Company. Roxbury.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 3. (Sanborn Map Co., 1919. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8098,48 +8050,48 @@
               42.31667807581461
             ],
             [
-              -71.09844088554382,
-              42.31564872449927
-            ],
-            [
-              -71.09897196292877,
-              42.315125117369796
-            ],
-            [
-              -71.09949231147766,
-              42.314607456038885
-            ],
-            [
-              -71.10048204660414,
-              42.31359592160903
-            ],
-            [
-              -71.10062152147292,
-              42.313649473839355
-            ],
-            [
-              -71.10115796327591,
-              42.313984670097646
-            ],
-            [
-              -71.10147446393967,
-              42.31428614686426
-            ],
-            [
-              -71.10222280025482,
-              42.31519056849922
-            ],
-            [
-              -71.10076636075974,
-              42.31592837652235
+              -71.09967470169067,
+              42.31662650948265
             ],
             [
               -71.10079318284988,
               42.31601564356591
             ],
             [
-              -71.09967470169067,
-              42.31662650948265
+              -71.10076636075974,
+              42.31592837652235
+            ],
+            [
+              -71.10222280025482,
+              42.31519056849922
+            ],
+            [
+              -71.10147446393967,
+              42.31428614686426
+            ],
+            [
+              -71.10115796327591,
+              42.313984670097646
+            ],
+            [
+              -71.10062152147292,
+              42.313649473839355
+            ],
+            [
+              -71.10048204660414,
+              42.31359592160903
+            ],
+            [
+              -71.09949231147766,
+              42.314607456038885
+            ],
+            [
+              -71.09897196292877,
+              42.315125117369796
+            ],
+            [
+              -71.09844088554382,
+              42.31564872449927
             ],
             [
               -71.0996264219284,
