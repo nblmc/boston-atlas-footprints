@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "plate": 251,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -51,7 +51,7 @@
       "type": "Feature",
       "properties": {
         "plate": 252,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -62,24 +62,24 @@
               42.34430361868939
             ],
             [
-              -71.07024013996124,
-              42.34545342846048
-            ],
-            [
-              -71.07011675834656,
-              42.34535034292539
-            ],
-            [
-              -71.06982707977295,
-              42.34526311657136
+              -71.07376992702484,
+              42.342836589485024
             ],
             [
               -71.07062101364136,
               42.34450979302323
             ],
             [
-              -71.07376992702484,
-              42.342836589485024
+              -71.06982707977295,
+              42.34526311657136
+            ],
+            [
+              -71.07011675834656,
+              42.34535034292539
+            ],
+            [
+              -71.07024013996124,
+              42.34545342846048
             ],
             [
               -71.07447803020477,
@@ -93,7 +93,7 @@
       "type": "Feature",
       "properties": {
         "plate": 253,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143,7 +143,7 @@
       "type": "Feature",
       "properties": {
         "plate": 254,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -154,36 +154,36 @@
               42.343720776049835
             ],
             [
-              -71.07650578022003,
-              42.344830947850205
-            ],
-            [
-              -71.0763555765152,
-              42.34470407206523
-            ],
-            [
-              -71.0759425163269,
-              42.3439031627628
-            ],
-            [
-              -71.07448875904083,
-              42.34430361868939
-            ],
-            [
-              -71.07378602027893,
-              42.342832624494854
-            ],
-            [
-              -71.07592105865479,
-              42.341678801729145
+              -71.07751965522766,
+              42.34346701974296
             ],
             [
               -71.07728362083435,
               42.343050698583404
             ],
             [
-              -71.07751965522766,
-              42.34346701974296
+              -71.07592105865479,
+              42.341678801729145
+            ],
+            [
+              -71.07378602027893,
+              42.342832624494854
+            ],
+            [
+              -71.07448875904083,
+              42.34430361868939
+            ],
+            [
+              -71.0759425163269,
+              42.3439031627628
+            ],
+            [
+              -71.0763555765152,
+              42.34470407206523
+            ],
+            [
+              -71.07650578022003,
+              42.344830947850205
             ],
             [
               -71.07787907123566,
@@ -197,7 +197,7 @@
       "type": "Feature",
       "properties": {
         "plate": 255,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -208,28 +208,28 @@
               42.34526708140825
             ],
             [
-              -71.0670644044876,
-              42.344311548483965
-            ],
-            [
-              -71.06722533702849,
-              42.344137092772314
-            ],
-            [
-              -71.0685583949089,
-              42.34333221128833
-            ],
-            [
-              -71.06991559267044,
-              42.34256300457605
+              -71.07062101364136,
+              42.34450979302323
             ],
             [
               -71.07160270214081,
               42.343990391003715
             ],
             [
-              -71.07062101364136,
-              42.34450979302323
+              -71.06991559267044,
+              42.34256300457605
+            ],
+            [
+              -71.0685583949089,
+              42.34333221128833
+            ],
+            [
+              -71.06722533702849,
+              42.344137092772314
+            ],
+            [
+              -71.0670644044876,
+              42.344311548483965
             ],
             [
               -71.06982707977295,
@@ -243,7 +243,7 @@
       "type": "Feature",
       "properties": {
         "plate": 256,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -254,44 +254,44 @@
               42.343494774388894
             ],
             [
-              -71.06676399707794,
-              42.34163915108597
-            ],
-            [
-              -71.06764912605286,
-              42.34188894972057
-            ],
-            [
-              -71.0677832365036,
-              42.34198014580019
-            ],
-            [
-              -71.06793344020844,
-              42.3421308172941
-            ],
-            [
-              -71.06771886348724,
-              42.342303296061
-            ],
-            [
-              -71.0685932636261,
-              42.342769184617964
-            ],
-            [
-              -71.06809973716736,
-              42.34308043590049
-            ],
-            [
-              -71.06843769550323,
-              42.343399615551775
+              -71.06706708669662,
+              42.344309566035406
             ],
             [
               -71.06722801923752,
               42.344135110318255
             ],
             [
-              -71.06706708669662,
-              42.344309566035406
+              -71.06843769550323,
+              42.343399615551775
+            ],
+            [
+              -71.06809973716736,
+              42.34308043590049
+            ],
+            [
+              -71.0685932636261,
+              42.342769184617964
+            ],
+            [
+              -71.06771886348724,
+              42.342303296061
+            ],
+            [
+              -71.06793344020844,
+              42.3421308172941
+            ],
+            [
+              -71.0677832365036,
+              42.34198014580019
+            ],
+            [
+              -71.06764912605286,
+              42.34188894972057
+            ],
+            [
+              -71.06676399707794,
+              42.34163915108597
             ],
             [
               -71.06436610221863,
@@ -305,7 +305,7 @@
       "type": "Feature",
       "properties": {
         "plate": 257,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -339,7 +339,7 @@
       "type": "Feature",
       "properties": {
         "plate": 258,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -350,16 +350,16 @@
               42.34239250903063
             ],
             [
-              -71.07275605201721,
-              42.34085009808682
+              -71.07729434967041,
+              42.34092940034336
             ],
             [
               -71.07528001070023,
               42.33921248413159
             ],
             [
-              -71.07729434967041,
-              42.34092940034336
+              -71.07275605201721,
+              42.34085009808682
             ],
             [
               -71.07460141181946,
@@ -373,7 +373,7 @@
       "type": "Feature",
       "properties": {
         "plate": 259,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -384,28 +384,28 @@
               42.340846132971386
             ],
             [
-              -71.07063174247742,
-              42.34215857252991
-            ],
-            [
-              -71.06982171535492,
-              42.34147658318749
-            ],
-            [
-              -71.06965005397797,
-              42.34135763080039
-            ],
-            [
-              -71.0694032907486,
-              42.34107610925428
+              -71.07035279273987,
+              42.33880010004537
             ],
             [
               -71.06802999973296,
               42.34063598149457
             ],
             [
-              -71.07035279273987,
-              42.33880010004537
+              -71.0694032907486,
+              42.34107610925428
+            ],
+            [
+              -71.06965005397797,
+              42.34135763080039
+            ],
+            [
+              -71.06982171535492,
+              42.34147658318749
+            ],
+            [
+              -71.07063174247742,
+              42.34215857252991
             ],
             [
               -71.07275605201721,
@@ -419,7 +419,7 @@
       "type": "Feature",
       "properties": {
         "plate": 260,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -493,7 +493,7 @@
       "type": "Feature",
       "properties": {
         "plate": 261,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -504,16 +504,24 @@
               42.338316338343255
             ],
             [
-              -71.069118976593,
-              42.33976364710089
+              -71.06904923915863,
+              42.33671038141869
+            ],
+            [
+              -71.06835186481476,
+              42.33717829408994
+            ],
+            [
+              -71.0670804977417,
+              42.336242465265855
             ],
             [
               -71.06594324111938,
               42.33708709104584
             ],
             [
-              -71.06782078742981,
-              42.3356833405515
+              -71.069118976593,
+              42.33976364710089
             ],
             [
               -71.0709536075592,
@@ -527,7 +535,7 @@
       "type": "Feature",
       "properties": {
         "plate": 262,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -542,8 +550,16 @@
               42.33710295245433
             ],
             [
-              -71.06350779533386,
-              42.33911731881326
+              -71.06421053409576,
+              42.33874458659643
+            ],
+            [
+              -71.0653156042099,
+              42.33924817108882
+            ],
+            [
+              -71.06489717960358,
+              42.33956935279256
             ],
             [
               -71.0670644044876,
@@ -565,7 +581,7 @@
       "type": "Feature",
       "properties": {
         "plate": 263,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -576,20 +592,28 @@
               42.34082234227339
             ],
             [
-              -71.06640458106995,
-              42.341916705063156
+              -71.0670644044876,
+              42.340263258279855
+            ],
+            [
+              -71.0649186372757,
+              42.3395733179885
+            ],
+            [
+              -71.06531023979187,
+              42.33924817108882
+            ],
+            [
+              -71.06420516967773,
+              42.338740621348215
             ],
             [
               -71.06283187866211,
               42.340743039881836
             ],
             [
-              -71.06350779533386,
-              42.33912921448592
-            ],
-            [
-              -71.0670644044876,
-              42.340263258279855
+              -71.06640458106995,
+              42.341916705063156
             ],
             [
               -71.06779932975769,
@@ -603,7 +627,7 @@
       "type": "Feature",
       "properties": {
         "plate": 264,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -614,16 +638,16 @@
               42.34192067011109
             ],
             [
-              -71.06436610221863,
-              42.343494774388894
+              -71.06283724308014,
+              42.34075097012549
             ],
             [
               -71.0618072748184,
               42.34282469451374
             ],
             [
-              -71.06283724308014,
-              42.34075097012549
+              -71.06436610221863,
+              42.343494774388894
             ],
             [
               -71.0663992166519,
@@ -637,7 +661,7 @@
       "type": "Feature",
       "properties": {
         "plate": 265,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -648,32 +672,32 @@
               42.34319343757722
             ],
             [
-              -71.07757866382597,
-              42.3434035805062
-            ],
-            [
-              -71.07751429080963,
-              42.34346701974296
-            ],
-            [
-              -71.07728362083435,
-              42.34305268107163
-            ],
-            [
-              -71.07592105865479,
-              42.34168276679209
-            ],
-            [
-              -71.07881247997284,
-              42.340132408116666
+              -71.08046472072601,
+              42.341623290821694
             ],
             [
               -71.07996582984924,
               42.3412426432789
             ],
             [
-              -71.08046472072601,
-              42.341623290821694
+              -71.07881247997284,
+              42.340132408116666
+            ],
+            [
+              -71.07592105865479,
+              42.34168276679209
+            ],
+            [
+              -71.07728362083435,
+              42.34305268107163
+            ],
+            [
+              -71.07751429080963,
+              42.34346701974296
+            ],
+            [
+              -71.07757866382597,
+              42.3434035805062
             ],
             [
               -71.07850670814514,
@@ -687,7 +711,7 @@
       "type": "Feature",
       "properties": {
         "plate": 266,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -698,20 +722,20 @@
               42.341619325755005
             ],
             [
-              -71.07994437217712,
-              42.34123471309726
-            ],
-            [
-              -71.0788232088089,
-              42.34013637327714
+              -71.08331054449081,
+              42.33932549276002
             ],
             [
               -71.08198821544647,
               42.338443227018615
             ],
             [
-              -71.08331054449081,
-              42.33932549276002
+              -71.0788232088089,
+              42.34013637327714
+            ],
+            [
+              -71.07994437217712,
+              42.34123471309726
             ],
             [
               -71.08046472072601,
@@ -725,7 +749,7 @@
       "type": "Feature",
       "properties": {
         "plate": 267,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -736,20 +760,20 @@
               42.33755896623712
             ],
             [
-              -71.0819935798645,
-              42.3384471922856
-            ],
-            [
-              -71.07959568500519,
-              42.33972003006352
+              -71.0792738199234,
+              42.33654780077723
             ],
             [
               -71.0773640871048,
               42.33782464230779
             ],
             [
-              -71.0792738199234,
-              42.33654780077723
+              -71.07959568500519,
+              42.33972003006352
+            ],
+            [
+              -71.0819935798645,
+              42.3384471922856
             ],
             [
               -71.08080267906189,
@@ -763,7 +787,7 @@
       "type": "Feature",
       "properties": {
         "plate": 268,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -805,7 +829,7 @@
       "type": "Feature",
       "properties": {
         "plate": 269,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -816,28 +840,28 @@
               42.33859787224556
             ],
             [
-              -71.07556432485579,
-              42.33900034457886
-            ],
-            [
-              -71.07528001070023,
-              42.339210501522274
-            ],
-            [
-              -71.0745906829834,
-              42.33965658704607
-            ],
-            [
-              -71.07198357582092,
-              42.33749552103929
+              -71.07668548822403,
+              42.338262807106545
             ],
             [
               -71.07382893562317,
               42.335980747933306
             ],
             [
-              -71.07668548822403,
-              42.338262807106545
+              -71.07198357582092,
+              42.33749552103929
+            ],
+            [
+              -71.0745906829834,
+              42.33965658704607
+            ],
+            [
+              -71.07528001070023,
+              42.339210501522274
+            ],
+            [
+              -71.07556432485579,
+              42.33900034457886
             ],
             [
               -71.07615441083908,
@@ -851,7 +875,7 @@
       "type": "Feature",
       "properties": {
         "plate": 270,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -862,16 +886,16 @@
               42.33965856964132
             ],
             [
-              -71.07275605201721,
-              42.34084216785566
+              -71.07198357582092,
+              42.33749948636601
             ],
             [
               -71.0703581571579,
               42.33878820431044
             ],
             [
-              -71.07198357582092,
-              42.33749948636601
+              -71.07275605201721,
+              42.34084216785566
             ],
             [
               -71.0745906829834,
@@ -885,7 +909,7 @@
       "type": "Feature",
       "properties": {
         "plate": 271,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -919,7 +943,7 @@
       "type": "Feature",
       "properties": {
         "plate": 272,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -930,24 +954,24 @@
               42.33744793709888
             ],
             [
-              -71.07382357120514,
-              42.33598471335558
-            ],
-            [
-              -71.07576012611389,
-              42.334438179708876
-            ],
-            [
-              -71.07644140720367,
-              42.334021798767616
+              -71.07804000377655,
+              42.3356833405515
             ],
             [
               -71.07830286026,
               42.335473171820205
             ],
             [
-              -71.07804000377655,
-              42.3356833405515
+              -71.07644140720367,
+              42.334021798767616
+            ],
+            [
+              -71.07576012611389,
+              42.334438179708876
+            ],
+            [
+              -71.07382357120514,
+              42.33598471335558
             ],
             [
               -71.07566893100739,
@@ -961,7 +985,7 @@
       "type": "Feature",
       "properties": {
         "plate": 273,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -980,8 +1004,8 @@
               42.334993350009064
             ],
             [
-              -71.06903314590454,
-              42.33669848528846
+              -71.06904923915863,
+              42.33671038141869
             ],
             [
               -71.07096433639526,
@@ -995,7 +1019,7 @@
       "type": "Feature",
       "properties": {
         "plate": 274,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1006,24 +1030,24 @@
               42.33646056221099
             ],
             [
-              -71.07143640518188,
-              42.33500128097783
-            ],
-            [
-              -71.07438683509827,
-              42.332851951846955
-            ],
-            [
-              -71.07466578483582,
-              42.33300264521361
+              -71.07576012611389,
+              42.3344223176283
             ],
             [
               -71.0749876499176,
               42.333454723147256
             ],
             [
-              -71.07576012611389,
-              42.3344223176283
+              -71.07466578483582,
+              42.33300264521361
+            ],
+            [
+              -71.07438683509827,
+              42.332851951846955
+            ],
+            [
+              -71.07143640518188,
+              42.33500128097783
             ],
             [
               -71.07323884963989,
@@ -1037,7 +1061,7 @@
       "type": "Feature",
       "properties": {
         "plate": 275,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1048,32 +1072,32 @@
               42.3369760610745
             ],
             [
-              -71.09334468841553,
-              42.33744397176892
-            ],
-            [
-              -71.09248101711273,
-              42.338843717720835
-            ],
-            [
-              -71.09219670295715,
-              42.338962674863815
-            ],
-            [
-              -71.09090387821198,
-              42.33853046283442
-            ],
-            [
-              -71.09097361564635,
-              42.33845908808505
+              -71.09132766723633,
+              42.33604816007766
             ],
             [
               -71.09118819236755,
               42.3362702231009
             ],
             [
-              -71.09132766723633,
-              42.33604816007766
+              -71.09097361564635,
+              42.33845908808505
+            ],
+            [
+              -71.09090387821198,
+              42.33853046283442
+            ],
+            [
+              -71.09219670295715,
+              42.338962674863815
+            ],
+            [
+              -71.09248101711273,
+              42.338843717720835
+            ],
+            [
+              -71.09334468841553,
+              42.33744397176892
             ],
             [
               -71.09366655349731,
@@ -1087,7 +1111,7 @@
       "type": "Feature",
       "properties": {
         "plate": 276,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1153,7 +1177,7 @@
       "type": "Feature",
       "properties": {
         "plate": 277,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1164,32 +1188,20 @@
               42.341432967338356
             ],
             [
-              -71.08331322669983,
-              42.339331440576935
+              -71.08683228492737,
+              42.34112369044919
             ],
             [
-              -71.08371019363403,
-              42.33900034457886
+              -71.0905659198761,
+              42.339593143964606
             ],
             [
-              -71.08416616916655,
-              42.338665281584404
-            ],
-            [
-              -71.08783006668091,
-              42.336365392727934
-            ],
-            [
-              -71.09026551246643,
-              42.335473171820205
-            ],
-            [
-              -71.0906732082367,
-              42.3357785110667
+              -71.08989000320435,
+              42.33815772713897
             ],
             [
               -71.08983635902405,
-              42.33657952386224
+              42.3378642953564
             ],
             [
               -71.08948230743407,
@@ -1197,19 +1209,31 @@
             ],
             [
               -71.08983635902405,
-              42.3378642953564
+              42.33657952386224
             ],
             [
-              -71.08989000320435,
-              42.33815772713897
+              -71.0906732082367,
+              42.3357785110667
             ],
             [
-              -71.0905659198761,
-              42.339593143964606
+              -71.09026551246643,
+              42.335473171820205
             ],
             [
-              -71.08683228492737,
-              42.34112369044919
+              -71.08783006668091,
+              42.336365392727934
+            ],
+            [
+              -71.08416616916655,
+              42.338665281584404
+            ],
+            [
+              -71.08371019363403,
+              42.33900034457886
+            ],
+            [
+              -71.08331322669983,
+              42.339331440576935
             ],
             [
               -71.08644604682922,
@@ -1223,7 +1247,7 @@
       "type": "Feature",
       "properties": {
         "plate": 278,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1234,16 +1258,16 @@
               42.33932549276002
             ],
             [
-              -71.08566284179688,
-              42.34090957478859
+              -71.08172535896301,
+              42.34060822558664
             ],
             [
               -71.0840857028961,
               42.34221804799397
             ],
             [
-              -71.08172535896301,
-              42.34060822558664
+              -71.08566284179688,
+              42.34090957478859
             ],
             [
               -71.0833078622818,
@@ -1257,7 +1281,7 @@
       "type": "Feature",
       "properties": {
         "plate": 279,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1291,7 +1315,7 @@
       "type": "Feature",
       "properties": {
         "plate": 280,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1325,7 +1349,7 @@
       "type": "Feature",
       "properties": {
         "plate": 281,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1336,32 +1360,32 @@
               42.33900034457886
             ],
             [
-              -71.08331322669983,
-              42.33932945797138
-            ],
-            [
-              -71.0819935798645,
-              42.33843529648391
-            ],
-            [
-              -71.08395159244537,
-              42.33731708107719
-            ],
-            [
-              -71.08535170555115,
-              42.335826096270296
-            ],
-            [
-              -71.08591496944427,
-              42.336266257696636
+              -71.08417689800262,
+              42.338661316331184
             ],
             [
               -71.08671963214874,
               42.33705933357137
             ],
             [
-              -71.08417689800262,
-              42.338661316331184
+              -71.08591496944427,
+              42.336266257696636
+            ],
+            [
+              -71.08535170555115,
+              42.335826096270296
+            ],
+            [
+              -71.08395159244537,
+              42.33731708107719
+            ],
+            [
+              -71.0819935798645,
+              42.33843529648391
+            ],
+            [
+              -71.08331322669983,
+              42.33932945797138
             ],
             [
               -71.08371555805206,
@@ -1375,7 +1399,7 @@
       "type": "Feature",
       "properties": {
         "plate": 282,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1386,36 +1410,36 @@
               42.33637728892119
             ],
             [
-              -71.08671963214874,
-              42.33706329892563
-            ],
-            [
-              -71.0859203338623,
-              42.3362702231009
-            ],
-            [
-              -71.08535170555115,
-              42.335834027134055
-            ],
-            [
-              -71.08776032924652,
-              42.333046266910266
-            ],
-            [
-              -71.0879373550415,
-              42.33301850765226
-            ],
-            [
-              -71.08811438083647,
-              42.333038335694944
+              -71.09026551246643,
+              42.335473171820205
             ],
             [
               -71.08946084976196,
               42.33447783489286
             ],
             [
-              -71.09026551246643,
-              42.335473171820205
+              -71.08811438083647,
+              42.333038335694944
+            ],
+            [
+              -71.0879373550415,
+              42.33301850765226
+            ],
+            [
+              -71.08776032924652,
+              42.333046266910266
+            ],
+            [
+              -71.08535170555115,
+              42.335834027134055
+            ],
+            [
+              -71.0859203338623,
+              42.3362702231009
+            ],
+            [
+              -71.08671963214874,
+              42.33706329892563
             ],
             [
               -71.08781397342682,
@@ -1429,7 +1453,7 @@
       "type": "Feature",
       "properties": {
         "plate": 283,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1440,28 +1464,28 @@
               42.332054857243854
             ],
             [
-              -71.08700931072235,
-              42.33389490117077
-            ],
-            [
-              -71.08585596084595,
-              42.33523524410696
-            ],
-            [
-              -71.08482599258423,
-              42.3348743853573
-            ],
-            [
-              -71.08401596546173,
-              42.33456507620957
+              -71.08257830142975,
+              42.33378386556349
             ],
             [
               -71.08326494693756,
               42.334184385939416
             ],
             [
-              -71.08257830142975,
-              42.33378386556349
+              -71.08401596546173,
+              42.33456507620957
+            ],
+            [
+              -71.08482599258423,
+              42.3348743853573
+            ],
+            [
+              -71.08585596084595,
+              42.33523524410696
+            ],
+            [
+              -71.08700931072235,
+              42.33389490117077
             ],
             [
               -71.08404278755188,
@@ -1475,7 +1499,7 @@
       "type": "Feature",
       "properties": {
         "plate": 284,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1537,7 +1561,7 @@
       "type": "Feature",
       "properties": {
         "plate": 285,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1591,7 +1615,7 @@
       "type": "Feature",
       "properties": {
         "plate": 286,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1633,7 +1657,7 @@
       "type": "Feature",
       "properties": {
         "plate": 287,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1644,24 +1668,24 @@
               42.33654383539048
             ],
             [
-              -71.07803463935852,
-              42.33569127143327
-            ],
-            [
-              -71.0806792974472,
-              42.33351420684395
-            ],
-            [
-              -71.08204185962677,
-              42.33431524847969
+              -71.08060419559479,
+              42.33558023899751
             ],
             [
               -71.08145713806152,
               42.33490610928643
             ],
             [
-              -71.08060419559479,
-              42.33558023899751
+              -71.08204185962677,
+              42.33431524847969
+            ],
+            [
+              -71.0806792974472,
+              42.33351420684395
+            ],
+            [
+              -71.07803463935852,
+              42.33569127143327
             ],
             [
               -71.07928991317748,
@@ -1675,7 +1699,7 @@
       "type": "Feature",
       "properties": {
         "plate": 288,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1729,7 +1753,7 @@
       "type": "Feature",
       "properties": {
         "plate": 289,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1767,7 +1791,7 @@
       "type": "Feature",
       "properties": {
         "plate": 290,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1778,32 +1802,32 @@
               42.33443024866909
             ],
             [
-              -71.07497692108154,
-              42.333454723147256
-            ],
-            [
-              -71.07476234436035,
-              42.33313747581457
-            ],
-            [
-              -71.07467114925385,
-              42.33299867960333
-            ],
-            [
-              -71.07438147068024,
-              42.332851951846955
-            ],
-            [
-              -71.07699394226073,
-              42.33121016387881
+              -71.07644140720367,
+              42.33401386767532
             ],
             [
               -71.07939183712004,
               42.33206675425247
             ],
             [
-              -71.07644140720367,
-              42.33401386767532
+              -71.07699394226073,
+              42.33121016387881
+            ],
+            [
+              -71.07438147068024,
+              42.332851951846955
+            ],
+            [
+              -71.07467114925385,
+              42.33299867960333
+            ],
+            [
+              -71.07476234436035,
+              42.33313747581457
+            ],
+            [
+              -71.07497692108154,
+              42.333454723147256
             ],
             [
               -71.07576549053191,
@@ -1817,39 +1841,39 @@
       "type": "Feature",
       "properties": {
         "plate": 291,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -71.06905460357666,
-              42.33670641604219
-            ],
-            [
-              -71.06782078742981,
-              42.33568135783091
-            ],
-            [
-              -71.0702133178711,
-              42.33429145531079
-            ],
-            [
-              -71.07236176729201,
-              42.332832123745526
-            ],
-            [
-              -71.07269436120987,
-              42.333062129337904
+              -71.06836795806885,
+              42.33718622478319
             ],
             [
               -71.07333809137344,
-              42.333607397855715
+              42.33361136342762
             ],
             [
-              -71.06905460357666,
-              42.33670641604219
+              -71.07269436120987,
+              42.333066094944186
+            ],
+            [
+              -71.07236176729202,
+              42.33283608936632
+            ],
+            [
+              -71.0702133178711,
+              42.334295420839545
+            ],
+            [
+              -71.06707513332367,
+              42.336242465265855
+            ],
+            [
+              -71.06836795806885,
+              42.33718622478319
             ]
           ]
         ]
@@ -1859,7 +1883,7 @@
       "type": "Feature",
       "properties": {
         "plate": 292,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1913,7 +1937,7 @@
       "type": "Feature",
       "properties": {
         "plate": 293,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1971,7 +1995,7 @@
       "type": "Feature",
       "properties": {
         "plate": 294,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2029,7 +2053,7 @@
       "type": "Feature",
       "properties": {
         "plate": 295,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2040,20 +2064,20 @@
               42.327609184159584
             ],
             [
-              -71.07226252555847,
-              42.32993318805289
-            ],
-            [
-              -71.06969833374023,
-              42.32821993752721
+              -71.07152223587036,
+              42.32669700899754
             ],
             [
               -71.06917262077332,
               42.32754572892418
             ],
             [
-              -71.07152223587036,
-              42.32669700899754
+              -71.06969833374023,
+              42.32821993752721
+            ],
+            [
+              -71.07226252555847,
+              42.32993318805289
             ],
             [
               -71.07285261154175,
@@ -2067,7 +2091,7 @@
       "type": "Feature",
       "properties": {
         "plate": 296,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2113,15 +2137,15 @@
       "type": "Feature",
       "properties": {
         "plate": 297,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -71.06782883405684,
-              42.33568135783091
+              -71.06791198253632,
+              42.33569127143327
             ],
             [
               -71.07020795345306,
@@ -2152,8 +2176,8 @@
               42.3365398700035
             ],
             [
-              -71.06782883405684,
-              42.33568135783091
+              -71.06791198253632,
+              42.33569127143327
             ]
           ]
         ]
@@ -2163,7 +2187,7 @@
       "type": "Feature",
       "properties": {
         "plate": 298,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2197,7 +2221,7 @@
       "type": "Feature",
       "properties": {
         "plate": 299,
-        "atlas": "Sanborn Map Company. (1938). Insurance maps of Boston, Massachusetts. Vol. 2. New York: Sanborn Map Company. Boston Back Bay South.  Updated to July, 1963."
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2208,32 +2232,112 @@
               42.3307342752971
             ],
             [
-              -71.06629729270935,
-              42.326117969205676
-            ],
-            [
-              -71.06791734695435,
-              42.32804543717011
-            ],
-            [
-              -71.06967687606812,
-              42.33013940950672
-            ],
-            [
-              -71.07117891311646,
-              42.33188433320611
-            ],
-            [
-              -71.07195407152176,
-              42.332558495307325
-            ],
-            [
               -71.06800317764282,
               42.33170984301452
             ],
             [
+              -71.06850743293762,
+              42.33047253504242
+            ],
+            [
+              -71.06554627418518,
+              42.32981421382965
+            ],
+            [
+              -71.06625437736511,
+              42.32866411807005
+            ],
+            [
+              -71.06483817100525,
+              42.328148551076
+            ],
+            [
               -71.0632073879242,
               42.3307342752971
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plate": "299A",
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.07195138931274,
+              42.332554529669025
+            ],
+            [
+              -71.07118964195251,
+              42.331892264566946
+            ],
+            [
+              -71.06921553611755,
+              42.329576264708066
+            ],
+            [
+              -71.06774568557739,
+              42.33030993827517
+            ],
+            [
+              -71.06849670410156,
+              42.33048046658129
+            ],
+            [
+              -71.06799244880676,
+              42.33171777439734
+            ],
+            [
+              -71.07195138931274,
+              42.332554529669025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plate": "299B",
+        "atlas": "Insurance maps of Boston, Massachusetts. Vol. 2 South. (Sanborn Map Co., 1938. Updated to July 1963)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.06921553611755,
+              42.329576264708066
+            ],
+            [
+              -71.06622219085693,
+              42.32599898776643
+            ],
+            [
+              -71.0648488998413,
+              42.328164414738815
+            ],
+            [
+              -71.06625437736511,
+              42.32867204983695
+            ],
+            [
+              -71.0655677318573,
+              42.3298300770724
+            ],
+            [
+              -71.06775641441345,
+              42.330305972495125
+            ],
+            [
+              -71.06921553611755,
+              42.329576264708066
             ]
           ]
         ]
