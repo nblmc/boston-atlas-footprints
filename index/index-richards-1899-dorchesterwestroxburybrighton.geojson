@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "plate": 1,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -299,7 +299,7 @@
       "type": "Feature",
       "properties": {
         "plate": 2,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -609,7 +609,7 @@
       "type": "Feature",
       "properties": {
         "plate": 3,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -675,7 +675,7 @@
       "type": "Feature",
       "properties": {
         "plate": 4,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1225,7 +1225,7 @@
       "type": "Feature",
       "properties": {
         "plate": 5,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1643,7 +1643,7 @@
       "type": "Feature",
       "properties": {
         "plate": 6,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1969,7 +1969,7 @@
       "type": "Feature",
       "properties": {
         "plate": 7,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2459,7 +2459,7 @@
       "type": "Feature",
       "properties": {
         "plate": 8,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2729,7 +2729,7 @@
       "type": "Feature",
       "properties": {
         "plate": 9,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3139,7 +3139,7 @@
       "type": "Feature",
       "properties": {
         "plate": 10,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3593,7 +3593,7 @@
       "type": "Feature",
       "properties": {
         "plate": 11,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4027,7 +4027,7 @@
       "type": "Feature",
       "properties": {
         "plate": 12,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4433,7 +4433,7 @@
       "type": "Feature",
       "properties": {
         "plate": 13,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4687,7 +4687,7 @@
       "type": "Feature",
       "properties": {
         "plate": 14,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5141,7 +5141,7 @@
       "type": "Feature",
       "properties": {
         "plate": 15,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5723,7 +5723,7 @@
       "type": "Feature",
       "properties": {
         "plate": 16,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6165,7 +6165,7 @@
       "type": "Feature",
       "properties": {
         "plate": 17,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6851,7 +6851,7 @@
       "type": "Feature",
       "properties": {
         "plate": 18,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7273,7 +7273,7 @@
       "type": "Feature",
       "properties": {
         "plate": 19,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7627,7 +7627,7 @@
       "type": "Feature",
       "properties": {
         "plate": 20,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7977,7 +7977,7 @@
       "type": "Feature",
       "properties": {
         "plate": 21,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8207,7 +8207,7 @@
       "type": "Feature",
       "properties": {
         "plate": 22,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8505,7 +8505,7 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8811,7 +8811,7 @@
       "type": "Feature",
       "properties": {
         "plate": 24,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9069,7 +9069,7 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9259,7 +9259,7 @@
       "type": "Feature",
       "properties": {
         "plate": 26,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9633,7 +9633,7 @@
       "type": "Feature",
       "properties": {
         "plate": 27,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9963,7 +9963,7 @@
       "type": "Feature",
       "properties": {
         "plate": 28,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10153,7 +10153,7 @@
       "type": "Feature",
       "properties": {
         "plate": 29,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10331,7 +10331,7 @@
       "type": "Feature",
       "properties": {
         "plate": 30,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10693,7 +10693,7 @@
       "type": "Feature",
       "properties": {
         "plate": 31,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11059,7 +11059,7 @@
       "type": "Feature",
       "properties": {
         "plate": 32,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11201,7 +11201,7 @@
       "type": "Feature",
       "properties": {
         "plate": 33,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11407,7 +11407,7 @@
       "type": "Feature",
       "properties": {
         "plate": 34,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11581,7 +11581,7 @@
       "type": "Feature",
       "properties": {
         "plate": 35,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11883,7 +11883,7 @@
       "type": "Feature",
       "properties": {
         "plate": 36,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12209,7 +12209,7 @@
       "type": "Feature",
       "properties": {
         "plate": 37,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12647,7 +12647,7 @@
       "type": "Feature",
       "properties": {
         "plate": 38,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13069,7 +13069,7 @@
       "type": "Feature",
       "properties": {
         "plate": 39,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13379,7 +13379,7 @@
       "type": "Feature",
       "properties": {
         "plate": 40,
-        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. L.J. Richards, 1899"
+        "atlas": "Atlas of Dorchester, West Roxbury and Brighton, city of Boston. (L.J. Richards, 1899)"
       },
       "geometry": {
         "type": "Polygon",
