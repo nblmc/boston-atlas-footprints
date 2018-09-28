@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": 19,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v48k"
       },
       "geometry": {
         "type": "Polygon",
@@ -63,7 +64,8 @@
       "type": "Feature",
       "properties": {
         "plate": 18,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v479"
       },
       "geometry": {
         "type": "Polygon",
@@ -113,7 +115,8 @@
       "type": "Feature",
       "properties": {
         "plate": 17,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v461"
       },
       "geometry": {
         "type": "Polygon",
@@ -155,7 +158,8 @@
       "type": "Feature",
       "properties": {
         "plate": 16,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v45r"
       },
       "geometry": {
         "type": "Polygon",
@@ -221,7 +225,8 @@
       "type": "Feature",
       "properties": {
         "plate": 13,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v42x"
       },
       "geometry": {
         "type": "Polygon",
@@ -303,7 +308,8 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v525"
       },
       "geometry": {
         "type": "Polygon",
@@ -345,7 +351,8 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v525"
       },
       "geometry": {
         "type": "Polygon",
@@ -399,7 +406,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v54q"
       },
       "geometry": {
         "type": "Polygon",
@@ -441,7 +449,8 @@
       "type": "Feature",
       "properties": {
         "plate": 14,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v436"
       },
       "geometry": {
         "type": "Polygon",
@@ -527,7 +536,8 @@
       "type": "Feature",
       "properties": {
         "plate": 6,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v35h"
       },
       "geometry": {
         "type": "Polygon",
@@ -577,7 +587,8 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v525"
       },
       "geometry": {
         "type": "Polygon",
@@ -615,7 +626,8 @@
       "type": "Feature",
       "properties": {
         "plate": 8,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v372"
       },
       "geometry": {
         "type": "Polygon",
@@ -665,7 +677,8 @@
       "type": "Feature",
       "properties": {
         "plate": 12,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v41n"
       },
       "geometry": {
         "type": "Polygon",
@@ -791,7 +804,8 @@
       "type": "Feature",
       "properties": {
         "plate": 5,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v347"
       },
       "geometry": {
         "type": "Polygon",
@@ -881,7 +895,8 @@
       "type": "Feature",
       "properties": {
         "plate": 3,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v32p"
       },
       "geometry": {
         "type": "Polygon",
@@ -959,7 +974,8 @@
       "type": "Feature",
       "properties": {
         "plate": 10,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v39m"
       },
       "geometry": {
         "type": "Polygon",
@@ -1013,7 +1029,8 @@
       "type": "Feature",
       "properties": {
         "plate": 2,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v31d"
       },
       "geometry": {
         "type": "Polygon",
@@ -1091,7 +1108,8 @@
       "type": "Feature",
       "properties": {
         "plate": 22,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v51w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1161,7 +1179,8 @@
       "type": "Feature",
       "properties": {
         "plate": 1,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v304"
       },
       "geometry": {
         "type": "Polygon",
@@ -1235,7 +1254,8 @@
       "type": "Feature",
       "properties": {
         "plate": 11,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v40c"
       },
       "geometry": {
         "type": "Polygon",
@@ -1313,7 +1333,8 @@
       "type": "Feature",
       "properties": {
         "plate": 9,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v38b"
       },
       "geometry": {
         "type": "Polygon",
@@ -1395,7 +1416,8 @@
       "type": "Feature",
       "properties": {
         "plate": 7,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v36s"
       },
       "geometry": {
         "type": "Polygon",
@@ -1497,7 +1519,8 @@
       "type": "Feature",
       "properties": {
         "plate": 4,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v33z"
       },
       "geometry": {
         "type": "Polygon",
@@ -1603,7 +1626,8 @@
       "type": "Feature",
       "properties": {
         "plate": 20,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v49v"
       },
       "geometry": {
         "type": "Polygon",
@@ -1689,7 +1713,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v54q"
       },
       "geometry": {
         "type": "Polygon",
@@ -1731,7 +1756,8 @@
       "type": "Feature",
       "properties": {
         "plate": 15,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v44g"
       },
       "geometry": {
         "type": "Polygon",
@@ -1781,7 +1807,8 @@
       "type": "Feature",
       "properties": {
         "plate": 21,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v50m"
       },
       "geometry": {
         "type": "Polygon",
@@ -1843,7 +1870,8 @@
       "type": "Feature",
       "properties": {
         "plate": 24,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v53f"
       },
       "geometry": {
         "type": "Polygon",
@@ -2005,7 +2033,8 @@
       "type": "Feature",
       "properties": {
         "plate": 26,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v550"
       },
       "geometry": {
         "type": "Polygon",
@@ -2107,7 +2136,8 @@
       "type": "Feature",
       "properties": {
         "plate": 24,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v53f"
       },
       "geometry": {
         "type": "Polygon",
@@ -2189,7 +2219,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v54q"
       },
       "geometry": {
         "type": "Polygon",
@@ -2223,7 +2254,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v54q"
       },
       "geometry": {
         "type": "Polygon",
@@ -2257,7 +2289,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)"
+        "atlas": "Plan of the city of Boston / by C. Pinney. (Prang & Co. Lith., 1861)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446v54q"
       },
       "geometry": {
         "type": "Polygon",
