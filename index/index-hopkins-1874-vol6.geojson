@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": "A",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s531"
       },
       "geometry": {
         "type": "Polygon",
@@ -111,7 +112,8 @@
       "type": "Feature",
       "properties": {
         "plate": "B",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s549"
       },
       "geometry": {
         "type": "Polygon",
@@ -185,7 +187,8 @@
       "type": "Feature",
       "properties": {
         "plate": "D",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s56v"
       },
       "geometry": {
         "type": "Polygon",
@@ -235,7 +238,8 @@
       "type": "Feature",
       "properties": {
         "plate": "E",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s574"
       },
       "geometry": {
         "type": "Polygon",
@@ -321,7 +325,8 @@
       "type": "Feature",
       "properties": {
         "plate": "F",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s58d"
       },
       "geometry": {
         "type": "Polygon",
@@ -387,7 +392,8 @@
       "type": "Feature",
       "properties": {
         "plate": "G",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s59p"
       },
       "geometry": {
         "type": "Polygon",
@@ -465,7 +471,8 @@
       "type": "Feature",
       "properties": {
         "plate": "H",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s60f"
       },
       "geometry": {
         "type": "Polygon",
@@ -531,7 +538,8 @@
       "type": "Feature",
       "properties": {
         "plate": "I",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s61q"
       },
       "geometry": {
         "type": "Polygon",
@@ -597,7 +605,8 @@
       "type": "Feature",
       "properties": {
         "plate": "J",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s620"
       },
       "geometry": {
         "type": "Polygon",
@@ -675,7 +684,8 @@
       "type": "Feature",
       "properties": {
         "plate": "K",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s638"
       },
       "geometry": {
         "type": "Polygon",
@@ -737,7 +747,8 @@
       "type": "Feature",
       "properties": {
         "plate": "L",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s64j"
       },
       "geometry": {
         "type": "Polygon",
@@ -799,7 +810,8 @@
       "type": "Feature",
       "properties": {
         "plate": "M",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s65t"
       },
       "geometry": {
         "type": "Polygon",
@@ -873,7 +885,8 @@
       "type": "Feature",
       "properties": {
         "plate": "C",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s55k"
       },
       "geometry": {
         "type": "Polygon",
@@ -943,7 +956,8 @@
       "type": "Feature",
       "properties": {
         "plate": "N",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 6: Including the late city of Charlestown, now wards 20, 21 and 22, city of Boston. (G.M. Hopkins & Co., 1875)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s663"
       },
       "geometry": {
         "type": "Polygon",
