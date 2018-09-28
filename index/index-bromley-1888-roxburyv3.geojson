@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": 1,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t23h"
       },
       "geometry": {
         "type": "Polygon",
@@ -75,7 +76,8 @@
       "type": "Feature",
       "properties": {
         "plate": 2,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t24s"
       },
       "geometry": {
         "type": "Polygon",
@@ -157,7 +159,8 @@
       "type": "Feature",
       "properties": {
         "plate": 3,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t252"
       },
       "geometry": {
         "type": "Polygon",
@@ -263,7 +266,8 @@
       "type": "Feature",
       "properties": {
         "plate": 4,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t26b"
       },
       "geometry": {
         "type": "Polygon",
@@ -377,7 +381,8 @@
       "type": "Feature",
       "properties": {
         "plate": 5,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t27m"
       },
       "geometry": {
         "type": "Polygon",
@@ -507,7 +512,8 @@
       "type": "Feature",
       "properties": {
         "plate": 6,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t28w"
       },
       "geometry": {
         "type": "Polygon",
@@ -629,7 +635,8 @@
       "type": "Feature",
       "properties": {
         "plate": 7,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t295"
       },
       "geometry": {
         "type": "Polygon",
@@ -719,7 +726,8 @@
       "type": "Feature",
       "properties": {
         "plate": 8,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t30x"
       },
       "geometry": {
         "type": "Polygon",
@@ -793,7 +801,8 @@
       "type": "Feature",
       "properties": {
         "plate": 9,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t316"
       },
       "geometry": {
         "type": "Polygon",
@@ -867,7 +876,8 @@
       "type": "Feature",
       "properties": {
         "plate": 10,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t32g"
       },
       "geometry": {
         "type": "Polygon",
@@ -921,7 +931,8 @@
       "type": "Feature",
       "properties": {
         "plate": 11,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t33r"
       },
       "geometry": {
         "type": "Polygon",
@@ -999,7 +1010,8 @@
       "type": "Feature",
       "properties": {
         "plate": 12,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t341"
       },
       "geometry": {
         "type": "Polygon",
@@ -1069,7 +1081,8 @@
       "type": "Feature",
       "properties": {
         "plate": 13,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t359"
       },
       "geometry": {
         "type": "Polygon",
@@ -1147,7 +1160,8 @@
       "type": "Feature",
       "properties": {
         "plate": 14,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t36k"
       },
       "geometry": {
         "type": "Polygon",
@@ -1189,7 +1203,8 @@
       "type": "Feature",
       "properties": {
         "plate": 15,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t37v"
       },
       "geometry": {
         "type": "Polygon",
@@ -1271,7 +1286,8 @@
       "type": "Feature",
       "properties": {
         "plate": 16,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t384"
       },
       "geometry": {
         "type": "Polygon",
@@ -1341,7 +1357,8 @@
       "type": "Feature",
       "properties": {
         "plate": 17,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t39d"
       },
       "geometry": {
         "type": "Polygon",
@@ -1467,7 +1484,8 @@
       "type": "Feature",
       "properties": {
         "plate": 18,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t405"
       },
       "geometry": {
         "type": "Polygon",
@@ -1541,7 +1559,8 @@
       "type": "Feature",
       "properties": {
         "plate": 19,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t41f"
       },
       "geometry": {
         "type": "Polygon",
@@ -1587,7 +1606,8 @@
       "type": "Feature",
       "properties": {
         "plate": 20,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t42q"
       },
       "geometry": {
         "type": "Polygon",
@@ -1661,7 +1681,8 @@
       "type": "Feature",
       "properties": {
         "plate": 21,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t430"
       },
       "geometry": {
         "type": "Polygon",
@@ -1731,7 +1752,8 @@
       "type": "Feature",
       "properties": {
         "plate": 22,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t448"
       },
       "geometry": {
         "type": "Polygon",
@@ -1777,7 +1799,8 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t45j"
       },
       "geometry": {
         "type": "Polygon",
@@ -1835,7 +1858,8 @@
       "type": "Feature",
       "properties": {
         "plate": 24,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t46t"
       },
       "geometry": {
         "type": "Polygon",
@@ -1893,7 +1917,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t473"
       },
       "geometry": {
         "type": "Polygon",
@@ -2039,7 +2064,8 @@
       "type": "Feature",
       "properties": {
         "plate": 26,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t48c"
       },
       "geometry": {
         "type": "Polygon",
@@ -2193,7 +2219,8 @@
       "type": "Feature",
       "properties": {
         "plate": 27,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t49n"
       },
       "geometry": {
         "type": "Polygon",
@@ -2351,7 +2378,8 @@
       "type": "Feature",
       "properties": {
         "plate": 28,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t50d"
       },
       "geometry": {
         "type": "Polygon",
@@ -2473,7 +2501,8 @@
       "type": "Feature",
       "properties": {
         "plate": 29,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t51p"
       },
       "geometry": {
         "type": "Polygon",
@@ -2679,7 +2708,8 @@
       "type": "Feature",
       "properties": {
         "plate": 30,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t52z"
       },
       "geometry": {
         "type": "Polygon",
@@ -2885,7 +2915,8 @@
       "type": "Feature",
       "properties": {
         "plate": 31,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t537"
       },
       "geometry": {
         "type": "Polygon",
@@ -3007,7 +3038,8 @@
       "type": "Feature",
       "properties": {
         "plate": 32,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t54h"
       },
       "geometry": {
         "type": "Polygon",
@@ -3113,7 +3145,8 @@
       "type": "Feature",
       "properties": {
         "plate": 33,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t55s"
       },
       "geometry": {
         "type": "Polygon",
@@ -3327,7 +3360,8 @@
       "type": "Feature",
       "properties": {
         "plate": 34,
-        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)"
+        "atlas": "Atlas of the city of Boston : Roxbury. (G.W. Bromley & Co., 1888)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t562"
       },
       "geometry": {
         "type": "Polygon",
