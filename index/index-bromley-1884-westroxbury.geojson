@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": "A",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t049"
       },
       "geometry": {
         "type": "Polygon",
@@ -427,7 +428,8 @@
       "type": "Feature",
       "properties": {
         "plate": "B",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t05k"
       },
       "geometry": {
         "type": "Polygon",
@@ -757,7 +759,8 @@
       "type": "Feature",
       "properties": {
         "plate": "C",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t06v"
       },
       "geometry": {
         "type": "Polygon",
@@ -1115,7 +1118,8 @@
       "type": "Feature",
       "properties": {
         "plate": "D",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t074"
       },
       "geometry": {
         "type": "Polygon",
@@ -1421,7 +1425,8 @@
       "type": "Feature",
       "properties": {
         "plate": "E",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t08d"
       },
       "geometry": {
         "type": "Polygon",
@@ -1915,7 +1920,8 @@
       "type": "Feature",
       "properties": {
         "plate": "F",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t09p"
       },
       "geometry": {
         "type": "Polygon",
@@ -2357,7 +2363,8 @@
       "type": "Feature",
       "properties": {
         "plate": "G",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t10f"
       },
       "geometry": {
         "type": "Polygon",
@@ -2807,7 +2814,8 @@
       "type": "Feature",
       "properties": {
         "plate": "H",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t11q"
       },
       "geometry": {
         "type": "Polygon",
@@ -3541,7 +3549,8 @@
       "type": "Feature",
       "properties": {
         "plate": "I",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t120"
       },
       "geometry": {
         "type": "Polygon",
@@ -3915,7 +3924,8 @@
       "type": "Feature",
       "properties": {
         "plate": "J",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t138"
       },
       "geometry": {
         "type": "Polygon",
@@ -4221,7 +4231,8 @@
       "type": "Feature",
       "properties": {
         "plate": "K",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t14j"
       },
       "geometry": {
         "type": "Polygon",
@@ -4475,7 +4486,8 @@
       "type": "Feature",
       "properties": {
         "plate": "L",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t15t"
       },
       "geometry": {
         "type": "Polygon",
@@ -4569,7 +4581,8 @@
       "type": "Feature",
       "properties": {
         "plate": "M",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t163"
       },
       "geometry": {
         "type": "Polygon",
@@ -4939,7 +4952,8 @@
       "type": "Feature",
       "properties": {
         "plate": "N",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t17c"
       },
       "geometry": {
         "type": "Polygon",
@@ -5225,7 +5239,8 @@
       "type": "Feature",
       "properties": {
         "plate": "O",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t18n"
       },
       "geometry": {
         "type": "Polygon",
@@ -5487,7 +5502,8 @@
       "type": "Feature",
       "properties": {
         "plate": "P",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t19x"
       },
       "geometry": {
         "type": "Polygon",
@@ -5753,7 +5769,8 @@
       "type": "Feature",
       "properties": {
         "plate": "Q",
-        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)"
+        "atlas": "Atlas of the city of Boston : West Roxbury. (G.W. Bromley & Co., 1884)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446t20p"
       },
       "geometry": {
         "type": "Polygon",
