@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": 3,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z60g"
       },
       "geometry": {
         "type": "Polygon",
@@ -107,7 +108,8 @@
       "type": "Feature",
       "properties": {
         "plate": 2,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z59q"
       },
       "geometry": {
         "type": "Polygon",
@@ -253,7 +255,8 @@
       "type": "Feature",
       "properties": {
         "plate": 1,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z58f"
       },
       "geometry": {
         "type": "Polygon",
@@ -339,7 +342,8 @@
       "type": "Feature",
       "properties": {
         "plate": 8,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z65v"
       },
       "geometry": {
         "type": "Polygon",
@@ -417,7 +421,8 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z80z"
       },
       "geometry": {
         "type": "Polygon",
@@ -475,7 +480,8 @@
       "type": "Feature",
       "properties": {
         "plate": 20,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z77n"
       },
       "geometry": {
         "type": "Polygon",
@@ -621,7 +627,8 @@
       "type": "Feature",
       "properties": {
         "plate": 19,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z76c"
       },
       "geometry": {
         "type": "Polygon",
@@ -719,7 +726,8 @@
       "type": "Feature",
       "properties": {
         "plate": 22,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z796"
       },
       "geometry": {
         "type": "Polygon",
@@ -793,7 +801,8 @@
       "type": "Feature",
       "properties": {
         "plate": 16,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z73j"
       },
       "geometry": {
         "type": "Polygon",
@@ -915,7 +924,8 @@
       "type": "Feature",
       "properties": {
         "plate": 17,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z74t"
       },
       "geometry": {
         "type": "Polygon",
@@ -1053,7 +1063,8 @@
       "type": "Feature",
       "properties": {
         "plate": 18,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z753"
       },
       "geometry": {
         "type": "Polygon",
@@ -1183,7 +1194,8 @@
       "type": "Feature",
       "properties": {
         "plate": 21,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z78x"
       },
       "geometry": {
         "type": "Polygon",
@@ -1229,7 +1241,8 @@
       "type": "Feature",
       "properties": {
         "plate": 11,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z68p"
       },
       "geometry": {
         "type": "Polygon",
@@ -1311,7 +1324,8 @@
       "type": "Feature",
       "properties": {
         "plate": 15,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z728"
       },
       "geometry": {
         "type": "Polygon",
@@ -1437,7 +1451,8 @@
       "type": "Feature",
       "properties": {
         "plate": 9,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z664"
       },
       "geometry": {
         "type": "Polygon",
@@ -1563,7 +1578,8 @@
       "type": "Feature",
       "properties": {
         "plate": 10,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z67d"
       },
       "geometry": {
         "type": "Polygon",
@@ -1645,7 +1661,8 @@
       "type": "Feature",
       "properties": {
         "plate": 7,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z64k"
       },
       "geometry": {
         "type": "Polygon",
@@ -1747,7 +1764,8 @@
       "type": "Feature",
       "properties": {
         "plate": 6,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z639"
       },
       "geometry": {
         "type": "Polygon",
@@ -1841,7 +1859,8 @@
       "type": "Feature",
       "properties": {
         "plate": 5,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z621"
       },
       "geometry": {
         "type": "Polygon",
@@ -1935,7 +1954,8 @@
       "type": "Feature",
       "properties": {
         "plate": 14,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z710"
       },
       "geometry": {
         "type": "Polygon",
@@ -2005,7 +2025,8 @@
       "type": "Feature",
       "properties": {
         "plate": 4,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z61r"
       },
       "geometry": {
         "type": "Polygon",
@@ -2131,7 +2152,8 @@
       "type": "Feature",
       "properties": {
         "plate": 12,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z69z"
       },
       "geometry": {
         "type": "Polygon",
@@ -2265,7 +2287,8 @@
       "type": "Feature",
       "properties": {
         "plate": 13,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z70q"
       },
       "geometry": {
         "type": "Polygon",
@@ -2351,7 +2374,8 @@
       "type": "Feature",
       "properties": {
         "plate": 24,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z817"
       },
       "geometry": {
         "type": "Polygon",
@@ -2397,7 +2421,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z82h"
       },
       "geometry": {
         "type": "Polygon",
@@ -2471,7 +2496,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)"
+        "atlas": "Insurance map of Boston. Vol. 1. (D.A. Sanborn, 1867)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446z82h"
       },
       "geometry": {
         "type": "Polygon",
