@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": "a",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446r93s"
       },
       "geometry": {
         "type": "Polygon",
@@ -63,7 +64,8 @@
       "type": "Feature",
       "properties": {
         "plate": "b",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446r942"
       },
       "geometry": {
         "type": "Polygon",
@@ -109,7 +111,8 @@
       "type": "Feature",
       "properties": {
         "plate": "c",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446r95b"
       },
       "geometry": {
         "type": "Polygon",
@@ -203,7 +206,8 @@
       "type": "Feature",
       "properties": {
         "plate": "d",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446r96m"
       },
       "geometry": {
         "type": "Polygon",
@@ -301,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "plate": "e",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446r97w"
       },
       "geometry": {
         "type": "Polygon",
@@ -383,7 +388,8 @@
       "type": "Feature",
       "properties": {
         "plate": "f",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446r985"
       },
       "geometry": {
         "type": "Polygon",
@@ -497,7 +503,8 @@
       "type": "Feature",
       "properties": {
         "plate": "g",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446r99f"
       },
       "geometry": {
         "type": "Polygon",
@@ -543,7 +550,8 @@
       "type": "Feature",
       "properties": {
         "plate": "h",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s000"
       },
       "geometry": {
         "type": "Polygon",
@@ -609,7 +617,8 @@
       "type": "Feature",
       "properties": {
         "plate": "i",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s018"
       },
       "geometry": {
         "type": "Polygon",
@@ -691,7 +700,8 @@
       "type": "Feature",
       "properties": {
         "plate": "j and p",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s02j"
       },
       "geometry": {
         "type": "Polygon",
@@ -749,7 +759,8 @@
       "type": "Feature",
       "properties": {
         "plate": "k and p",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s03t"
       },
       "geometry": {
         "type": "Polygon",
@@ -827,7 +838,8 @@
       "type": "Feature",
       "properties": {
         "plate": "l and p",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s043"
       },
       "geometry": {
         "type": "Polygon",
@@ -941,7 +953,8 @@
       "type": "Feature",
       "properties": {
         "plate": "m and p",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s05c"
       },
       "geometry": {
         "type": "Polygon",
@@ -1035,7 +1048,8 @@
       "type": "Feature",
       "properties": {
         "plate": "n and r",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s06n"
       },
       "geometry": {
         "type": "Polygon",
@@ -1125,7 +1139,8 @@
       "type": "Feature",
       "properties": {
         "plate": "o and q",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s07x"
       },
       "geometry": {
         "type": "Polygon",
@@ -1219,7 +1234,8 @@
       "type": "Feature",
       "properties": {
         "plate": "q",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s09g"
       },
       "geometry": {
         "type": "Polygon",
@@ -1505,7 +1521,8 @@
       "type": "Feature",
       "properties": {
         "plate": "p",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s086"
       },
       "geometry": {
         "type": "Polygon",
@@ -1559,7 +1576,8 @@
       "type": "Feature",
       "properties": {
         "plate": "p",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s086"
       },
       "geometry": {
         "type": "Polygon",
@@ -1613,7 +1631,8 @@
       "type": "Feature",
       "properties": {
         "plate": "r",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 3 : South Boston and Dorchester. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s107"
       },
       "geometry": {
         "type": "Polygon",
