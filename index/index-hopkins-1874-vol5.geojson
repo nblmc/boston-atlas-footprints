@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": "A",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s34t"
       },
       "geometry": {
         "type": "Polygon",
@@ -103,7 +104,8 @@
       "type": "Feature",
       "properties": {
         "plate": "B",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s353"
       },
       "geometry": {
         "type": "Polygon",
@@ -217,7 +219,8 @@
       "type": "Feature",
       "properties": {
         "plate": "C",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s36c"
       },
       "geometry": {
         "type": "Polygon",
@@ -291,7 +294,8 @@
       "type": "Feature",
       "properties": {
         "plate": "D",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s37n"
       },
       "geometry": {
         "type": "Polygon",
@@ -441,7 +445,8 @@
       "type": "Feature",
       "properties": {
         "plate": "E",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s38x"
       },
       "geometry": {
         "type": "Polygon",
@@ -579,7 +584,8 @@
       "type": "Feature",
       "properties": {
         "plate": "F",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s396"
       },
       "geometry": {
         "type": "Polygon",
@@ -673,7 +679,8 @@
       "type": "Feature",
       "properties": {
         "plate": "H",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s417"
       },
       "geometry": {
         "type": "Polygon",
@@ -799,7 +806,8 @@
       "type": "Feature",
       "properties": {
         "plate": "G",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s40z"
       },
       "geometry": {
         "type": "Polygon",
@@ -889,7 +897,8 @@
       "type": "Feature",
       "properties": {
         "plate": "I",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s42h"
       },
       "geometry": {
         "type": "Polygon",
@@ -983,7 +992,8 @@
       "type": "Feature",
       "properties": {
         "plate": "J",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s43s"
       },
       "geometry": {
         "type": "Polygon",
@@ -1101,7 +1111,8 @@
       "type": "Feature",
       "properties": {
         "plate": "K",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s442"
       },
       "geometry": {
         "type": "Polygon",
@@ -1195,7 +1206,8 @@
       "type": "Feature",
       "properties": {
         "plate": "L",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s45b"
       },
       "geometry": {
         "type": "Polygon",
@@ -1229,7 +1241,8 @@
       "type": "Feature",
       "properties": {
         "plate": "M",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s46m"
       },
       "geometry": {
         "type": "Polygon",
@@ -1355,7 +1368,8 @@
       "type": "Feature",
       "properties": {
         "plate": "N",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s47w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1453,7 +1467,8 @@
       "type": "Feature",
       "properties": {
         "plate": "Q",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s506"
       },
       "geometry": {
         "type": "Polygon",
@@ -1535,7 +1550,8 @@
       "type": "Feature",
       "properties": {
         "plate": "P",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s49f"
       },
       "geometry": {
         "type": "Polygon",
@@ -1617,7 +1633,8 @@
       "type": "Feature",
       "properties": {
         "plate": "O",
-        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)"
+        "atlas": "Atlas of the county of Suffolk, Massachusetts. Vol. 5: West Roxbury, now ward 17, Boston. (G.M. Hopkins & Co., 1874)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446s485"
       },
       "geometry": {
         "type": "Polygon",
