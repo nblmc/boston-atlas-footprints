@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "plate": 1,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x38r"
       },
       "geometry": {
         "type": "Polygon",
@@ -199,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "plate": 2,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x391"
       },
       "geometry": {
         "type": "Polygon",
@@ -341,7 +343,8 @@
       "type": "Feature",
       "properties": {
         "plate": 3,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x40s"
       },
       "geometry": {
         "type": "Polygon",
@@ -431,7 +434,8 @@
       "type": "Feature",
       "properties": {
         "plate": 4,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x412"
       },
       "geometry": {
         "type": "Polygon",
@@ -573,7 +577,8 @@
       "type": "Feature",
       "properties": {
         "plate": 5,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x42b"
       },
       "geometry": {
         "type": "Polygon",
@@ -747,7 +752,8 @@
       "type": "Feature",
       "properties": {
         "plate": 6,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x43m"
       },
       "geometry": {
         "type": "Polygon",
@@ -917,7 +923,8 @@
       "type": "Feature",
       "properties": {
         "plate": 7,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x44w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1083,7 +1090,8 @@
       "type": "Feature",
       "properties": {
         "plate": 8,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x455"
       },
       "geometry": {
         "type": "Polygon",
@@ -1285,7 +1293,8 @@
       "type": "Feature",
       "properties": {
         "plate": 9,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x46f"
       },
       "geometry": {
         "type": "Polygon",
@@ -1339,7 +1348,8 @@
       "type": "Feature",
       "properties": {
         "plate": 10,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x47q"
       },
       "geometry": {
         "type": "Polygon",
@@ -1533,7 +1543,8 @@
       "type": "Feature",
       "properties": {
         "plate": 11,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x480"
       },
       "geometry": {
         "type": "Polygon",
@@ -1731,7 +1742,8 @@
       "type": "Feature",
       "properties": {
         "plate": 12,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x498"
       },
       "geometry": {
         "type": "Polygon",
@@ -1901,7 +1913,8 @@
       "type": "Feature",
       "properties": {
         "plate": 13,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x501"
       },
       "geometry": {
         "type": "Polygon",
@@ -2047,7 +2060,8 @@
       "type": "Feature",
       "properties": {
         "plate": 14,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x519"
       },
       "geometry": {
         "type": "Polygon",
@@ -2233,7 +2247,8 @@
       "type": "Feature",
       "properties": {
         "plate": 15,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x52k"
       },
       "geometry": {
         "type": "Polygon",
@@ -2391,7 +2406,8 @@
       "type": "Feature",
       "properties": {
         "plate": 16,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x53v"
       },
       "geometry": {
         "type": "Polygon",
@@ -2601,7 +2617,8 @@
       "type": "Feature",
       "properties": {
         "plate": 17,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x544"
       },
       "geometry": {
         "type": "Polygon",
@@ -2767,7 +2784,8 @@
       "type": "Feature",
       "properties": {
         "plate": 18,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x55d"
       },
       "geometry": {
         "type": "Polygon",
@@ -2945,7 +2963,8 @@
       "type": "Feature",
       "properties": {
         "plate": 19,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x56p"
       },
       "geometry": {
         "type": "Polygon",
@@ -3055,7 +3074,8 @@
       "type": "Feature",
       "properties": {
         "plate": 20,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x57z"
       },
       "geometry": {
         "type": "Polygon",
@@ -3173,7 +3193,8 @@
       "type": "Feature",
       "properties": {
         "plate": 21,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x587"
       },
       "geometry": {
         "type": "Polygon",
@@ -3315,7 +3336,8 @@
       "type": "Feature",
       "properties": {
         "plate": 22,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x59h"
       },
       "geometry": {
         "type": "Polygon",
@@ -3469,7 +3491,8 @@
       "type": "Feature",
       "properties": {
         "plate": 23,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x608"
       },
       "geometry": {
         "type": "Polygon",
@@ -3631,7 +3654,8 @@
       "type": "Feature",
       "properties": {
         "plate": 24,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x61j"
       },
       "geometry": {
         "type": "Polygon",
@@ -3813,7 +3837,8 @@
       "type": "Feature",
       "properties": {
         "plate": 25,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x62t"
       },
       "geometry": {
         "type": "Polygon",
@@ -4027,7 +4052,8 @@
       "type": "Feature",
       "properties": {
         "plate": 26,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x633"
       },
       "geometry": {
         "type": "Polygon",
@@ -4157,7 +4183,8 @@
       "type": "Feature",
       "properties": {
         "plate": 27,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x64c"
       },
       "geometry": {
         "type": "Polygon",
@@ -4391,7 +4418,8 @@
       "type": "Feature",
       "properties": {
         "plate": 28,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x65n"
       },
       "geometry": {
         "type": "Polygon",
@@ -4557,7 +4585,8 @@
       "type": "Feature",
       "properties": {
         "plate": 29,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x66x"
       },
       "geometry": {
         "type": "Polygon",
@@ -4687,7 +4716,8 @@
       "type": "Feature",
       "properties": {
         "plate": 30,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x676"
       },
       "geometry": {
         "type": "Polygon",
@@ -4849,7 +4879,8 @@
       "type": "Feature",
       "properties": {
         "plate": 31,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x68g"
       },
       "geometry": {
         "type": "Polygon",
@@ -4947,7 +4978,8 @@
       "type": "Feature",
       "properties": {
         "plate": 32,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x69r"
       },
       "geometry": {
         "type": "Polygon",
@@ -5005,7 +5037,8 @@
       "type": "Feature",
       "properties": {
         "plate": 33,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x70h"
       },
       "geometry": {
         "type": "Polygon",
@@ -5187,7 +5220,8 @@
       "type": "Feature",
       "properties": {
         "plate": 34,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x71s"
       },
       "geometry": {
         "type": "Polygon",
@@ -5389,7 +5423,8 @@
       "type": "Feature",
       "properties": {
         "plate": 35,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x722"
       },
       "geometry": {
         "type": "Polygon",
@@ -5535,7 +5570,8 @@
       "type": "Feature",
       "properties": {
         "plate": 36,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x73b"
       },
       "geometry": {
         "type": "Polygon",
@@ -5753,7 +5789,8 @@
       "type": "Feature",
       "properties": {
         "plate": 37,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x74m"
       },
       "geometry": {
         "type": "Polygon",
@@ -6003,7 +6040,8 @@
       "type": "Feature",
       "properties": {
         "plate": 38,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x75w"
       },
       "geometry": {
         "type": "Polygon",
@@ -6377,7 +6415,8 @@
       "type": "Feature",
       "properties": {
         "plate": 39,
-        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)"
+        "atlas": "Atlas of the city of Boston : Dorchester. (G.W. Bromley & Co., 1898)",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:6h446x765"
       },
       "geometry": {
         "type": "Polygon",
