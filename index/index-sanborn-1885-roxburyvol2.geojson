@@ -502,7 +502,7 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 44,
+        "plate": "44 [missing in BPL copy]",
         "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz39r"
       },
       "geometry": {
