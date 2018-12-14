@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 66
+        "plate": 66,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500223"
       },
       "geometry": {
         "type": "Polygon",
@@ -83,7 +84,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 68
+        "plate": 68,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500266"
       },
       "geometry": {
         "type": "Polygon",
@@ -117,7 +119,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 67
+        "plate": 67,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250024n"
       },
       "geometry": {
         "type": "Polygon",
@@ -159,7 +162,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 68
+        "plate": 68,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500266"
       },
       "geometry": {
         "type": "Polygon",
@@ -193,7 +197,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 69
+        "plate": 69,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250028r"
       },
       "geometry": {
         "type": "Polygon",
@@ -243,7 +248,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 70
+        "plate": 70,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250030s"
       },
       "geometry": {
         "type": "Polygon",
@@ -301,7 +307,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 71
+        "plate": 71,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250032b"
       },
       "geometry": {
         "type": "Polygon",
@@ -355,7 +362,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 65
+        "plate": 65,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250020j"
       },
       "geometry": {
         "type": "Polygon",
@@ -417,7 +425,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 64
+        "plate": 64,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250018h"
       },
       "geometry": {
         "type": "Polygon",
@@ -475,7 +484,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 63
+        "plate": 63,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250016z"
       },
       "geometry": {
         "type": "Polygon",
@@ -521,7 +531,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": " 61"
+        "plate": 61,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250012v"
       },
       "geometry": {
         "type": "Polygon",
@@ -571,7 +582,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 62
+        "plate": 62,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250014d"
       },
       "geometry": {
         "type": "Polygon",
@@ -625,7 +637,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 60
+        "plate": 60,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500109"
       },
       "geometry": {
         "type": "Polygon",
@@ -667,7 +680,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 59
+        "plate": 59,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500088"
       },
       "geometry": {
         "type": "Polygon",
@@ -713,7 +727,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 58
+        "plate": 58,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250006q"
       },
       "geometry": {
         "type": "Polygon",
@@ -767,7 +782,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 57
+        "plate": 57,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500045"
       },
       "geometry": {
         "type": "Polygon",
@@ -821,7 +837,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": "84A"
+        "plate": "84A",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250060h"
       },
       "geometry": {
         "type": "Polygon",
@@ -867,7 +884,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 82
+        "plate": 82,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250054c"
       },
       "geometry": {
         "type": "Polygon",
@@ -913,7 +931,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 80
+        "plate": 80,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500508"
       },
       "geometry": {
         "type": "Polygon",
@@ -967,7 +986,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 81
+        "plate": 81,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250052t"
       },
       "geometry": {
         "type": "Polygon",
@@ -1001,7 +1021,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 81
+        "plate": 81,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250052t"
       },
       "geometry": {
         "type": "Polygon",
@@ -1063,7 +1084,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 79
+        "plate": 79,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500487"
       },
       "geometry": {
         "type": "Polygon",
@@ -1117,7 +1139,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 81
+        "plate": 81,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250052t"
       },
       "geometry": {
         "type": "Polygon",
@@ -1163,7 +1186,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 84
+        "plate": 84,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250058g"
       },
       "geometry": {
         "type": "Polygon",
@@ -1237,7 +1261,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 83
+        "plate": 83,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250056x"
       },
       "geometry": {
         "type": "Polygon",
@@ -1287,7 +1312,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 78
+        "plate": 78,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250046p"
       },
       "geometry": {
         "type": "Polygon",
@@ -1333,7 +1359,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 77
+        "plate": 77,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500444"
       },
       "geometry": {
         "type": "Polygon",
@@ -1363,7 +1390,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 77
+        "plate": 77,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500444"
       },
       "geometry": {
         "type": "Polygon",
@@ -1401,7 +1429,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 76
+        "plate": 76,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250042k"
       },
       "geometry": {
         "type": "Polygon",
@@ -1467,7 +1496,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 75
+        "plate": 75,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500401"
       },
       "geometry": {
         "type": "Polygon",
@@ -1521,7 +1551,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 74
+        "plate": 74,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500380"
       },
       "geometry": {
         "type": "Polygon",
@@ -1563,7 +1594,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 73
+        "plate": 73,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250036f"
       },
       "geometry": {
         "type": "Polygon",
@@ -1601,7 +1633,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 3: South and East Boston. (D.A. Sanborn, 1875. Updated to July, 1884)",
-        "plate": 72
+        "plate": 72,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht250034w"
       },
       "geometry": {
         "type": "Polygon",
