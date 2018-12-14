@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 54
+        "plate": 54,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz96c"
       },
       "geometry": {
         "type": "Polygon",
@@ -91,7 +92,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 56
+        "plate": 56,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht2500002"
       },
       "geometry": {
         "type": "Polygon",
@@ -145,7 +147,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 55
+        "plate": 55,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz98x"
       },
       "geometry": {
         "type": "Polygon",
@@ -211,7 +214,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 52
+        "plate": 52,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz928"
       },
       "geometry": {
         "type": "Polygon",
@@ -289,7 +293,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 47
+        "plate": 47,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz821"
       },
       "geometry": {
         "type": "Polygon",
@@ -383,7 +388,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 46
+        "plate": 46,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz80g"
       },
       "geometry": {
         "type": "Polygon",
@@ -453,7 +459,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 45
+        "plate": 45,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz78f"
       },
       "geometry": {
         "type": "Polygon",
@@ -545,7 +552,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 45
+        "plate": 45,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz78f"
       },
       "geometry": {
         "type": "Polygon",
@@ -599,7 +607,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 49
+        "plate": 49,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz864"
       },
       "geometry": {
         "type": "Polygon",
@@ -645,7 +654,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 53
+        "plate": 53,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz94t"
       },
       "geometry": {
         "type": "Polygon",
@@ -707,7 +717,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 46
+        "plate": 46,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz80g"
       },
       "geometry": {
         "type": "Polygon",
@@ -749,7 +760,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 51
+        "plate": 51,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz90q"
       },
       "geometry": {
         "type": "Polygon",
@@ -787,7 +799,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 50
+        "plate": 50,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz88p"
       },
       "geometry": {
         "type": "Polygon",
@@ -853,7 +866,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 48
+        "plate": 48,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz84k"
       },
       "geometry": {
         "type": "Polygon",
@@ -919,7 +933,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 43
+        "plate": 43,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz75m"
       },
       "geometry": {
         "type": "Polygon",
@@ -957,7 +972,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 34
+        "plate": 34,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz57p"
       },
       "geometry": {
         "type": "Polygon",
@@ -991,7 +1007,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 31
+        "plate": 31,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz511"
       },
       "geometry": {
         "type": "Polygon",
@@ -1045,7 +1062,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 42
+        "plate": 42,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz732"
       },
       "geometry": {
         "type": "Polygon",
@@ -1091,7 +1109,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 33
+        "plate": 33,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz554"
       },
       "geometry": {
         "type": "Polygon",
@@ -1141,7 +1160,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 41
+        "plate": 41,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz71h"
       },
       "geometry": {
         "type": "Polygon",
@@ -1187,7 +1207,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 32
+        "plate": 32,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz53k"
       },
       "geometry": {
         "type": "Polygon",
@@ -1245,7 +1266,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 29
+        "plate": 29,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz47f"
       },
       "geometry": {
         "type": "Polygon",
@@ -1299,7 +1321,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 30
+        "plate": 30,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz490"
       },
       "geometry": {
         "type": "Polygon",
@@ -1353,7 +1376,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 40
+        "plate": 40,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz69g"
       },
       "geometry": {
         "type": "Polygon",
@@ -1387,7 +1411,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 51
+        "plate": 51,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz90q"
       },
       "geometry": {
         "type": "Polygon",
@@ -1429,7 +1454,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 39
+        "plate": 39,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz67x"
       },
       "geometry": {
         "type": "Polygon",
@@ -1479,7 +1505,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 37
+        "plate": 37,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz63t"
       },
       "geometry": {
         "type": "Polygon",
@@ -1513,7 +1540,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 38
+        "plate": 38,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz65c"
       },
       "geometry": {
         "type": "Polygon",
@@ -1551,7 +1579,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 36
+        "plate": 36,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz618"
       },
       "geometry": {
         "type": "Polygon",
@@ -1585,7 +1614,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 26
+        "plate": 26,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz41s"
       },
       "geometry": {
         "type": "Polygon",
@@ -1623,7 +1653,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 35
+        "plate": 35,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz597"
       },
       "geometry": {
         "type": "Polygon",
@@ -1677,7 +1708,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 28
+        "plate": 28,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz45w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1743,7 +1775,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 27
+        "plate": 27,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz43b"
       },
       "geometry": {
         "type": "Polygon",
@@ -1809,7 +1842,8 @@
       "type": "Feature",
       "properties": {
         "atlas": "Insurance maps of Boston. Vol. 2. (National Diagram Bureau, 1874. Updated to June 1985)",
-        "plate": 49
+        "plate": 49,
+        "url": "https://collections.leventhalmap.org/search/commonwealth:ht24zz864"
       },
       "geometry": {
         "type": "Polygon",
