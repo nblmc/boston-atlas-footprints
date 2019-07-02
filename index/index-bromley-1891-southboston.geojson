@@ -6,7 +6,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 32,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5537"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5537",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -65,7 +66,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 31,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z551p"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z551p",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -120,7 +122,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 13,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z515t"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z515t",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -199,7 +202,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 12,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5138"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5138",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -254,7 +258,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 14,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z517c"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z517c",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -321,7 +326,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 15,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z519x"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z519x",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -368,7 +374,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 10,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z509p"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z509p",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -407,7 +414,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 11,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z511q"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z511q",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -454,7 +462,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 2,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z4930"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z4930",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -493,7 +502,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 1,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z491f"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z491f",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -540,7 +550,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 9,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5074"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5074",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -575,7 +586,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 7,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5031"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5031",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -618,7 +630,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 5,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z499n"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z499n",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -669,7 +682,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 4,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z4973"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z4973",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -728,7 +742,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 3,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z495j"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z495j",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -775,7 +790,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 30,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z549n"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z549n",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -846,7 +862,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 8,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z505k"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z505k",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -893,7 +910,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 16,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z521z"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z521z",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -940,7 +958,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 17,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z523h"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z523h",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -983,7 +1002,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 20,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5295"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5295",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1018,7 +1038,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 18,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5252"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5252",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1053,7 +1074,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 19,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z527m"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z527m",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1088,7 +1110,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 22,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z533r"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z533r",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1127,7 +1150,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 23,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5359"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5359",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1170,7 +1194,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 24,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z537v"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z537v",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1217,7 +1242,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 26,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z541f"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z541f",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1260,7 +1286,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 25,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z539d"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z539d",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1295,7 +1322,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 21,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5316"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5316",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1342,7 +1370,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 27,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5430"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5430",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1405,7 +1434,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 33,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z555s"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z555s",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1448,7 +1478,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 28,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z545j"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z545j",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1495,7 +1526,8 @@
       "properties": {
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
         "plate": 29,
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5473"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z5473",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
@@ -1542,7 +1574,8 @@
       "properties": {
         "plate": 6,
         "atlas": "Atlas of the city of Boston : South Boston. (G.W. Bromley & Co., 1891)",
-        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z501g"
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9g54z501g",
+        "mosaic": "https://geoservices.leventhalmap.org/South_Boston/yr1891/G1234_B6_B7_1888v8/"
       },
       "geometry": {
         "type": "Polygon",
